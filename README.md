@@ -22,7 +22,7 @@ You can read more about the details of our work in the following research paper:
 
 https://github.com/wspr-ncsu/extensiondeltas/paper/extensionUpdateDeltas.pdf<br/>
 Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos<br/>
-InProceedings of the ACM Conference onComputer and Communications Security (CCS), 2020
+In Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
 
 ```
 Bib Citation
