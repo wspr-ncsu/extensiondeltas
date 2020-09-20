@@ -1,0 +1,9 @@
+Filter out postings that you were not selected for on Waterloo works.
+Adds a list option under Jobs / Applications and Interviews.
+
+Click reject rejections followed by remove clutter.
+
+Source: https://github.com/RichardJCai/Waterloo-Works-Reject-Rejections
+
+Use at your own discretion.
+Waterloo Works / Waterlooworks

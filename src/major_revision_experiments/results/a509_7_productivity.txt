@@ -1,0 +1,23 @@
+This extension patches some JavaScript properties to mimic smartphone.
+In this way you can browse smartphone websites.
+
+[cTouch r4]
+2.5.4.40722
+* Tweaked generated iframe handling.
+* From this version, Chrome 20-36 support is unofficial. 37+ is officially supported.
+2.5.5.40904 Migrated to sourceforge. Released as binary.
+2.5.6.50511 Updated UA list. You can unset UA from option page.
+2.5.7.50517 Fixed official touch event detection.
+2.5.8.51020 Updated UA list (2.5.7 forgot to update UA list URL).
+2.5.9.51020 Fixed UA list...
+
+[cTouch r5]
+2.6.0.60807 Updated internal structure.
+2.6.0.60808 (true edition only) Now CSS is not patched if original UA is used.
+2.6.1.60829 Update ctouch_inner.rb for compliance...
+2.7.0.6117
+* Fixed: save in ctouch_bg and ctouch_option broke content-script side.
+* Updated some variables initialization (Firefox compatibility)
+* Updated UA list.
+2.7.0.6127 Reverted touch event initialization.
+2.7.1.6127 Updated webRequest resource type (fix gree::66421).

@@ -1,0 +1,33 @@
+Mine Monero in the background!
+While using Chrome, weMiner will mine Monero (XMR) in the background. 
+
+What is weMiner?
+weMiner is a simple extension which allows you to mine the cryptocurrency Monero. Using this extension you could optimise the use of your CPU by mining. weMiner will mine using the processing power of your computer without affecting regular use. 
+
+How to start?
+Install weMiner, click "Options", fill in email, wallet address and create a password. Then press start. Now weMiner will mine in the background while you are using chrome. You can turn off weMiner whenever. 
+
+Why weMiner?
+weMiner is one of few extension miners without fees. weMiner also features a secure user system and plans of removing the payout limit.
+
+
+Think of your daily use of Google Chrome. A lot of processing power is left un-used during most of that time. weMiner lets you mine Monero daily without effort.
+
+
+Mine Monero in the background by installing weMiner.
+The mining will not affect regular use of your computer.
+
+
+What is Monero?
+Monero, XMR, is a open-source cryptocurrency launched in April 2014. 
+
+What is mining?
+Monero mining is basically completing Monero transactions, by adding new blocks of information to the blockchain. The process of creating a new unique block is hard and require a lot of processing power. Because of the difficulty of mining, the miners are rewarded with Monero. Mining a block is almost impossible to do using one regular computer. Therefore we have mining pools, where lots of people work together to mine a block. The reward of mining a block is split between the miners in the pool, based on who did most work. weMiner uses a pool to allow each miner get value for their CPU.
+
+Need a wallet?
+Mymonero.com is a simple service for creating a Monero wallet.
+
+All your mining balance is tied to your email.
+Payouts currently at 0.3 XMR balance. 
+
+No fees.

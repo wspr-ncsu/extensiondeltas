@@ -1,0 +1,4 @@
+The easiest and most convenient way to see Movie Trailers and IMDB ratings while browsing on Netflix. With this chrome extension it makes it so much easier, no copy paste or typing it out. You don't even have to leave the page. Just simply click the red 'play trailer' button added above the movie or tv-show you're interested in. The top half of the screen will display trailer, letting continue to browse while the trailer plays.
+
+-- Updates made to fix the extension due to Netflix updates.
+-- Updated rating API.

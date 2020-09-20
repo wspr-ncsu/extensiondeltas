@@ -1,0 +1,1 @@
+When creating a new merge request on gitlab it does not contain the title and the description of your commit message. In case you are used to rebase to only one commit, this extension will autofill title and description according to the content of your commit.

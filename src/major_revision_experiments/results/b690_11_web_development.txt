@@ -1,0 +1,13 @@
+Instructions for use:
+
+1) Install this theme
+
+2) Enable DevTools experiments here chrome://flags/#enable-devtools-experiments & relaunch Chrome
+
+3) Open DevTools [CTRL/CMD + SHIFT + I], go to Settings > Experiments, and toggle 'Allow UI themes' experiment
+
+4) Reload DevTools
+
+Questions? https://github.com/jasonw-me/devtools-theme-twilight-spacegray
+
+Issues? https://github.com/jasonw-me/devtools-theme-twilight-spacegray/issues

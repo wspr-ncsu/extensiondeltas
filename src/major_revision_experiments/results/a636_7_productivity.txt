@@ -1,0 +1,13 @@
+RSI Companion is a powerful application with a simple goal: Display and analyses data from https://robertsspaceindustries.com/
+
+This tool allows you to:
+- Comm-Link: Get latest News from RSI website
+- Spectrum: Get latest CIG threads and notification
+- Ships: Easily view and search thru ship list. Also, you may have an overview of your hanger and your In-Game ships (including loaners)
+- Contacts: Manage your contacts and Copy them into PTU
+- Organizations: View and Follow Organization members
+- Roadmap: View latest roadmaps for SC & SQ42 (including difference from previous week and history)
+
+In order to use the application, you need to have an RSI account and be connected on RSI website.
+
+Disclaimer : Your RSI data are accessed only locally and are not sent to any third party application.

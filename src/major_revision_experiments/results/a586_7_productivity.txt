@@ -1,0 +1,34 @@
+Gamasutra Beautifier is a tiny extension that tries to bring Gamasutra.com design to the 21st century.
+
+This extension grew out of my frustration of browsing Gamasutra.com. 
+
+The website holds a trove of valuable information for game developers and game development enthousiasts, hidden under an out-of-date design, which hinders readability.
+
+I started applying some custom CSS rules in the article pages of Gamasutra.com which I expanded on the homepage and listing pages of the site.
+
+This should not be considered by any way a suggested redesign, but just a way to make the site more readable.
+
+In that sense, I haven't also removed any of the banners from the website.
+
+Improvements
+---
+
+* Full width articles.
+* Improved code snippets.
+* Improved home page design.
+* Improved author pages.
+* Better header design with a simplified version of Gamasutra logo.
+* Full width embedded Youtube videos.
+* Improved and high-res favicon.
+* Better experience when clicking an outbound link (no more target attributes!).
+* Button to return to the old design.
+
+Disclaimer
+---
+
+This extension and myself are by no means affiliated with Gamasutra.com.
+
+Open Source
+---
+
+This is an open source extension: https://gitlab.com/stelabouras/gamasutra-beautifier

@@ -1,0 +1,1 @@
+This extension is a Google Drive / Google Calendar add-on for 702 Helicopters that allows them to call, text or email customers with reservations in the google calendar or spreadsheet, process payments, and transfer calls.

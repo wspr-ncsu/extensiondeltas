@@ -1,0 +1,1 @@
+This is a password manager. It allows you to access the Internet safely.

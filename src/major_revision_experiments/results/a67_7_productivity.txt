@@ -1,0 +1,3 @@
+La consultation des articles scientifique via IEEE Explorer se fait au travers d'une comportant des iframes. Ces iframes affichent un bandeau inutile, provoquent des saccades lors du défilé de la page, empêche de zoomer sur le document et empêche une sauvegarde aisée du fichier PDF. Cette extension effectue une simple redirection vers le fichier PDF nu ce qui résout l'ensemble des problèmes énoncés.
+
+Bug connu, le bouton précédent ne fonctionne plus ; cliquez 2 fois sur précédent pour revenir effectivement à la page précédente.

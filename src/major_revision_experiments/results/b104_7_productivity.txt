@@ -1,0 +1,9 @@
+This extension adds a big, lovely "Send to OmniFocus" button atop the right column of the JIRA ticket page.  Click that button to quickly send a JIRA ticket into OmniFocus.  The extension also supports Mail Drop, so you can send items to your OmniFocus Inbox even if you haven't got OmniFocus installed on this computer. (Yes, even from Linux or Windows.)
+
+Use it to allocate today's work. Use it to remember to follow up on some ticket, even one that's not yours (let's face it: merely being a watcher isn't all that useful when you've got a mountain of things you're responsible for).
+
+Please take a moment to rate it and provide a review, whether you love it or not.
+
+Finally, I'd like to hear from folks using this extension, but I don't get notifications of comments posted to the extension page. I check in periodically, but I cannot respond to reviews that users post. So if you'd like to contact me more interactively, please do feel free to me a message on Twitter @prometheas.
+
+ALSO: I'm working on an extensible successor to this extension, which I intend to be able to support multiple browsers and multiple task management apps. Reach out if that sounds interesting to you.

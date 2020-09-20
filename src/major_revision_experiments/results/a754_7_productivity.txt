@@ -1,0 +1,8 @@
+A simple extension that allows you to stream your desktop into meetings with CliqMeet.
+No installation and no Flash required. CliqMeet is a HTML5 Web conferencing solution. It works on any device. 
+
+You can try it out yourself at https://www.cliqmeet.com.
+
+This extension provides the cliqmeet site with desktop streaming functionality over Chrome.
+
+Start online meetings with one click and perform video conferencing, screen sharing , whiteboard and online presentations and even record everything.

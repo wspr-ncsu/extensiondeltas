@@ -1,0 +1,3 @@
+The input width is configured as 16 bits, which means that the 16th bit of the input data is the sign bit, the 15th and 14th bits are integer bits, and the other bits are decimal places, which is equivalent to 13 signed fixed-point decimal places;
+
+The output width is configured with 16 bits. The upper 16 bits indicate the sinh result. The 16th sign bit, the 15th integer bit, and other decimal places are equivalent to 13 signed fixed-point decimal points.

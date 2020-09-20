@@ -1,0 +1,10 @@
+Tools to help you secure yourself from Phishing scams within the Ethereum world.
+
+* Detect similar Twitter handles to whitelisted cryptocurrency-based Twitter accounts and puts a warning around the tweet.
+* Puts a "Verified" badge next to the tweet handle so you know the account is whitelisted.
+* Blacklists/Redirects you away from known bad domains using metamask/eth-phishing-detect
+
+Currently in BETA phase.
+Push issues to https://github.com/409H/EtherSecurityLookup/
+
+Donation address: 0x661b5dc032bedb210f225df4b1aa2bdd669b38bc

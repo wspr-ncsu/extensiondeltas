@@ -1,0 +1,10 @@
+Adds a button to the formatting bar to Syntax Highlight a code selection.
+
+It supports more than 100 different languages including HTML, JS, CSS, Bash, C, C++, Java, Python, Ruby, etc.
+
+Autodetect or force the use of specific language. To specify a language type the language name as the first line of the snippet.
+
+For support or issues, please visit our Github and open an issue:
+https://github.com/ktryber/gmail-highlight/issues
+
+Thanks https://github.com/markustauscher for contributing to the project.

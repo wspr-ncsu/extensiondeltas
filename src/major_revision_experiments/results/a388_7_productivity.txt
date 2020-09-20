@@ -1,0 +1,1 @@
+PageRecorder allows you to capture video of tab content and your interaction with it. It works without calls to any external services and uses only built in Chrome APIs. Generated video is in WebM format.

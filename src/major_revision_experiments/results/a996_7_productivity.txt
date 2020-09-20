@@ -1,0 +1,4 @@
+Need a text converted to binary code? or the other way around? This extension does the job for you, in a simple way. just type in the text or binary and it will convert it for you.
+
+- New in 0.0.0.3
+Styling

@@ -1,0 +1,5 @@
+This extension is designed to be used with Baton Simulations's Digital Adoption Solution (DAS) for SAP Ariba.
+
+FEATURES
+
+-Translation: On-the-fly translation for an international audience.

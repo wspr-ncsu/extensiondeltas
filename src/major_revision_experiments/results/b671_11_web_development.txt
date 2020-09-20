@@ -1,0 +1,1 @@
+It helps the user for auto login into our job portals based on account selection. It fetches user credentials from internal database and open the selected account to redirect users on job portals.

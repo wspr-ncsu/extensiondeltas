@@ -1,0 +1,15 @@
+Wizergos is a cloud based collaborative application that helps your team become effective in running great meetings.
+
+Key Benefits
+
+Manage Information: Minutes, Notes, Decisions, Action Items kept in a central location, accessible from all devices. Run structured and effective meetings with Agenda and Preparations. Collaboratively decide on meeting Agenda.
+Smart Scheduling: Let the tool select most optimal time and venue for your meetings. Alternately, schedule meetings collaboratively. Appointment Board for external Meeting Scheduling.
+Track Action Items: Never miss an Action Item again. Assign, track, review progress of all Action Items.
+Strategic Meetings: Run very effective brainstorming meetings using brain-write process.
+Ratings and Feedback: Continuous improvement with constant feedback loop.
+Improve Engagement in Meetings: Cloud based presentation during meetings (including from mobile phone). Real time shared screen for collaborative meetings. Share desktop or any desktop application.
+Augmented Intelligence: Let the tool help you with scheduling the right meetings with the right people for you.
+Gamification: Promote good behaviour and build productive teams.
+Email Reports: Role based, daily plans and reports in email.
+Descriptive Analytics: Insightful stats and charts to help with continuous improvement.
+Integrations: Integrated with Microsoft, Office 365, and Google Gsuite Apps

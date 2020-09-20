@@ -1,0 +1,10 @@
+Manage crypto from the security of your hardware wallet
+Ledger Live is backed up by the most trusted hardware wallet on the market. You can safely manage your crypto assets, while keeping your private keys secured offline.
+
+Send and Receive
+Easily manage your crypto
+Safely send and receive 23 coins & over 1250 ERC-20 tokens directly with your smartphone or desktop using Ledger Live.
+
+Visualize your assets
+Check your balance in real-time
+Always keep an eye on your crypto portfolio. With Ledger Live, check your real-time balance and asset distribution, anytime, anywhere.

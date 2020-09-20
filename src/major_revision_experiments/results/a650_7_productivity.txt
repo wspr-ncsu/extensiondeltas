@@ -1,0 +1,5 @@
+PushPresence allows PushBullet users to send custom messages when their computer changes activity state. When combined with IFTTT, Tasker, etc, this extension allows you to perform functions based on whether you are currently at your computer. 
+
+Examples: 
+Enable bluetooth when you are away from a computer and disable it as soon as you return (IFTTT, Tasker)
+Disable notifications for certain apps while at a computer (Android only: Requires Tasker, Secure Settings and root access)

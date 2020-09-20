@@ -1,0 +1,10 @@
+Simple and efficent tab cache. Dont mess your bookmarks with websites/articles/videos that you won't open more than once.
+
+Check shortcut menu in your chrome extensions for extra usability! 
+Default shortcuts:
+Ctrl+Q - Cache Tab
+Ctrl+Shift+Q - Open tab list
+
+New feature! Right-click on link to cache it without opening new tab! Check it out and let me know if you like it! (mail icon) 
+
+Extension is 100% free & ad-free. Enjoy.

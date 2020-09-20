@@ -1,0 +1,5 @@
+This is a plugin for TradingView to easily import and export your settings for your PTStratX.com strategy. it helps you to create and test different settings without loosing your old settings or cumbersome making note of them.
+
+This is a very early version. Your settings are copied to the clipboard, so you have to copy (cmd-v/ctrl-v) them in an external editor of your choice. There, you can save it to a file (format is json). Later, just copy the whole text back to your clipboard (cmd-c/ctrl-c) and import them again.
+
+More to come soon.

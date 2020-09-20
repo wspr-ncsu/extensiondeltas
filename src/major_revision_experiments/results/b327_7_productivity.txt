@@ -1,0 +1,4 @@
+A new tab page that helps you focus on completing your goals at work. 
+Use your countdown timer to keep yourself on track by setting a goal for how long you want to work on each task.
+The extension icon shows a badge that displays how much time you have remaining to complete your current task.
+This extension also records the number of tasks you've completed every day (called "streaks") so you can compare your productivity every day to your average working day.

@@ -1,0 +1,8 @@
+Quickest way to watch a bunch of videos on Youtube!
+
+- Add, re-order, remove videos quickly using drag-n-drop!
+- No management necessary. Close the tab and you're done
+- Automatically plays the list for you, playing videos one after another.
+- Don't want to lose the list? Export the list you just created to an actual Youtube playlist.
+
+Easy. Simple. Efficient.

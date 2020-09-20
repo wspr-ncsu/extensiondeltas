@@ -1,0 +1,1 @@
+You can dial a number directly from a web page by selecting it and right clicking it to make either a webrtc call or a call through your desktop sip phone

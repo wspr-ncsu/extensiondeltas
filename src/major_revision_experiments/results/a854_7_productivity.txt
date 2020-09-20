@@ -1,0 +1,2 @@
+This extension allows the user to see the unicode fonts in Punjabi Gurumukhi even if their system does not support it.
+-Punjabi Gurumukhi script fallback fonts  installs Punjabi Gurumukhi font (Lohit-Punjabi Gurumukhi.ttf / woff under SIL OFL 1.1 license) that enables proper rendering of Punjabi Gurumukhi script on all sites (Facebook, Twitter, Google, etc.), even if their system does not support it.

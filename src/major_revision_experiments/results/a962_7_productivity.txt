@@ -1,0 +1,28 @@
+1. Position the cursor in any text field you'd like to insert an emoji.
+2. Select and click the emoji, and it will be inserted.
+
+
+This extension is supported on GitHub, Qiita and Trello.
+
+Enjoy emoji!
+
+
+
+
+
+
+
+
+
+
+
+Icon made bySmashicons(https://www.flaticon.com/authors/smashicons) from https://www.flaticon.com/
+
+
+Open source license
+
+emoji-mart-vue-fast
+https://www.npmjs.com/package/emoji-mart-vue-fast
+
+emoji-mart
+https://github.com/missive/emoji-mart

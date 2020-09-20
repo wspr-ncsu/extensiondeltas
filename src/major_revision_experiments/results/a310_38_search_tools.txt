@@ -1,0 +1,1 @@
+This extension opens the current tab via the E-Medien Login Webproxy. To use this extension you have to be signed as student to the LMU Munich. On first time login with your LMU credentials.

@@ -1,0 +1,23 @@
+Advanced Facebook Search (AFS) is a search tool that allows its users to perform specific graph searches to find stories, connections, photos, events and interests of People on Facebook. 
+
+FAQ
+====
+
+  * What this extension does?
+
+  - It allows you to perform Facebook Graph Searches which is kind of really hard to perform these days. But AFS makes it easy!
+
+  * What are the possible usages?
+
+  + People can find likeminded people, their sources of inspirations and more.
+  + Marketers can target audiences by place, interest and more.
+  + Recruiters can search Profiles
+  + Job seekers can connect with HRs
+  + CEOs can network with other CEOs for business opportunities 
+  + And so on. 
+
+  * What permissions are requested by AFS?
+
+  - AFS requires permission to read your User ID in order to use Facebook Graph API.
+
+Disclaimer: This is not an official Facebook app and is not affiliated with Facebook in any way.

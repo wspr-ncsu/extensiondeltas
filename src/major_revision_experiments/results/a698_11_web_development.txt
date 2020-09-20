@@ -1,0 +1,1 @@
+Isn't it convenient when you look at the code and PR on github. We provide this plugin to help you enlarge the code area, you can more easily view the code and PR. Not only can you view the full web page, you can also view the code full screen. If you are a front-end developer, please help us to improve the functions together

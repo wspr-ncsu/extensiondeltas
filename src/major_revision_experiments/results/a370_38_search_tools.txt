@@ -1,0 +1,1 @@
+This is a simple but powerful web dictionary. Word database contains i.e. Wiktionary and American Heritage Dictionary

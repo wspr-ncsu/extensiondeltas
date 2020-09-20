@@ -1,0 +1,4 @@
+With this extension you can click on a number on any webpage to quickly call.
+
+After installation, use the button in the top to fill in the url of your ClearVox Nexxt and API key. 
+The plugin uses your SSL port to connect safely to the ClearVox.

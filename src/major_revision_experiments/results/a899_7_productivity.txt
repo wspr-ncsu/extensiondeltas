@@ -1,0 +1,33 @@
+Display the location and IP address of the connection you're currently using. 
+
+No more confusion which proxy or vpn connection is active at the moment.
+
+Just click to refresh, it's as easy as it gets. Or configure an interval to refresh automatically.
+
+PLEASE NOTE: The extension is using a free service to display your IP and geo location data (http://ipinfo.io/). If there seems to be a problem with a specific IP or the resulting location data I can not do anything about it since I'm not in any way affiliated with the services the extension is using. Sorry for the circumstances. I'm just happy such services exist and thus provide a stable solution for most users.
+
+Check out the source on GitHub: https://github.com/timbooo/ipgeolocation
+
+## CHANGELOG
+-- 1.6
+Replaced ipify.org and freegeoip.com with ipinfo.io
+-- 1.5
+Switched from jsonip.com to ipify.org
+Updated jQuery
+-- 1.4
+Added silent mode
+Added notifications
+Added interval functionality
+New Options
+-- v1.3
+Fixed icons
+Removed unnecessary permissions
+Improved loading/error situations
+-- v1.2
+Added the following options: show header, show lat/long, map zoom, map type
+-- v1.1.1
+Switched to a more reliable JSON IP provider.
+-- v1.1
+Added map option.
+-- v1.0
+Initial version.

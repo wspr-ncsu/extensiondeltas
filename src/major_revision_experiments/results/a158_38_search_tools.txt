@@ -1,0 +1,17 @@
+If you are looking at a board game on CoolStuffInc.com or MiniatureMarket.com, clicking the extension icon will open a new *tab* with the BoardGameGeek page for the board game you are currently looking at.  If the extension is unable to find a match at BGG, a new tab will open with a search for the game (which will most likely have no results, but  at least you'll be able to quickly search for the game.)
+
+New Feature! - Now, if you are looking at a board game on BGG, clicking the extension icon will open a new *Window* with tabs corresponding to your preferred vendor sites, selected from the Options page.  On the options page, you can select any/all of the available sites and the extension will save your selection.  The exact game page for the game you are looking at will not open, rather a search on the selected vendor site will.  The options page should automatically open the first time you install the extension; to access it again at any time, simply right click on the extension icon and select "Options".    
+
+Example:  I selected CSI and MM as my preferred vendor sites.  While looking at the board game Agricola on BGG, click the extension icon will open a new window with two tabs.  The tabs will be search results for the game at CSI and MM, respectively.  
+
+Currently, the button only works while you are on CSI or MM.  However, this extension provides an additional search functionality that works from anywhere.  By highlighting any string of text (ideally board game titles) on a webpage and right clicking, you will now be presented with the option to search BGG directly.  This will open a new tab with a BGG search of your selected text.    
+
+*Version 1.0 - 1/3/2018
+*This is my very first attempt at creating an extension.  I have almost no coding experience at all and am fumbling my way through this.  The code is probably terrible, and it won't work for every game page at CSI/MM.  But, I got it to the point that it actually works for some/most games.
+*I'd like to thank reddit user /u/ThPerfectDrug77 for encouraging me to, and providing the means to upload this extension so that others can use it. 
+
+*Version 2.0 - 1/23/2018
+*Added new features explained in description.
+
+*Version 2.1/2.2 - 1/23/2018
+*Minor bug fixes.

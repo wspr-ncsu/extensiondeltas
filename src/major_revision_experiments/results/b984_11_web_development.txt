@@ -1,0 +1,5 @@
+Data Explorer for Force.com allows Force.com developers to be more productive by allowing you to run complex queries on your Force.com environment.
+
+This supports SOQL and SOSL queries. The results are automatically displayed in tabular format for easier navigation. Also supports paging and search within results for easier navigation
+
+* This application uses the Force.com REST API and connects to the server directly - no intermediate servers

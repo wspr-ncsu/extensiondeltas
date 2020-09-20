@@ -1,0 +1,1 @@
+It will show you the outline of the markdown file on GitHub and Gist.

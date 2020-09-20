@@ -1,0 +1,3 @@
+Because a shiny button is always better than a tasteless shortcut, this extension will integrate Paprika bookmarklet nicely within Chrome.
+You must purchase the Paprika application and have a Paprika Cloud Sync account to use this extension.
+For support requests, please provide the recipe(s) URL(s) so I can check by myself.

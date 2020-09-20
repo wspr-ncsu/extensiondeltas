@@ -1,0 +1,2 @@
+The Redmine Private Notes Plugin sets the private notes checkbox on the issue page to true by default, which can be helpful if your team and your client are both using the issue tracker.
+Just set your Redmine instance URL on the extension options page and enjoy privacy.

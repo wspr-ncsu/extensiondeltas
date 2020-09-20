@@ -1,0 +1,14 @@
+Itipic is a free application to collect, share image images and videos you found on the web.
+Itipic act as a visual bookmarking managment tool.
+
+With Itipic :
+   
+  - collect images and videos you found on the web
+  - organize your collections in a private space
+  - retrieve the web pages where you found your images
+  - share and comment them with you wanted to
+
+More :
+  - Import in Itipic your images from your hard disk or from your smart phone
+  - Send photo from your smart phone
+  - Share them like web images

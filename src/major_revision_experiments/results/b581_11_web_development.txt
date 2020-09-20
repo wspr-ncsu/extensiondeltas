@@ -1,0 +1,1 @@
+Visually highlight parts of the page that are all UPPER CASE text. This is useful as a design tool for getting a sense of the visual weight of various parts of the page.

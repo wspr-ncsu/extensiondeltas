@@ -1,0 +1,3 @@
+Using Gmail for work email and personal email??  Running both of these in the same Chrome session can get really confusing, especially if you are switching back and forth all day.
+
+Run this and the Gmail icon for your work email will become blue.  It will detect whether the chrome tab is running Gmail for work and change the gmail favicon (icon in the tab) to a blue icon.

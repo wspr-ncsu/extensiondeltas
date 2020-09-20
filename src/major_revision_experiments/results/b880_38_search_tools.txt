@@ -1,0 +1,8 @@
+Go-Direct takes you directly to the most relevant website bypassing the search results. It works in same way like Google's I'm feeling lucky. Typing "Go Hello world in c++" will take you to the relevant website. 
+
+- INstall the Extension
+- Type Go<space>in search bar at top
+- Type search result
+- Press ENter
+
+OR Simply select text in webpage right click and choose "go to <selected_text>"option

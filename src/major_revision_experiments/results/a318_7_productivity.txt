@@ -1,0 +1,12 @@
+If you think that simplicity is the peak of beauty, then you will LOVE Clock Face!
+Clock Face is an extension that will override your default new tab page with an aesthetic and customisable digital clock.
+
+FEATURES:
+  - No distractions and useless visual elements.
+  - 25 colourful and eye pleasing visual schemes (more to come).
+  - 12/24 hour clock (with or without a leading zero).
+  - Toggle display for seconds and date.
+
+And all of this completely free!
+
+Clock Face is also available for your Android device! Search for Clock Face on Play Store!

@@ -1,0 +1,11 @@
+Ctrl+\ to toggle playback
+Ctrl+] next in playlist
+Ctrl+[ prev in playlist
+
+yes it CAN access:
+Your data on all websites
+Your tabs and browsing activity
+
+But NO data is accessed or stored by the scripts. I only need to access all the tabs and their pages to append a keyboard listener. Inspect the source if you like =)
+
+*update: working on a shortcut to loop current song in the playlist.

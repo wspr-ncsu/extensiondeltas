@@ -1,0 +1,3 @@
+CoBeats (https://cobeats.com/) is a visual bookmarking tool for all your web things.
+
+CoBeats Uploader for Chrome allows you to Bookmark pages, take screenshots, clip images and articles; right from your browser.

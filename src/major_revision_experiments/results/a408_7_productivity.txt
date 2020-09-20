@@ -1,0 +1,1 @@
+WhatsTheUsage is a simple usage meter for displaying monthly data usage for Internode broadband customers. It shows the usage and quota for the current month, along with the usage history for each day of the current month and the average daily usage remaining.

@@ -1,0 +1,3 @@
+Quickly create a new repl.it project from anywhere on Chrome! Choose what language you want to write in and you're all set!
+
+Created by Gav Hern, not affiliated with repl.it or Neoreason

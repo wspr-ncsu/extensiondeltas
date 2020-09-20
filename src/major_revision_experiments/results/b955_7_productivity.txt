@@ -1,0 +1,5 @@
+This extension adds tags saying how long will you need to read articles in Pocket.
+Extension doesn't have any UI, it will only ask you for authentication in Pocket. From this moment it will try to retrieve list of your articles from Pocket, and will try to add tags saying about how long it will take to read.
+You will see tags: "1 minute or less", "2 minutes or less", "5 minutes or less", "10 minutes or less", "15 minutes or less", "30 minutes or less" and "30+ minutes".
+Extension will assume that you read 200 words per minute.
+If you like, you may download source code of extension from here https://github.com/przemelek/TimeToRead

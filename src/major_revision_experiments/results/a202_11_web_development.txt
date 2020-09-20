@@ -1,0 +1,1 @@
+This extension lets you inspect and track changes of Yuzu Components (https://dwightjack.github.io/yuzu) in a webpage by adding a new panel the your browser's devtools.

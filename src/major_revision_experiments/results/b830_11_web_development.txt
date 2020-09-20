@@ -1,0 +1,8 @@
+Contentos Wallet is an extension for accessing and interacting with contentos blockchain in your normal Chrome browser.
+
+The extension injects ContentosWallet into every website's javascript context, although it isn't a wrapper of contentos blockchain Api, but it can be used to communicate with contentos blockchain.
+
+Cotentos Wallet also let the user create and manage each transaction. If a dapp want to launch a transaction and write to blockchain, the user can get a prompt window to review the transaction before approving or rejecting it.
+
+Because it adds functionality to the normal browser context, Contentos Wallet requires the permission to read and write to any webpage. You can always "view the source" of Contentos Wallet the way you do any Chrome extension, or view the source code on Github:
+https://github.com/coschain/contentos-extension

@@ -1,0 +1,33 @@
+Version:1.85:
+Minor Background to Image fix
+::feedback:: Please contact to me at santu0002@gmail.com regarding issues and how to use the app.
+
+Version:1.8:
+Canvas Background color.
+Additions of more fonts.
+
+-------------------------------
+Version:1.7:
+Major update: Resizing images, and inclusions of stickers, fonts, and fonts colors as requested by the user.
+Re-design of the UI so user feel little more comfortable.
+Please rate and give us feedback and support us. 
+----------------------------------------------------------------
+A tool to Meme them all.
+--------------------------
+Meme maker is a user friendly tool which helps you create meme.
+It contains popular blank memes and template to get started with.
+You can drag and drop image url with extension png/jpg to the app or choose from your offline storage.
+-----------------------------------
+version 1.0.1.2: 
+UI fix and little bugs fixed.
+-----------------------------------
+version 1.0.1.3: Uploading pics to fb wall.
+
+
+
+To all the Memers i love you all. Your support what makes me to work on the app.
+Thank you.
+----------------------------------------------------------
+v 1.0.1.4 : Link to image lib.
+-----------------------------------------
+v 1.5 :Option to choose Font colors.

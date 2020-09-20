@@ -1,0 +1,3 @@
+An iteration of the Momentum App. Personal organiser with a WebDev touch.  Hone your skills by accessing CodeWars algorithms from the extension. Just like Chuck would.
+
+Developed by Tan, Pankaja, Arthur and CillianBC as part of the Chingu-Belugas.

@@ -1,0 +1,33 @@
+This extension is a productivity tool for those who keep on collecting tabs.
+
+The biggest problem with collecting tabs is that you either don't process them, want to come back to them later or you go on with a search or looking for a solution to a multi-dimension problem, and you keep on opening tabs because it's faster. 
+
+The problem with this way of working is that once you've more than 5 tabs open these tabs refer to different domains: articles to read, stuff to do, things to revisit, email, etc. You start grouping them and at some point group them in your head too... 
+
+Even if you use OneTab extension or BetterOneTab or similar to "reset"  your tab count you will keep on opening more and more tabs and be in the same point you were before (with different tabs or even some of the same ones you saved...). 
+
+All this has a cognitive load on your brain all the time and decreases the available working memory, has you on higher alert levels than you should be at all times and leaves you with the sensation you should do something about these tabs all the time.
+
+By freeing your browser of many tabs and commit to 1 task only, and closing up those tabs - either by processing them, bookmark them or do something about them - after you're done with them, your productivity will increase.
+
+With the extension, you're only allowed to have 5 tabs open at any time. From then on, each tab you try to open up will immediately close. 
+
+The unique exception to this is music tabs. Lots of people work with music, and that's great! So, if you open a music tab, it will not be counted in those 5 tabs. Support is for most music platforms but not for Youtube. Youtube does count as an open tab.
+
+
+To install it click on the "Add to Chrome" button in the Chrome Web Store and once installed, click on the app icon on the side of the browser navigation to activate it. Once the green ON tag is displayed on top of the bar icon, you're ready to go. Click it again to turn it off. We provide the option to turn it off quickly. However, it would be best if you did not use that at all - unless **FILL WITH A VERY IMPORTANT CONDITION**  happens.
+
+
+[Shortcuts section]
+
+We have also found out people think twice before opening a new tab. Since most people open up tabs by using CTRL+T (in Windows) or CMD+T (in Mac), one beautiful new shortcut to learn is CTRL + K or CTRL + E (in Windows) and CMD + K or CMD + E (in Mac). 
+
+CTRL+W (in windows) or CMD + W (in Mac) is your new friend.
+
+
+
+Help Section
+
+If you care about your productivity (or productivity in general) check my other extensions. 
+
+For any problems, bug(s), feature requests, etc. send an email to isaac [at] mammbo [dot] com.

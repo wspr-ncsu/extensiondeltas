@@ -1,0 +1,9 @@
+Simply removes the Pulse news item from the LinkedIn home feed.
+
+No user information is collected or processed.
+
+BTC tip-jar: 1FcvjpePkLahyzq8wGJs1NEJM6JXNcjPeJ
+
+***Changelog***
+-v0.2.0-
+Added options to remove recommended jobs, advertisements and new connections from home feed.

@@ -1,0 +1,5 @@
+An extension that provides a toolbar button to allow the capture of web pages as screenshots that can then be annotated using a RICOH Interactive Whiteboard.
+
+For example, captured pages can provide content for working collaboratively and be shared with local and remote meeting participants. Captured pages and the annotations can then be saved as PDF files to USB, network and cloud storage options and shared by email. 
+
+This extension is intended for use on RICOH Interactive Whiteboards.

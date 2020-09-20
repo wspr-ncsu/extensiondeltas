@@ -1,0 +1,3 @@
+BitBucket is very Atlassian orientated (on account of having been written by them). SourceTree is a fine app, but sometimes you prefer having something a little bit lighter.
+
+TortoiseBucket adds a TortoiseGit clone button to the BitBucket interface, next to the SourceTree clone button in the Clone menu. In addition, functionality to provide common PR responses is available (no standard responses provided though).

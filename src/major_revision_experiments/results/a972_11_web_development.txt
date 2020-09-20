@@ -1,0 +1,5 @@
+Github MD Toggle is a simple extension that allows to view the underlying markdown text of comments, issues, pull requests, and even wiki pages. The extension adds a convenient button on top of every convertible piece of text. Clicking the button will reveal the markdown instead of the formatted text.
+
+It can be used for a fast copy of the markdown in repositories where the user does not have privileges to edit comments/wikis. Or for newcomers to understand how some advanced users created a so cool comment. 
+
+Try it out!

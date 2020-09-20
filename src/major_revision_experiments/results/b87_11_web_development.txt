@@ -1,0 +1,1 @@
+On the screen, a cartoon baby dances tango, and the shadow at the bottom changes size. The animation effect is implemented by pure CSS3 without any external graphics or JS elements.

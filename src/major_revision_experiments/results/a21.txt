@@ -1,0 +1,13 @@
+Have you ever wanted to watch a music video on Youtube and get the Lyrics to show up automatically and on time with the Music?
+
+Say hello to Musixmatch for Youtube, the world's largest and official Lyrics catalog with +7M Lyrics in 32 languages now available as Chrome Extension.
+All you need to do is to add this extension.
+You can change options, colors and background (options menu - Captions)
+
+UPDATE 2.0 Fixed bugs related to new YouTube player
+UPDATE 1.1.18 (we don't show anymore ads). 
+
+Musixmatch is also available on your mobile www.musixmatch.com/apps 
+
+For feedback and problems we hear you here: 
+http://support.musixmatch.com

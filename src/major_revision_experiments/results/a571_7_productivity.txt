@@ -1,0 +1,5 @@
+This extension will make Youtube default to "My subscritions".
+
+When navigating to Youtube.com it will redirect to https://www.youtube.com/feed/subscriptions and so will the Youtube logo.
+
+If you wish to see your recommendations, just click "home" in the sidebar or at the top.

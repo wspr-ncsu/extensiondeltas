@@ -1,0 +1,1 @@
+This extension provides access to file system and cryptography functionality, clipboard, and 1C:Enterprise add-ins.

@@ -1,0 +1,5 @@
+This application keeps track of websites a user visits and displays the most visited websites. Users can use our applications to monitor their web usage and see where they are spending most of their time online. Up to the last week's worth of data is saved locally and can be accessed by the user.
+
+The extension popup displays the top 5 websites that the user has visited that day. Users can also look at website usage history for the previous day and the last week from the popup. Users can also pause and start the timer as they choose, and also delete the locally saved data if they so desire. Data is saved when users close the Chrome browser and loaded when opened again.
+
+The extension only counts time spent on a website when the user is actively on the site. If the user has chrome on but is using another application, the extension will not count that time as time spent on a website.

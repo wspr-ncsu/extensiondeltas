@@ -1,0 +1,5 @@
+3CLogic is a leading provider of cloud communication as a service, hosted on AWS, offering a seamlessly integrated multichannel and Computer Telephony Integrations (CTI) platform for today’s enterprise businesses. Designed to complement existing operational workflows, systems of record (CRM, Ticketing, etc.) and/or on-premise legacy systems, 3CLogic provides a unified 360-degree view to optimize and analyze client interactions for either sales, customer support, or call center organizations.
+
+With 3CLogic's Chrome-based CTI and CRM Adaptor, quickly enable click-to-call functionality from any open webpage within Chrome. In addition, easily provide a floating CTI integration with any configured CRM or Ticketing Solution (ServiceNow, SugarCRM, Salesforce, Microsoft Dynamics, etc.) via 3CLogic's Supervisor and Administrative portal. Get the most our of your contact center solution now!
+
+For more information, visit www.3clogic.com.

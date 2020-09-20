@@ -1,0 +1,1 @@
+This extension will show Github assets downloading count. Only assets.

@@ -1,0 +1,3 @@
+Analyze and highlight the keywords and meta tags on the page
+
+issues and pull requests are welcome on GitHub: https://github.com/petrovnn/seometahelper/issues

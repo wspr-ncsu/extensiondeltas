@@ -1,0 +1,2 @@
+Please check README on GitHub.
+https://github.com/willbchang/chrome-read-later#usages

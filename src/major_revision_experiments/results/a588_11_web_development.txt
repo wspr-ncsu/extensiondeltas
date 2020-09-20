@@ -1,0 +1,15 @@
+When I work on a website locally (my computer) I often have the production site open in a different tab, I needed a way to identify which is the local website.
+
+# v1.2
+- Remove `*.dev` and `*.local` and use recommended `*.test` TLD by RFC2606
+
+# v1.1
+- Add `*.local` TLD
+- Add options to customize the indicator
+
+# v1.0
+- First release
+
+
+Chemex Icon by Femke Vanbelle from the Noun Project
+https://thenounproject.com/search/?q=chemex&i=90625

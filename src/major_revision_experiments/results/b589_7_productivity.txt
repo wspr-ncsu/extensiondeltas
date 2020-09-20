@@ -1,0 +1,1 @@
+Byteseal - is a password manager that locks passwords in a secure vault.

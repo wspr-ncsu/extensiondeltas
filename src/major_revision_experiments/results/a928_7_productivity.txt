@@ -1,0 +1,16 @@
+Clone of: Tabs Backup & Restore
+
+Changes:
+Max. 9999 Backups
+Max. Backup every 12h
+
+Original description:
+With 'Tabs Backup & Restore' you will never lose your work again! Backup an entire Chrome session (windows and tabs).
+With Tabs Backup & Restore you will never lose your work again!
+
+Backup an entire Chrome session (all opened windows and tabs) and restore it when needed.
+
+Backups are created automatically (every XX minutes, definable in the Options Page), but can also be created manually whenever you want.
+
+*NEW*: Advanced Restore options (browse the content of your backups and restore a partial selection).
+Improved layout and added some animations.

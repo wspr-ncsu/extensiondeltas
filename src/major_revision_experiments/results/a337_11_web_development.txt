@@ -1,0 +1,9 @@
+Missing mate of GitHub, with multiple features:
+1. Download any file by click the file icon.
+2. Show tooltip of your unread or participating notifications.
+3. Show Repo size.
+4. Show 'GH Page' link button if it has github pages. 
+5. Tab size customising between 2/4/8 whitespace.
+6. Sticky side-panel for favorites & markdown-outline
+
+All features are configurable.

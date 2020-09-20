@@ -1,0 +1,4 @@
+A token wallet providing maximum level of security with ease of use to users.
+Intuitive placement of display, buttons and texts for user interface facilitate fast learning for how to use in minimal time.
+Account information and tokens to query can be easily set and managed by users.
+Functionalities for management of keys and accounts including balance inquiry, transferring and receiving assets and key import and export are all implemented and provided in a seamless interface.

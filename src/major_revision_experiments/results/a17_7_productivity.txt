@@ -1,0 +1,16 @@
+Hayfever is a Google Chrome extension for the Harvest time tracking service. It allows you to manage, start and stop timers that sync directly with your Harvest account via the Time Tracking API. The Hayfever icon displays a badge with the total number of hours you've logged that day.
+
+I created Hayfever because I'm a web developer and I constantly forget to log my hours on Harvest. Accurate time tracking is a necessity when you're paid by the hour. I use Hayfever every day, and I've released it because I hope others find it as useful as I have.
+
+If you find a bug, or would like to see a feature in the next release, please submit a ticket at https://github.com/mikedamage/hayfever-chrome/issues.
+
+And if you love Hayfever as much as I do, please consider buying me a cup of coffee: http://pledgie.com/campaigns/14742
+Every cent you donate lets me spend more time improving Hayfever for the masses!
+
+Hayfever is Open Source Software, released under the terms of the GNU General Public License v2. You can obtain the source code at https://github.com/mikedamage/hayfever-chrome.
+
+Hayfever source code is Copyright (C) 2011 Mike Green. 
+
+Art and design considerations provided by Steve Guberman and Gillian Deak of Fifth Room Creative (http://www.fifthroomcreative.com)
+
+Hayfever uses the Silk icon set from famfamfam (http://www.famfamfam.com/lab/icons/silk/)

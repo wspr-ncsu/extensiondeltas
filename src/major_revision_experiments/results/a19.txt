@@ -1,0 +1,5 @@
+Keyboard navigation for Voat (https://voat.co). Navigate, open links and comments, vote, toggle images, and more. Fully customizable shortcuts. More shortcuts added regularly.
+
+Press ? (shift + /) for help in Voat. Visit https://voat.co/v/vks for questions, comments and suggestions.
+
+Source: https://github.com/mgiuffrida/vks

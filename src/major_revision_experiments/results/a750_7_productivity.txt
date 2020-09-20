@@ -1,0 +1,13 @@
+Group Magnet is a software that helps you to grab the email address of users who join your facebook groups. 
+
+When people request to join your facebook group there is an option to ask three questions to them and one of the question can be their email or number. 
+You can use Group Magnet to save this details to your spreadsheet and using zapier you can send this data to your email autoresponder or crm where you can send them follow up messages.
+
+Group Magent will help you to save time and increase productivity by saving data with automated process so you don't have to spend hours copying and pasting answers given by the users who join your facebook groups.
+
+USE CASE
+1. you can build your email list by asking people for email address when they join your group 
+2. You can save user data to send them giveaway 
+3. You can get the number of people who request to join your group
+
+Disclaimer: Make sure when you get the email from users to ask their permission to send them emails. we do not save any data you get from your users to our server everything is stored on your chrome brower and your spreadsheet.

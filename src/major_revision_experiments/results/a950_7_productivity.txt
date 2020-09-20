@@ -1,0 +1,1 @@
+This extension makes it easier to track long lists of Change.org petitions by overlaying a list of links and tracking which ones you have already signed.  The extension activates when you load any properly formatted "petition_list.html" (this is intended so that users are able to host their own lists if they so choose).

@@ -1,0 +1,4 @@
+Spiderium Inspector component for browser inspect element and interaction
+*** v0.0.4 ***
+- Update UI
+- Trigger action when user click on OK button

@@ -1,0 +1,3 @@
+Have you ever wanted to hide sensitive information on a web page, before doing something else, such as taking a screenshot?
+
+This extension is for you! It allows you to blur any element or paragraph on page without leaving your browser.

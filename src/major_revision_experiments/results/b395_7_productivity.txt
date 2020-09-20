@@ -1,0 +1,3 @@
+Simply makes the Trello boards container take up the entire width of the browser, meaning more boards can be seen at once.
+
+Since the most recent Trello update, whereby a Home feed was added, the boards page was restricted to a mere ~700px. For users with large monitors, this was never going to display very well. This extension will fix that.

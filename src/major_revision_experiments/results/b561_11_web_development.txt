@@ -1,0 +1,11 @@
+Unity is a platform for the development of computer games, which in just five years from the platform for independent developers because of its simplicity and cheapness has turned into an acceptable option for such large companies as Obsidian or InXile.
+
+Universality Unity allows its users to create games of any genres. The platform allows you to work with both 3D and 2D engines. You can also enjoy the benefits of Direct3D and OpenGL technologies or not use them - depending on your needs. It all depends on what kind of game you want to create.
+
+In fact, the latest version of Unity is compatible with DirectX 11, that is, you can create games with stunning graphics. And moreover, you can run these games directly from the browser, thanks to one of the plug-ins included in this engine.
+
+The free version of Unity, which is available on Uptodown, includes basic tools: a physics engine running on NVIDIA PhysX, 3D audio, multi-user capabilities and a dozen other options at all levels.
+
+Here are some of the most famous games that were developed on the Unity engine: Triple Town, Bad Piggies, Slender: The Arrival, Dead Trigger, Temple Run, Game of Thrones: Seven Kingdoms and Wasteland 2.
+
+Unity is one of the most versatile platforms for developing video games. Proof of this can be a lot of projects that are developed daily for a variety of platforms: Windows and Mac, for Android and iOS.

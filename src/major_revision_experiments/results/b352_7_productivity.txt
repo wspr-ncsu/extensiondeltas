@@ -1,0 +1,29 @@
+The Concept in a Nutshell
+
+Pinmark.it it is a hub for all your content.  Where the smartphone app and the browser extension allows you to keep all real life and digital content discoveries in one place.
+
+All content is placed in different user generated topics which in turn can be private or a private collaboration, published or published collaboratively. 
+
+Each topic has a workspace where all the content is displayed in 100% so you can really work with/use/engage your content.
+
+
+
+What problem are we solving?
+
+One of the main elements of digital design currently overlooks is macro navigation (not navigating a website but the web) with ease of content (images, text, video) is essential. Today there is no easy way to keep everything you come across in one place, whether its in real life or on the web. Something is stored locally or in different apps, but how can you access your content categorically or by topics without interfering with your current user behavior or creating too many barriers so it refrains you from doing so? 
+
+Most users are not aware that content navigation could be easier and therefore more enriching, because there has been no proper alternative in the lifetime of current users so far.
+
+
+
+Describe the solution you provide?:
+
+Essentially it is an operating system for your real life and digital content. With the smartphone app allowing you to collect photo, videos, voice, notes and geo-tags (image you are out traveling and you find an amazing place, you'll lose the card/matches and will have to search logner for it next time your need to remember the name, this allows you to take a snapshot of you geo-location and put it to a topic). 
+
+Where the browser extension allows you to almost drag and drop content (video, images, custom images, text, bookmark, upload and note). 
+
+
+All content is placed in different topics you have created, these can be private or a private collaboration and published or published collaboratively. 
+
+
+Each topic has a workspace where all the content is displayed in 100% so you can really work with/use/engage your content.

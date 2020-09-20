@@ -1,0 +1,1 @@
+Click on the first checkbox and choose last checkbox you want to check or uncheck using shift + mouse left.

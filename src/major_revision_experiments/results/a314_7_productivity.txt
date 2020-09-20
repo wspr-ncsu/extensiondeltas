@@ -1,0 +1,1 @@
+This Add-on works with plain links directing to an image file and if the image is served as a data URI. It also requires less and unnecessary privileges than other extensions of this kind.

@@ -1,0 +1,5 @@
+Recently, I redesigned the company's OA system, and found that the tedious form design took time and effort, but I don't know how it would work. However, I found two super sketch plug-ins, which I would like to share with you here
+
+
+
+At the beginning of web design, I was very distressed that I couldn't directly preview the effect, so I didn't know how large the font spacing was appropriate. I searched the web for a long time and didn't find the plug-in for previewing the web page, but I didn't bear the pains. Recently, I finally found the plug-in for sketching to directly preview the web page effect

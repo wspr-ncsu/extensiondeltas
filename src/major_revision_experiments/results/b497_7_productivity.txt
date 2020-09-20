@@ -1,0 +1,1 @@
+This Chrome application integrates with clickfunnel to create shortcuts and the ability to control access for any employees/agencies that need to manage your clickfunnel account.

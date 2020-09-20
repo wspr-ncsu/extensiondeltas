@@ -1,0 +1,5 @@
+Octofication displays your GitHub notifications in a small popup, with notifications count on the icon. That's all.
+
+GitHub repo: https://github.com/cheeaun/octofication
+
+* Not affiliated with GitHub

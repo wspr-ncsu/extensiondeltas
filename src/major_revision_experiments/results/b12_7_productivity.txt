@@ -1,0 +1,38 @@
+Flexible extension that provides a link to several Wikimedia projects, keeps track of new items on your watchlists and allows you to search wikis from your omni-bar.
+
+The extension can link to the wiki project home page, your watchlist, a random page or WikiHub. The page can open in either a new tab or your current tab.
+
+Wiki projects can be searched from the omni-bar by typing "wiki" followed by a space and your search.
+
+You can select any Wikimedia supported languages for the extension to be linked to. You can also customise your watchlist settings in the extension so that they are set every time you visit your watchlist through the extension.
+
+The extension also keeps track of new items on your watchlist and shows you the number of items added to your watchlist since your last visit via the plugin. This feature can be turned off and the frequency of checking set to save data usage when you are paying per-MB.
+
+
+Recent Updates
+
+1.7.0
+ - Added optional context menus
+ - Fixed a couple of JS exceptions in the options pages
+1.6.1
+ - Fixed bug with WikiData search.
+ - Removed option to monitor your WikiData watchlist.
+1.6.0
+ - Fixed connection error bug
+ - Moved over to the MediaWiki API to improve stability
+ - Suggestions added to the search bar
+1.5.4
+ - Fixed language issue in options
+1.5.3
+ - Fixed permissions issue on WikiData
+ - Added support for Wikivoyage
+1.5.2
+ - Fixed new not logged in issue
+1.5.1
+ - Fixed the not logged in issue
+ - Added support for Wikidata
+1.5.0
+ - Added option of linking to WikiHub - a new Wikimedia mashup from TezSoft
+ - Updated to manifest 2 to ensure future Chrome compatibility & increase security
+ - Support dropped for locked languages
+ - Omnibar searches now return search results if no exact match is found

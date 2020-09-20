@@ -1,0 +1,1 @@
+Make the navigation tabs on a github pull request sticky on screen.

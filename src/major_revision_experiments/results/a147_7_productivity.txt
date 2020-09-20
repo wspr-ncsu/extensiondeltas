@@ -1,0 +1,15 @@
+Do you use Youtube as a music player? If so, then Youtube Prime is just for you. It doesn't do much, but it does it well: providing shortcuts to your Youtube tab.
+
+In a nutshell, the experience will be as follows:
+1- A Youtube tab is created and pinned. If you already have one there, Youtube Prime will use that one.
+2- That's it! You can now use the shortcuts from any other Chrome tab.
+
+Shortcuts:
+1- ALT + P: Play/pause video
+2- ALT + S: Search. Switch to Youtube tab and select search bar
+3- ALT + L: Leap between player tab and last navigated tab
+4- ALT + A: Turn on/off the extension's features.
+* On Linux and Mac, you might have to set the shortcuts yourself. Open a new tab, navigate to chrome://extensions/configureCommands, and set the shortcut keys under the Youtube Prime extension.
+
+
+Youtube Prime is open-source! See the code: https://github.com/plafer/YoutubePrime

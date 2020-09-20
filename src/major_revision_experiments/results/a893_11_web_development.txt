@@ -1,0 +1,7 @@
+Xplug features in APEX Page Designer:
+
+* Switch panes
+* Previous page / Next page buttons
+* Disable tooltips
+* Possibility to change Page Designer theme (including night-mode theme)
+* Enhanced messages / search view

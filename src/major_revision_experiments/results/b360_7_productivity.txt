@@ -1,0 +1,9 @@
+WikSort is a Chrome extension that sorts unique words in a Wikipedia article to a new tab. All words over six characters are alphabetically listed in a text box of the new page, with each entry followed by the usage count in the article. WikSort is useful when editing Wikipedia with Chrome because Chrome's spell checker can help quickly locate misspelled words and inconsistent spelling in an article from the word list generated.
+
+Once installed, the script will add a dark red "W" icon on the far right of the address bar for any Wikipedia article address. Click the icon to generate a sorted word list. After a short delay while the page information is loaded and processed, the word list should display in a new tab.
+
+The minimum number of characters in the word list can be changed via the extension options, ranging from 3 to 10. The font size of the word list can also be modified in extension options, from 25% to 400% of normal.
+
+WikSort is an enhanced version of the older wikSort Greasemonkey and Wikipedia user scripts that previously released. It only works with the English (en.wikipedia.org) version of Wikipedia, but the code can provide a solid base for additional language versions of WikSort.
+
+Version 4.0 corrects compatibility problems with more recent versions of Chrome, and has a few improved appearance tweaks.

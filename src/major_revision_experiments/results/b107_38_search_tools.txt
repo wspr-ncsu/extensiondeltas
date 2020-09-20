@@ -1,0 +1,19 @@
+Click "Add To Chrome" above to easily search on craigslist or other search engines!
+To use the extension, simply open a new tab in your Chrome browser. 
+
+craigsfind allows you to easily browse your local craigslist or search the trusted search engine of your choice! 
+
+craigsfind does not share, or track user information other than location. 
+
+Please read carefully: By installing this application, you agree to the Conducive Search Terms and Privacy Policy, respectively located at http://www.conducivesearch.com/terms-of-use.html and http://www.conducivesearch.com/privacy-policy.html
+
+ABOUT PERMISSIONS
+This application communicates with adMarketplace's servers to deliver its functionality.
+
+You can uninstall this application at any time by following the below instructions:
+1)    Open a new tab in your Chrome browser
+2)    Type in chrome://extensions/ in the omnibox and press enter.
+3)    From the list of installed Extensions, find the name of the extension you wish to uninstall and click "Remove."
+4)    Close and reopen your Chrome Browser- the extension should now be removed.
+
+Have a question or experience an issue?  For help and feedback please contact us at info@conducivesearch.com

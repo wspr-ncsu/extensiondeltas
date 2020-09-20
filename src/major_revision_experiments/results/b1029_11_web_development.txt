@@ -1,0 +1,1 @@
+This Extension is for developers who want to generate a unique system id for identifying unique clients to their web applications.

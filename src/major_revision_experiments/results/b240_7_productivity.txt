@@ -1,0 +1,5 @@
+Loon lets you turn online articles into audio so you can listen to them while you browse or on the go.
+
+With the official Chrome Extension, you can listen to articles on the page where you found them. They will also automatically be added to your Loon feed, so you can listen to them later on the Loon website, or in a podcast app: whatever is convenient for you!
+
+Loon is currently in Beta, but should work fine in most cases!

@@ -1,0 +1,1 @@
+This extension allows the user to get the tinyURL version of their current tabs URL.

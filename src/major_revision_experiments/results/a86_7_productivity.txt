@@ -1,0 +1,8 @@
+Cobit Bitcoin Wallet is a AN EARLY ALPHA, STILL UNSTABLE community edition fork of Copay that:
+
+- Guarantees to stay on the Bitcoin network.
+
+- Will only implement protocol changes that underwent extensive peer-review & testing and established widespread community consensus.
+
+
+Not affiliated with BitPay.

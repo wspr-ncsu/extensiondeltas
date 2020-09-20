@@ -1,0 +1,5 @@
+Simple new tab page
+
+* High quality images of the best photographers from unsplash.com
+* Minimalistic
+* Lightweight

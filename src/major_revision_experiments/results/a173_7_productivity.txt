@@ -1,0 +1,11 @@
+***Works with the new version of GMail***
+
+06/2018 - Added Unread button to quickly show all unread messages
+
+For those of you that don't like the new shortcut block Google has substituted for the black bar across the top of the Gmail (and others) page I offer this alternative. This extensions will add a black shortcut bar to the top of the Google Search, Gmail, Contacts, Google Drive, Groups, Sites and Calendar pages with all the links from the old version plus some useful new ones.
+
+Pressing the Alt+G keyboard shortcut will open the toolbar menu.
+
+If you like this add-on please consider making a small donation to show your appreciation!
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S6QQDXQFZTKD4&lc=US&item_name=Missing%20G-Bar&item_number=Chrome%20Extension&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted

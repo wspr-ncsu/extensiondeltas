@@ -1,0 +1,1 @@
+Get notified when an Optimizely's snippet has finished updating after publishing a change to an experiment. Once the CDN is up to date, Bonzi Buddy will show you a notification and the icon will display a badge showing the most recent revision number.

@@ -1,0 +1,1 @@
+Find broken links on any web page. Just click the icon and the extension will automatically scan all links on a page for HTTP error codes.

@@ -1,0 +1,7 @@
+The product allows you to view SEO organic keyword rankings of as many keywords as you want. It allows you to track one domain throughout all of your keywords. 
+
+Results are automatically stored in a Google Spreadsheet. 
+
+Captchas are automatically solved. Add keywords and come back later to see the results. 
+
+This uses your own browser so all results are based on your Google search settings.

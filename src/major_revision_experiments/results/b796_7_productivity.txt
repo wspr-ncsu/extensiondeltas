@@ -1,0 +1,1 @@
+This utility helps Picture Keeper customers to enable the proper permissions on ChromeOS.

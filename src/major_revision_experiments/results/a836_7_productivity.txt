@@ -1,0 +1,1 @@
+Jest to dodatek, który pozwala w bardzo szybki sposób dodać każdy przepis do Twojego Przepisera.

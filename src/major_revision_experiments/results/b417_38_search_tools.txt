@@ -1,0 +1,3 @@
+This is an extension that allows you to change your browsers New Tab background to a preset picture, or custom color.
+
+By clicking "Add to chrome", I accept and agree to installing the Ferrari Background Chrome extension and setting Chrome™ New Tab to that provided by the service and the Terms of Use and Privacy Policy

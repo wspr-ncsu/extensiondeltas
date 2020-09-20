@@ -1,0 +1,12 @@
+Key features:
++ Open accidentally closed tabs
++ Provides full private browsing history
++ Provides a list of recently closed tabs
++ Self-destructs history on browser close
++ Option to delete history manually
+
+Instructions to access the features:
+1. Open "chrome://extensions/" window; that is, chrome's manage extensions window.
+2. Find "Off The Record History" extension
+3. Click on 'Details' button
+4. Find and select the 'Allow in incognito' checkbox, this will allow the extension to function in incognito mode.

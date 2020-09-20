@@ -1,0 +1,1 @@
+Count words and characters at Reddit

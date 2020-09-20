@@ -1,0 +1,4 @@
+The Teamwork Onboarding Zone browser plugin makes getting up to speed with Teamwork.com products a breeze.
+No more tedious How-To documents or navigating across between browser windows while you look for the information you want. 
+
+Our browser plugin is smart too! Its powerful AI will recommend lessons from the Onboarding Zone to you as you navigate the Teamwork.com interface and you can even keep working while the video plays!

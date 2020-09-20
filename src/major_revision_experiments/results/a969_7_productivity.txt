@@ -1,0 +1,12 @@
+PasswordMaker generates a unique password for each website based on the domain and a master password you select. The unique password is generated using e.g. SHA256. Profiles allow you to generate passwords with or without special characters and of any length to accomodate restrictive sites.
+
+Based upon the open source PasswordMaker Chrome Extension by mpcomplete which is based on passwordmaker.org.
+
+https://chrome.google.com/webstore/detail/passwordmaker/doblembglfahhpiilfhajboogopikhcm
+
+http://passwordmaker.org/
+
+Github link will follow as soon as I have the time.
+
+Version 0.2.4:
+use current domain when selecting a profile with no domain set

@@ -1,0 +1,7 @@
+How to convert SLDPRT to STL?	 
+
+1-Click extension icon - this will open SLDPRT to STL online conversion website. 
+
+2-Select SLDPRT file and click 'convert file' button. 
+
+3-You will get your STL file download link in your email address.

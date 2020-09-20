@@ -1,0 +1,12 @@
+This extension allows you to sift through your tabs, search them and switch to a particular one. This is extremely useful if you find yourself opening up 100's of tabs everyday.
+
+Let me know what you think. Any feedback is appreciated.
+
+Keyboard shortcut to open the popup - Ctrl + Shift + K (windows) / Command + Shift + K (mac)
+
+Love the app? Donations accepted :) Paypal: kasran15@gmail.com
+
+Update
+------
+
+Version 1.1: Added keyboard support. Scroll through your search using up and down arrow. Choose your tab by hitting enter key.

@@ -1,0 +1,1 @@
+Annotations are those annoying popups that you see on top of YouTube videos.  They are distracting and it's inconvenient to close them as they popup while you're watching a video.  This extension automatically removes them for you, creating a distraction free viewing experience.

@@ -1,0 +1,12 @@
+Using Ledger Live extension you can safely check your balance, send and receive up to 23 different coins and ERC-20 tokens through one single extension. Check your balance in real-time.
+
+At Ledger we are developing hardware wallet technology that provides the highest level of security for crypto assets. Our products combine a Secure Element and a proprietary OS designed specifically to protect your assets.
+Ledger hardware wallets empower you with the ownership and control of your private keys.
+
+You can easily set up your device using the Ledger Live extension.
+
+Ledger Live is backed up by the most trusted hardware wallet on the market. You can safely manage your crypto assets, while keeping your private keys secured offline.
+
+With Ledger Live you can check your real-time balance and asset distribution, anytime, anywhere. Always keep an eye on your crypto portfolio.
+
+Earn rewards while holding your crypto. Stake your Tezos and earn XTZ rewards directly in Ledger Live.

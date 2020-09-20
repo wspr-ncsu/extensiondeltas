@@ -1,0 +1,26 @@
+We have created this entertaining new tab based on Doodle Jump - one of the hottest mobile games of all time, which is easy to pick up and start playing. But difficult to stop!
+
+How high can you get?
+With Doodle Jump Chrome edition you will join our nice and cute green alien in his journey up a sheet of graph paper, perpetually jumping from one platform to the next, picking up jet packs, avoiding black holes, and blasting baddies with nose balls along the way. Laugh with delight as you blow past other players' actual score markers scribbled in the margins. And be warned: this game is insanely addictive!
+And don't forget to use Up arrow for shooting!
+
+And not to forget, whenever you are done with playing and don't want to be distracted any longer, just switch the NewTab to the standard tiles view.
+
+So summing up all the features of the extension:
+- customizable tiles
+- chrome version of Doodle Jump game
+- background of your choice
+- weather forecast for your city
+- and lots of other small things
+
+Enjoy it!
+
+
+version 1.3.0
+* Game loads automatically on tab open
+* Automatic load can be turned off in settings
+
+v 1.5
+- new amazing screenshots with HQ scenery photos
+- ToDo functionality
+- updated weather widget

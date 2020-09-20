@@ -1,0 +1,1 @@
+Quicky is an extension that allows you to share links on Facebook, Twitter and Google+ while browsing freely. It automatically fills in the information you need to post and presents you with a new tab to verify the content you wish to post. Additional notes / Captions can be added optionally to the shared content only on Facebook and Twitter.

@@ -1,0 +1,8 @@
+How to use
+1. Type "d" into your address bar.
+2. Press <tab> key.
+3. Type your keywords and hit enter.
+
+Tip: use Ctrl + L / Command + L to quickly give address bar.
+
+This extension allows you to initiate a DuckDuckGo search using address bar.

@@ -1,0 +1,15 @@
+Back up all your Chrome bookmarks to Google Drive. Open and view in readable format from any computer, even on mobile.
+Why to back up:
+* never lose your bookmarks again
+* reliable Google Drive storage for your bookmarks backup, unlimited!
+* no third-party hosting
+* have access to your bookmarks from any device
+
+Changelog
+0.1.2.5 (May 13, 2018)
+* improved stability
+0.1.2.3 (April 29, 2018)
+* authorization - refresh token fix
+0.1.2.2 (April 25, 2018):
+* fixed authorization fails for some users
+* added "Log out" link (viewable on popup mouse hover)

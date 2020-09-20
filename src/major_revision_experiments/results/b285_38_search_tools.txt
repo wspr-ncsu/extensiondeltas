@@ -1,0 +1,37 @@
+Ghostpeek is a search engine that focuses on delivering high-quality search results all without the complex tracking that many other search engines use.
+
+When you search with Ghostpeek, your search terms expire from your browsing history. This way no one can snoop on your searches in your browsing history. Ghostpeek encrypts your searches locally and directs your searches to our privacy-focused search engine.
+
+What makes Ghostpeek a good search engine?
+- Ghostpeek doesn't track you like other search engines.
+- Ghostpeek doesn't retain server logs about your search history.
+- Ghostpeek helps prevent your ISP from tracking your search terms.
+- Ghostpeek helps hide your search history on your device.
+
+What is Ghostpeek used for?
+Ghostpeek is a search engine that helps you find websites and information you're looking for on the web. You can rely on Ghostpeek to keep even your most sensitive searches private. Another reason to use Ghostpeek is to avoid seeing targeted ads related to your searches on the websites you visit.
+
+- - - - -
+Permissions we request:
+
+"activeTab", "tabs", "webNavigation"
+
+We use these permissions to protect information you enter into forms on the sites we protect you on. Some sites use keystroke logging to track any words you enter into a search field. These permissions allow us to block those logs and let you know which fields are safe, by displaying a tooltip.
+
+"webRequest", "webRequestBlocking", "privacy"
+
+We use these permissions to block the searches that you don't want to be tracked, and allows us to redirect those searches to our secure search engine so you can still find the information and the search results you're looking for.
+
+"storage", "cookies"
+
+We use these permissions to store and clear the encryption keys that we use to ensure that your searches are secure and expire within 30 minutes of your final search.
+
+"contextMenus", "management"
+
+These permissions let us give you the browser interface to control our product and its settings. You can use the context menu to disable, uninstall, and reactivate our extension as needed.
+
+"http://*/*", "https://*/*"
+
+These give us permission to protect you throughout the internet.
+
+Without these permissions we wouldn't be able to block things like background search logging and sneaky forms that track you from one website to another.

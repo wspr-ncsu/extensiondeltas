@@ -1,0 +1,3 @@
+Opens bookmark submission page on DevsLike.IO
+
+TIP: select text on the page to use it as a title.

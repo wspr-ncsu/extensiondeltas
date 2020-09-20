@@ -1,0 +1,18 @@
+Replace your new tab page with a choice of a Google, Yahoo, Bing or Ecosia search bar. AI assistant allows you to search the web with your voice. 
+
+Luminous is your most efficient new tab page to browse the web.
+
+Features:
+
+- Personal AI assistant.
+- Speech recognition ability.
+- Inspiring nature images.
+- Choice of 4 Search Engines.
+- Search bar in the centre.
+- Simple and efficient layout.
+
+You have a personal AI assistant called Luma. You can interact with Luma using text or speech. Luma currently three commands;
+
+- Searching the web.
+- Navigating to websites.
+- General chat.

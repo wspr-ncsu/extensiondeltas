@@ -1,0 +1,5 @@
+- Choose in which currency you want to see your Binance Portfolio: USD, EUR, GBP, CNY or BTC
+- See the value of each of your holding
+- See the distribution of your assets: 30% BTC, 25% ETH, etc.
+- See last 1h / 24h / 1d change
+- See coin price

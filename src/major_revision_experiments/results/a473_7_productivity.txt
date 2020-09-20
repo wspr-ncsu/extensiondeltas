@@ -1,0 +1,9 @@
+Replace new tab screen with a minimal clock so that you stay focus on the tasks. 
+Features:
+1. Minimal Neumorphic/Soft Design
+2. Two mode: Analog & Digital.
+3. DarkMode for eye protection
+
+Made By: github.com/ferrousdesigner
+
+Checkout other extension from dev:

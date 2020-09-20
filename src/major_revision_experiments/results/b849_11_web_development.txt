@@ -1,0 +1,17 @@
+Creates Lorum ipsum in nine predefined sizes and stores it on the computers clip board.
+
+On the options page can you set which buttons on the display that should be shown.
+
+You could use keyboard shortcuts to control the extension:
+
+Open extension
+Win: Ctrl+Shift+L
+Mac: Command+Shift+L
+
+Get three sentences
+Win: Ctrl+Shift+2
+Mac: Command+Shift+2
+
+Get three paragraphs
+Win: Ctrl+Shift+3
+Mac: Command+Shift+3

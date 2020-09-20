@@ -1,0 +1,10 @@
+Features List:
+----- 1. Supported Platforms: Aliexpress, Amazon, ebay, Lazada, Shopee,Taobao,Tmall,1688,JD
+----- 2. Extract images even videos
+----- 3. Edit images (Crop, Add Text, Draw with Pen,Flip,Filters...)
+----- 4. Resize images in batch
+----- 5. Download images in batch
+
+How To Use:
+----- A red icon (S+) will appear in the bottom-right corner of the product page of the supported e-commerce platforms. Click the icon to open the Seller+ user  interface
+----- If the red icon (S+) does not appear, you can try to refresh the page. If the icon still does not appear, please contact us (ecssplus@gmail.com)

@@ -1,0 +1,5 @@
+KYC simplifies counting calories of your favourite online recipes.
+Currently, KYC integrates with:
+- https://www.kwestiasmaku.com/
+- http://www.jadlonomia.com/
+- https://kuchnialidla.pl/

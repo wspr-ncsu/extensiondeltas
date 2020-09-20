@@ -1,0 +1,10 @@
+SharePa allows you to quickly schedule social media posts to multiple accounts from anywhere. Add content to SharePa and be assured to have your content posted according to your spaced out schedule. Our team is rigorously looking to add support to new and emerging social media networks.
+
+Features:
+* Share content to multiple social networks like Facebook, Twitter, LinkedIn all at once
+* Manage the post schedule timings - eg. hourly, daily, multiple times a day etc.
+* Automatically allow SharePa to post at the best time
+* Shortens the links shared on the post so as to optimize Tweets
+* Unlimited content sharing
+* Unlimited accounts - when new networks are added in future builds
+* Ability to post to Facebook pages

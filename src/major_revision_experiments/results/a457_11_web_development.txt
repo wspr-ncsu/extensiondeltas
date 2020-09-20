@@ -1,0 +1,5 @@
+Using this simple extension, you can highlight text and right-click OR click the extension-button, and instantly get the LIX-level (readability) of the text.
+
+read more about LIX: http://en.wikipedia.org/wiki/LIX.
+
+Precision and result may vary from online tools, but is very close to the official LIX-tool, http://www.lix.se/index.php.

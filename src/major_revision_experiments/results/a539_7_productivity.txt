@@ -1,0 +1,27 @@
+=== Before using this extension, you require an account with oola and a luminati account - see information at https://oola.io/luminati ===
+
+Version 1.1 - WebRTC Blocking by default (This will stop Chrome leaking your real IP upon WebRTC leak issues). Fixed icon changing to red X when Luminati proxy failed because of bad DNS request.
+
+Version 1.0 - Added option to use zproxy.luminati.io instead of closest super proxy IP generated from Luminati API (Use this option if your having trouble connecting to Super proxy IP)
+
+Version 8-9 - Small bug fix - Added compatibility for Linux
+
+Version 0.7 - Option added to use DNS-LOCAL or DNS-REMOTE
+
+Controlling where DNS resolution is performed
+
+If you don't use DNS Remote option, domain names will be resolved and cached by the Super Proxy.
+
+If you wish to perform the DNS resolution at the Exit Node, use DNS Remote Option. This is slower, but will give you the same IP as users in your chosen country receive.
+
+Version 0.5 - Luminati No longer supports google requests - bypass google.com to the Luminati proxy otherwise authentication issues happen.
+
+Oola Luminati proxy switcher provides a convenient way to change your browsers proxy settings and switch between millions of IP's in any Country or City around the world.
+
+Millions of IPs
+Search by Country or City and instantly change your IP location.
+
+Real anonymity
+The Exit Nodes in the network are regular PCs, laptops and mobile devices, thus are not identified as proxies or as Tor network nodes
+
+7 Day free trial provided with all sign ups.

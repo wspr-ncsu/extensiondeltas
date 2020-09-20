@@ -1,0 +1,7 @@
+Do you have 50+ tabs open at any given time? Do you fly into a rage when someone closes your browser? You may be a tab addict. Get relief with this session management extension.
+
+TabAddict allows you to...
+  * Capture the current session--urls, in plain text format
+  * Annotate sessions--keep track of what you were doing
+  * Open saved sessions--it's as simple as drag and drop
+  * Stay in control--your data can't get lost in the cloud

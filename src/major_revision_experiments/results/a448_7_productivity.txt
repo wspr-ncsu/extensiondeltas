@@ -1,0 +1,1 @@
+This extension allow the user to save the current tab to his DOCKYDOC Mobile web space !

@@ -1,0 +1,3 @@
+If you select a text in a tab, you can google for it by right clicking the selection and choosing Search Google for... 
+This extension creates a button for this functionality. 
+You select text in a tab, and press the button. A new tab is opened and a google search for the selected text is performed.

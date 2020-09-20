@@ -1,0 +1,10 @@
+GMAIL Extension 
+---------------------
+
+You wanna download your mail because you need them ? Use this extension who gives you a very productive tool. 
+
+With 2 buttons you can choose wich format you need. 
+
+Be careful, with conversation mode of Gmail you will download only the first mail !
+
+We think about next features (save mail in Pdf, ...)

@@ -1,0 +1,18 @@
+The site of MineSearch.info is now an app!!!
+This app has some of the most convenient applications for you're mobile/tablet device from the website,
+
+On this app are:
+
+- MineSearch Engine
+- Crafting
+- Item ID
+- Entity ID
+- Potion ID
+- Potion Recipe
+- Banner Generator
+- Colour Chart
+- Skin Catcher / 2D Skin View
+- ServerPing
+
+
+This is an unofficial extension for Minecraft. Minecraft is a trademark of Mojang AB. We are not affiliated with Mojang AB. The Minecraft Brand and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved.

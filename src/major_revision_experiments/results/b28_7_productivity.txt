@@ -1,0 +1,179 @@
+Easy bulk actions for the new partner area of Spreadshirt. This plugin works in all countries (domains and languages) where you can find Spreadshirt.
+
+This plugin includes many features like color changing of all selected products on the fly, csv import which can fill you forms automatically and bulk scaling of your design on all products!
+
+Spreadshirt is your creative platform for custom t-shirts and custom clothing. You can explore our easy to use t-shirt Designer and make your own t-shirt or other personalized clothing products to spread your unique message.
+
+Disclaimer: This is not an official plugin of Spreadshirt. There may be unexpected changes to the platform, which may cause the plugin to fail.
+
+Changelog:
+
+Version 2.6.2
+- Shows error message on damaged csv entries
+
+Version 2.6.1
+- Vector design color storage fix
+
+Version 2.5.9
+- Adjustments for new Spreadshirt UI changes. (Vector design colors fix)
+
+Version 2.5.8
+- Minor compatibility changes
+
+Version 2.5.7
+- Adjustments for new Spreadshirt UI changes. (Design size fix)
+
+Version 2.5.6
+- Improved positioning on some mobile phone covers and minor fix for snapback cap color selection
+
+Version 2.5.5
+- Added a button for slow internet connections
+
+Version 2.5.4
+- Some positioning changes
+
+Version 2.5.3
+- Some positioning changes
+
+Version 2.5.2
+- Style adjustments
+
+Version 2.5.1
+- Minor improvements
+
+Version 2.5.0
+- Some workarounds for phone covers
+
+Version 2.4.12
+- Some workarounds for products at chosen size 95%
+
+Version 2.4.11
+- Bugfix
+
+Version 2.4.10
+- Changed positioning method (still in improvement)
+- Added "Skip" button
+
+Version 2.4.9
+- You can now exclude colors
+
+Version 2.4.8
+- Added some positioning workarounds. I have to review the whole positioning/scaling code ;-)
+
+Version 2.4.7
+- Increased speed and separated positioning from size, so you can just run position if you like
+
+Version 2.4.6
+- Increased size of cancel button and added vector colors for us partner area
+
+Version 2.4.5
+- Added a big red cancel button in the product window, so the size/color change process can be stopped.
+
+Version 2.4.4
+- Reworked changing process and added status indicator
+
+Version 2.4.3
+- Added positioning checkbox to choose from upper edge or design vertical middle
+
+Version 2.4.2
+- Enabled option to not change color on resize
+
+Version 2.4.1
+- Import of price enabled
+
+Version 2.4.0
+- Removed library to avoid errors and improved positioning
+
+Version 2.3.7
+- CSV Text bugfix
+
+Version 2.3.6
+- "Apply"-Button bugfix
+
+Version 2.3.5
+- Added some size workarounds for handy covers and stuff like that
+
+Version 2.3.4
+- Had to slow down the color selection under "Add products" to catch slower computers :(
+
+Version 2.3.2
+- Improved quick color selection under "Add products"
+
+Version 2.3.1
+- Bugfixes
+
+Version 2.3.0
+- Fixed: Menus didn't display on already submitted designs
+
+Version 2.2.9
+- Updates for the todays releases of spreadshirt
+
+Version 2.2.8
+- Bugfixes
+
+Version 2.2.6
+- Added more choices for dark and light colors
+
+Version 2.2.5
+- Fixed memory leak
+
+Version 2.2.4
+- Change product colors even faster in "Add Products" menu
+
+Version 2.2.3
+- Bugfixes
+
+Version 2.2.2
+- Bugfixes
+
+Version 2.2.1
+- Change colors of vector designs
+
+Version 2.2.0
+- Improved positioning and added new colors
+
+Version 2.1.7
+- Improved black, white and grey detection
+
+Version 2.1.6
+- Maintenance-Release
+
+Version 2.1.5
+- Tag-input fixes
+
+Version 2.1.4
+- Optimizations
+
+Version 2.1.3
+- Text updates to show its not necessary to colorize when changing positions or vice versa
+
+Version 2.1.2
+- Size, Color and Position are now stored so you don't need to select again on next designs
+
+Version 2.1.1
+- Change size and position of the design on edit page.
+
+Version 2.1.0
+- Faster
+- Change positions when scaling
+
+Version 2.0.9
+- Bugfix with vector images
+
+Version 2.0.8
+- Choose sizes to auto scale designs on products to that value
+
+Version 2.0.6
+- Bugfix
+
+Version 2.0.5
+- Feature added: Scaling of the design on each product to 100% and move the design position to top
+
+Version 2.0.3
+- Bugfix
+
+Version 2.0.0
+- Got some learning from my merch plugin and added its csv importer
+
+Version 1.0.9
+- Minor code changes

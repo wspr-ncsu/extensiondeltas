@@ -1,0 +1,4 @@
+Hide your username on reddit.com. 
+
+For any issues please visit the github page:
+https://github.com/aberonni/HideRedditUsername

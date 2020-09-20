@@ -1,0 +1,55 @@
+gather current page image or links in the sidepanel.
+
+## ver 0.0.18
+add jump icons
+
+## ver 0.0.17
+add addStrmode
+
+## ver 0.0.16
+add increse mode
+when file download add incresenumber
+
+## ver 0.0.15
+display filename default
+
+## ver 0.0.14
+show count
+scroll speed select
+
+## ver 0.0.12
+opacity 0.9
+and add images
+
+## ver 0.0.11
+add autoscroll
+click event on stopPropagation
+
+## ver 0.0.10
+add filter
+
+## ver 0.0.9
+add download mode, reload
+
+## ver 0.0.8
+code change
+
+## ver 0.0.7
+
+add full view mode
+
+## ver 0.0.5
+
+- add close button
+- decoration download link
+- try escape ... link
+
+## ver 0.0.4
+
+- modify scroll setting
+- vertical position top
+
+## ver 0.0.3 
+
+- add download links.
+- modify scroll setting

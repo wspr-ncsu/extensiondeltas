@@ -1,0 +1,13 @@
+Enhance your Devine Tools!
+Features:
+- Visual enhancements
+- Get notified when you're second in queue
+- Notice your spot in the queue in the browser tab. eg: (2) Devine SOS tool 
+- Auto refresh enabled
+- Fixed header
+
+More to come!
+
+Developed by:
+Ruben Pauwels
+Francis De Clercq

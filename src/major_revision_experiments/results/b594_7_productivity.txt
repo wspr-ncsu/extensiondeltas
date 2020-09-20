@@ -1,0 +1,10 @@
+EasyEmail is a plug-in that helps you write emails very quickly. It learns from your inbox and quickly suggests what you should write based on your previous responses.
+
+You can think of EasyEmail as the autocomplete for Gmail and Inbox. We suggest you sentences you may want to say, and you get to choose them by simply selecting them with a mouseclick or enter. 
+
+*HOTKEYS*
+
+We also allow you to define hotkeys for your email. Let's say you often send the same link, or description (like your bio, or skillset). Simply add a hotkey, and you will be able to paste it into the body of the email by simply click ":" and typing out the title of the hotkey. After you select the hotkey, the entire text will appear. Never again look for text that you copy-paste into your email.
+
+*STATS*
+EasyEmail analyzes how much you use your email. By going to our Control Panel and clicking on "Your stats" tab, you can see how many emails you sent and how much time you spent writing them.

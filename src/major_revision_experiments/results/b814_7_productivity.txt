@@ -1,0 +1,14 @@
+Log time from anywhere with a simple click without leaving the website you are currently visiting. Build reports & invoices later on right on our website at LogMyHours.com
+
+Keyboard Shortcut: Alt+Shift+L
+
+Find any issues or have some amazing suggestions, hit us up at support@logmyhours.com
+
+About Log My Hours:
+
+LogMyHours.com was designed around the idea of keeping time tracking simple. We allow you to manage your projects, expenses, invoices and your team with ease. Apply your logged hours to an invoice and with a couple clicks, fire off the invoice to your employer
+
+More Features Coming Soon!
+- Support for tools like Trellp, Jira, Clubhouse and more
+- Better Timesheet Formatting
+- And more

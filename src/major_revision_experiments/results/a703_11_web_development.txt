@@ -1,0 +1,2 @@
+* Collapse Content: Adds a header to issue comments which allows toggling the view of long code and quote blocks.
+* Collapse Markdown: Make all markdown headers clickable to allow toggling the view of all content between same level headers.

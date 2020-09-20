@@ -1,0 +1,7 @@
+This extension injects JavaScript code on every page you visit listening for you pressing [CTRL] + [L] on the keyboard. This keyboard combination usually moves the focus to the omnibox, but this extension instead shows a popup allowing you to search for your bookmarks (see screenshot).
+
+Why use this extension? At least I hate the way the omnibox works (suggests search history before your own bookmarks, which is stupid!), and this extension fix that by only searching your bookmarks, and not your search history.
+
+If you don't select a suggested bookmark you will simply search for the entered text on Google or go to the URL you have entered.
+
+This extension also overrides the New Tab page, so you can search for your bookmarks from there as well.

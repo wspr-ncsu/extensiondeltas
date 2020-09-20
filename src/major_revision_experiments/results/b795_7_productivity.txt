@@ -1,0 +1,9 @@
+Easily re-open your closed tabs, from seconds ago to months ago. Closed tabs are shown in a dropdown for quick access to recent items, but you can search the full history.
+
+You can clear the tab history at any time with a single click as well to preserve privacy or clear out old data. 
+
+Privacy: This extension sends zero tracking information to the author, ad sites, or anywhere else. All data is stored locally in your browser.
+
+--
+
+This extension is a fork of Sexy Undo Close Tabs, a great extension the author has abandoned. In current form it is nearly identical to the old extension but with ads insertion removed.

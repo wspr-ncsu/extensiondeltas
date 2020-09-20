@@ -1,0 +1,5 @@
+This chrome extension enable you to sync the product specification extracted from 1688.com to your Shopify online store.
+
+You need to subscribe the datasunday shopify apps. 
+
+For details, please visit www.datasunday.com

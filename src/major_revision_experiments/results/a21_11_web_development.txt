@@ -1,0 +1,1 @@
+Add into the dropdown of Github compare page the tags of the repositories.

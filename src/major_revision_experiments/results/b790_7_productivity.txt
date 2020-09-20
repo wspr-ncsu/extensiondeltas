@@ -1,0 +1,3 @@
+OpenCart Aliexpress Importer will import products from Aliexpress.com to your OpenCart store and you can start selling products of Aliexpress within your own store very easily.
+
+http://opencart.webkul.com/Opencart-Dropship-Management-Module

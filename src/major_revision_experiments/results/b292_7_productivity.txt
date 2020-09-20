@@ -1,0 +1,28 @@
+Web Content Monitor is a tool to periodically track information on web pages.
+
+To add a web content to monitor, right-click on a web page and click "Monitor Content" on menu, then select monitoring area.
+The update interval and notification type could be set individually for each content. The extendsion will fetch content values automatically in background, and the latest values of each tracked information will be shown in the popup panel.
+
+Android Version (BETA) is available on Google Play. Now you can monitor contents on your Android smartphone:
+https://play.google.com/store/apps/details?id=net.ayukawayen.infotracker
+(Data or setting do not shared between Chrome Version and Android Version.)
+
+=================================
+
+1.2.0: Change background color of "New" badge.
+(2016/1/26)
+
+1.1.0: Popup panel can be resized by dragging the lower-left corner. Show the old value of information (Enable/disable this feature in the setting panel).
+(2016/1/26)
+
+1.0.0: Content limit increased to 100. Update interval can be set by minutes now. Android version added.
+(2015/6/26)
+
+0.3.0: Open url in background tab.
+(2015/3/5)
+
+0.2.0: Add sound notification.
+(2014/9/29)
+
+0.1.5: Add options of update interval "1 minute" and "3 minutes". Clear all notifications have been read when the notification popup is closed manually.
+(2014/7/30)

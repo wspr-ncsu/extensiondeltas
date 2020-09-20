@@ -1,0 +1,3 @@
+DISCLAIMER: THIS TOOL IS FOR EDUCATION PURPOSE ONLY! You cannot use this tool to "hack" facebook accounts, email accounts etc so don't even contact me asking how to do that. This tool is intended for penetration testing and people who know what are they doing and what these tools do.
+
+You can use this tool to quickly encode or decode string with a certain encryption or get the query for a certain web hacking method. Find out more on help page.

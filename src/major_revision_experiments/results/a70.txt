@@ -1,0 +1,11 @@
+Features:
+
+* Changing the font on websites to either OpenDyslexic or Comic Sans.
+* Contrast between sections of text is enhanced with different background color for even and odd paragraphs.
+* A reading-ruler will follow the mouse cursor.
+
+The above settings can be be configured to preference.
+
+Please leave a comment about your experience and how this could be further improved.
+
+This extension is open-source and the source code can be found here: https://github.com/javoire/dyslexia-friendly

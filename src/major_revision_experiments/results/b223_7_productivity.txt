@@ -1,0 +1,31 @@
+Find your favorite cloud site from your Chrome™ New Tab in an instant!.
+
+Get instant results from your Chrome™ New Tab and find all yours favorite sites in one place with Ultimate Cloud extension
+
+Ultimate Cloud extension changes your Chrome  New Tab and Default Search to http://info.ultimatecloud.me/AboutUs
+
+Ultimate Cloud extension is compatible with:
+Microsoft OS version 7, 8 and 10
+Chrome versions 45.0.2454.
+
+License:
+We hereby grant you a revocable, non-assignable, non-transferable, non-sublicensable right and license to Use the Software for limited personal, noncommercial purposes only, and provided that you comply with this Agreement and refrain from:
+Copying, modifying, or creating derivative works of the Software or any portion thereof;
+Decompiling, disassembling, reverse engineering or otherwise attempting to discover any source code or underlying ideas or algorithms of the Software, or any components thereof;
+Circumventing, disabling or otherwise interfering with any part of the Software including, without limitation, any security-related features or features that prevent or restrict use or copying of any part of the Software;
+Transferring, sublicensing, leasing, lending, renting, or otherwise distributing (without our written consent) the Software or any part thereof to any third party;
+Interfering with, damaging, disabling, overburdening, impairing, destroying, limiting the functionality of or disrupting the Software, or servers or networks connected to the Software, or interfering with the access, use or enjoyment by others of the Software, or servers or networks connected to the Software, or disobeying any of our or our network requirements, procedures, or policies connected to the Software, including, but not limited to, causing greater demand on the Software than is deemed reasonable by us;
+Using any method to intercept or expropriate any system data or information from the Software;
+Attempting to gain unauthorized access to the Software, user accounts, computer systems or networks;
+Linking, uploading, posting, emailing, transmitting or otherwise making available any content that (a) you do not have a right to make available under any law, or under any contractual or fiduciary relationships, (b) infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;
+Collecting or harvesting any personally identifiable information, including account names or e-mail addresses, from the Software;
+Using the communication systems provided by the Software (as applicable) for any commercial solicitation purposes, or linking, uploading, posting, emailing, transmitting or otherwise making available any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation in connection with the Software;
+Linking, uploading, posting, emailing, transmitting or otherwise making available any material that contains software viruses or any other computer code, viruses, malware, bots, files or programs designed to interrupt, damage, disable, overburden, impair, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+Using the Software (including, but not limited to, any chat room, forums or communication systems provided by or available through the Software) or any content thereon to promote, conduct, or contribute to activities that in the Company’s sole discretion are fraudulent, obscene, pornographic, commercial, inappropriate or illegal, or which promotes hatred towards any group of people;
+Violating any applicable local, state, national or international law, rule or regulation, or harm or infringe upon the right of any other person or entity, including, without limitation, the intellectual property or privacy rights of any person or entity; and
+Allowing or facilitating any third party to do any of the foregoing.
+We will have the right to terminate your access to the Software, in our sole discretion, immediately and with or without cause. We may, in our sole discretion and at any time, in any way, for any reason, change or discontinue any part of the Software.
+
+You agree that you are solely responsible, and the Company has no responsibility to you or to any third party, for your Use of the Software or any Third-Party Components (as described below) or your breach of your obligations under this Agreement and for the consequences thereof. Furthermore, you are solely responsible and liable for any activity by any person who Uses the Software through your subscription, where applicable. You agree to immediately notify us of any unauthorized Use suspected by you or any other breach of security known or suspected by you.
+We recommend that you read our Terms and Conditions at http://info.ultimatecloud.me/Terms-of-use
+and Privacy Policy http://info.ultimatecloud.me/privacy-policy/

@@ -1,0 +1,5 @@
+A simple extension that gives you a button to reload all open tabs.
+
+Features:
+- Context menus and an option to reload pinned tabs only.
+- Option to reload all tabs in all windows.

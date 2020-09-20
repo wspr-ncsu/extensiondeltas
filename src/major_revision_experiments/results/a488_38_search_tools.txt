@@ -1,0 +1,1 @@
+The Email Account Login new tab extension provides convenient, one-click access to several popular email services including Gmail, Yahoo, Facebook, Outlook, and Live mail along with providing direct access to web search

@@ -1,0 +1,23 @@
+*************************************
+
+SnowLord's Script Extension
+Version: 6.3
+
++ Changed icon to comply with complaint
++ Slightly improved performance
++ Added simple Gimkit exploit to solve the question instantly, please report any errors.
++ Added Flying Text Troll Script
+
+*************************************
+
+NOTE: Right click the icon and click "Reset Settings" to restore settings to the most reliable default scripts.
+
+MESSAGE: This extension is for educational purposes only! We are not responsible for anything you do with this extension!
+
+IMPORTANT: If you notice any errors / bugs, please leave a support ticket stating the game mode, what you did to get the error, and if possible, screen shots / evidence. All your help is greatly appreciated and helps me know what you want. 
+
+TERMS OF SERVICE: Use this extension with responsibly. I am not responsible for anything you do!
+
+PRIVACY POLICY: This extension will never save, collect, or do anything else with your data. The Developer assumes no liability and is not responsible for any misuse or damage caused by this extension. USE AT YOUR OWN RISK.
+
+SOURCE: Now open source! View our code at https://github.com/SnowLord7

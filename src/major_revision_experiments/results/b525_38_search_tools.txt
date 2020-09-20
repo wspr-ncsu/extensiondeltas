@@ -1,0 +1,3 @@
+Are you tired of copy-pasting your university subjects to search them on VIK Wiki?
+
+This small add-on gives you an option in your context menu to search for the highlighted text on VIKI Wiki. Every search opens in new tab. The whole add-on is just 10 KB and contains minimal code to operate.

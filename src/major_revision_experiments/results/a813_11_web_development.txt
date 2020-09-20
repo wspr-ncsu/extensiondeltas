@@ -1,0 +1,1 @@
+KanpaniTools is created for Kanpani Girls players. It helps players quickly gather information about their employees as well as their equipment. Moreover, this tool also supports retrieving in-game dialogues so that you can copy and paste them to other online translation sites to have a better understanding of the story.

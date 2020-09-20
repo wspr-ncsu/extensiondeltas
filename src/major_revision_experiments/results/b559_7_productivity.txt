@@ -1,0 +1,11 @@
+Requires a FoxyProxy account from https://getfoxyproxy.org. Choose from 100 different countries; thousands of different cities. Geoshifting moves your computer's physical location (virtually) to another city or country. Websites that are blocked because of your location are unblocked when you geoshift.
+
+What some of our customers say:
+
+"We advertise in all major markets within the USA, EU and are opening up to Oceania. We use FoxyProxy to QA and test our global advertising product."
+
+"We need to regularly visit certain websites from multiple countries in order to check that targeted-to-specific-country advertisement tags work."
+
+"We are launching a few websites that are geo-filtered and have local offerings by territory. We need the ability to check the setup of these sites from time to time and confirm changes made are accurate."
+
+"Our mobile application has a legal requirement to display specific disclaimers in specific countries. We use FoxyProxy to test that our GeoLocation (IP-based) systems can correctly identify the country and present the correct disclaimer."

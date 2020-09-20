@@ -1,0 +1,13 @@
+THIS IS IN ALPHA. PLS DONT HURT ME.
+Intended for https://w.kastapp.live/ and https://w.kast.gg/
+
+This is open source! feel free to contribute/suggest at ->> https://github.com/lettuceboop/Kast-Web-Enhancement-Suite
+
+Allows your chat to scroll.
+Changes to the interface. 
+Hides player join/left messages.
+
+TODO:
+flush out options page so you can toggle interface changes.
+add volume option
+add notifications for your username mention

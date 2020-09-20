@@ -1,0 +1,1 @@
+This extension implements a highlight function when someone mentions your name on 7Cups, a small ping sound is made whenever someone says your name.

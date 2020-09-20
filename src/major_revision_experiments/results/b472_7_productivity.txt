@@ -1,0 +1,1 @@
+Synchronize your Chrome bookmarks to Puffin Browser automatically. This will not modify your Chrome bookmarks.

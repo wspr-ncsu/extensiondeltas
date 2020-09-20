@@ -1,0 +1,34 @@
+# New # Now available in Android play store: https://play.google.com/store/apps/details?id=c.justproxy
+
+Just Proxy is a web proxy backed by SSL tunnel technology. Like VPN, it hides your IP address and encrypt your traffic, but a lot easier to use. This extension provides one click config to switch your IP address and location. Once the service is turned on, the sites you visit can only see an IP address belonging to the proxy rather than your real IP address. That's why you can unblock websites with us.
+
+# Enhanced security & privacy #
+Unlike a triditional plain web proxy, Just Proxy encrypts all your inbound and outbound traffic, which hides your IP and gives you protection when you are using public WiFi like school, hotel or Starbucks.
+
+On the other hand, we also prevent WebRTC from leaking your IP address, which isn't usually handled by many other VPNs.
+
+# One click to switch location #
+Just Proxy unblocks the internet and hides your IP by changing location. 
+
+# Best USA network #
+We have the best United States coverage compared with other alternatives. There is always a low-latency local node ready for you.
+
+Currently supported regions:
+  * United States 
+    - New York
+    - Washington
+    - Los Angeles
+    - Chicago
+    - San Francisco
+    - Seattle
+    - Atlanta
+    - Miami
+  * United Kingdom
+  * Germany
+  * Singapore
+  * India
+  * Australia
+  * Canada (Toronto and Montreal)
+  * France
+  * Netherlands
+  * Japan

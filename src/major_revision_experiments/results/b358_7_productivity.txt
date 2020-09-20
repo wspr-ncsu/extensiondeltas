@@ -1,0 +1,11 @@
+Let's face it, there is a lot of clickbait out there. There are many site's whose entire existence is to create inflamed article titles so that you click on them. Sometimes, it is easy to know that there are to be ignored, sometimes it is more difficult.
+
+Clickbait Blocker is a free and opensource Chrome extension that is built to allow you to be warned when hitting a known Clickbait site. This can be ignored, or added to an allowed list of sites you trust. More features on the way. 
+
+The list of sites is free and available on GitHub— additions or removals are welcome on the GitHub repository: 
+
+https://github.com/clickbait/clickbait-blocker-sites
+
+The full source code can be seen also on GitHub: 
+
+https://github.com/clickbait/clickbait-blocker

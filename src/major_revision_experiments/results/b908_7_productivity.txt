@@ -1,0 +1,91 @@
+Newt was designed to be a simple, lightweight replacement for Google Chrome's New Tab page. It gives you easy access to your favorite websites without any of that other clutter or special effects. Your installed Chrome apps are just a tap away.
+
+Newt uses your a special bookmarks folder to populate your new tab page. This makes it very easy to set up. Another benefit to this method is that your categories and websites will be synced to your Google Account*! This means that you only need to set up Newt once and it will be the same on all your other computers. You'll also be able to easily access these sites from Chrome on your mobile devices. In addition to bookmarks, Newt also displays your installed apps, Most Visited sites, Recently Added bookmarks, Recently Closed tabs, and tabs from Chrome on your other devices.
+
+Theme Builder
+
+Newt uses a custom in-app theme builder that let's you customize all of the colors. To access it, click on the '+' icon next to the theme list in Settings. This will bring up the theme builder on the right side of your screen. You'll see some values already filled in to give you an idea of what to do. You can use any method of defining a color: predefined color words, hex, rgb, rgba. When you enter a color, the respective parts of the app will update. Yes, there is instant feedback with every change. Once you're happy, click 'Save' and it will be added to your list of themes. You can build and add as many as you'd like.
+
+With this freedom, it's possible to create a theme that interferes with your use of the app. If this happens, go to the Newt options page from Chrome's Extensions page and click the reset button. This will change the active theme to the very safe Light theme.
+
+Existing Newt user?
+
+You may have noticed that the old Newt app was renamed 'Newt Classic'. Since this new version is so different from the old, I thought it would be best to not just overwrite the original. Some people may prefer that style to the new one. If you want to import your existing Newt data, just go in to Chrome's Bookmark Manager and rename your 'Newt' folder to 'NewtData'.
+
+Changelog:
+
+5.6.4
+- Fixes to ensure this app still works in future versions of Chrome.
+
+5.6.3
+- Bug fixes
+
+5.6.2
+- Bug fixes
+
+5.6.0
+- Added: About card. You can access it from the popup menu.
+- Added: Settings sync! Newt now stores your preferences and custom themes using Chrome's storage sync. This means that if you change someting here, it'll be reflected on your other computers running Newt and signed into the same Google account. Please visit the Settings page for more information.
+
+5.5.3
+- Better temporary fix for favicon issue that should work for all sites.
+
+5.5.2
+- Temporary, partial fix for broken website icons until I can write  proper fix.
+
+5.5.1
+- Fixed: Device cards were being displayed with a header color.
+
+5.5.0
+- Added: You can now rename cards
+- Added: New theme options! You can set a background color for each card header, making it easier to organize them. You can set five different color styles for each custom theme. Visit the Theme Builder to define these styles. Right-click a card header to choose a color and/or rename the card.
+- Modified: When creating a new theme, the currently selected theme is used as the base. This makes it very easy to make tweaks to existing themes without having to start from scratch.
+- Added: New default theme, Basic.
+- Fixed: Some style issues, bugs.
+
+5.4.0
+- Added: New menu when you right-click a site on the main page with actions like Rename and Delete.
+- Added: Rename sites. Right-click a site and then click Rename. Enter the new name and press Enter. The Escape key will cancel this action.
+- Added: Delete sites. There is now another way to delete sites from cards. Right-click a site and then click Delete. There is no confirmation prompt, so be sure you want to delete it.
+- Added: Middle-click on a site to open it as a new tab in the background. Alt (Option on Mac) + middle-click to open as a new tab and switch to it.
+5.3.3
+- Added: Drag cards on the main page to reorder them.
+- Added: Drag cards or sites to the top right of the screen to delete them. When deleting a card, you'll get a confirmation prompt before it is actually deleted.
+- Modified: Changed some curor styles to better represent the action taken when clicking on things.
+
+5.3.2
+- Fixes to prevent the app from breaking in a future Chrome update.
+- Performance improvements.
+
+5.3.1
+- You can now edit themes that you've built.
+- Added two new stock themes, Slate and Mocha.
+- Improved styling on some elements.
+- Bug fixes.
+
+5.3.0
+- Added: Theme builder. This update's big feature is a brand new theme builder. Yes, it's back! It works very similarly to the old one, with some nice improvements. In short, better customization and you can build as many as you'd like. Please see above for more information.
+- Added: 'Add New Card' button. In the overflow menu, you'll find a new option that will let you add new cards right from the app. No more having to go all the way to Chrome Bookmark Manager.
+- Of course, there are a handful of tweaks and fixes behind the scenes to improve your experience.
+
+5.2.5
+- Keyboard navigation! You can now use a keyboard to navigate around Newt. Switching tabs, moving within and in between different cards, it's all there. Just use the arrow keys after enabling it in the settings.
+- Fixed drag-and-drop so you can drag sites to an empty card.
+- General optimization and code cleanup.
+
+5.2.3
+- Added Espresso theme
+
+5.2.1
+- Optimization! Making things smaller and faster.
+
+5.2.0
+- Complete rewrite using only vanilla Javascript and some goodies from ES2015
+- Smaller and faster
+- Dark theme! This was a popular request. Thanks to all who wrote me about it.
+
+5.0.1
+- Initial release
+
+Known Issues:
+- None

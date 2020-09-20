@@ -1,0 +1,4 @@
+The Field Calculator for ServiceNow allows performing computations on numerical input fields on ServiceNow pages.The extension populates the calculator buttons from supported numerical input fields found on the current ServiceNow page. Supported fields include Integer, Decimal, Float, Long, Price, and Currency. After performing a computation, you can save the results back directly into one of your numerical input fields found on the page. Basic arithmetic (addition, subtraction, multiplication, division) and nested expressions are supported. The calculator additionally has a delete button to delete the last operation and a clear button to clear the current computation.
+
+This app does not store/transfer any of your data outside of your browser.
+This app requires access to data at *.service-now in order to access the input values on the page and update them from the extension directly.

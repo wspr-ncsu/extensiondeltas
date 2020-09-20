@@ -1,0 +1,1 @@
+This extension check your internet conenction and show your ip and some information about it.

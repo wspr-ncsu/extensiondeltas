@@ -1,0 +1,3 @@
+Monitor your salesforce code coverage organization per chrome tab
+
+v1.3 lightning support

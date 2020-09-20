@@ -1,0 +1,8 @@
+letzNav Player is a widget which guides the user to complete tasks
+letzNav Player is an extension with multi-browser compatibility and offers a robust platform for users to run a Workflow. It is displayed as a widget based on the designated positioning selected by the admin.
+
+The Player contains a list of all the published workflows along with a search bar. A Workflow can be run by clicking on the desired flow from the Player.
+
+The Player has an intelligent search feature that lets the user conduct searches based on the keywords he/she enters into the search bar. all the content relevant to the keywords are bought up for the user to access.
+
+The direct functionalities of the Player are to launch Workflows and for accessing content in the Knowledge Center. The indirect functionalities are to load the other key features which are independent of the workflows and are always running in the background like validations, tooltips, and announcements.

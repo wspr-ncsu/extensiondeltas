@@ -1,0 +1,21 @@
+MyEtherWallet Chrome Extension - Browse the blockchain. Bring your own MEW.
+MyEtherWallet Chrome Extension / MEW CX
+
+Browse the blockchain. Bring your own MEW.
+
+The fully redesigned MEW CX brings full MEW functionality and Web3 support to your browser toolbar! Send transactions, interact with DApps, save wallets in your browser, swap crypto, and manage your tokens all from our new browser extension.
+
+The option to choose different wallets for different DApps and the burn address function let you explore the decentralized internet with confidence. Best of all, our CX stays true to MEW ideals by remaining a 100% free, open-source, and client-side tool.
+
+FEATURES 
+- Phishing protection
+- Web3 support allows for easy DApp integration
+- Choose different wallets to interact with different DApps
+- Burn addresses are available for temporary use
+- Wallets are generated completely client-side and kept personal
+- Key management is easier than ever for private keys, keystore files, and mnemonic sentences
+- Easily send Ether and ERC-20 tokens from a QuickSend dropdown. Hundreds of default tokens already included, as well as the ability to add custom tokens right in the extension!
+
+Learn all about our code at Github: https://github.com/myetherwallet/myetherwallet
+
+Removing MEW CX will cause your saved wallets to reset, so only remove this extension as a last resort. It can be temporary disabled from your browser's extension page.

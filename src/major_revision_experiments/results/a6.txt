@@ -1,0 +1,1 @@
+Rally Issue Helper - useful tool for Rally Issues information exchange

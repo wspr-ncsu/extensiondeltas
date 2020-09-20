@@ -1,0 +1,1 @@
+This extension automatically star Speakerdeck slideshows when you see them, never forget a slideshow again!

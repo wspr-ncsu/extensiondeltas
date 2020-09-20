@@ -1,0 +1,11 @@
+Did you find interesting article but currently you don't have time to finish it?...
+Sure, you can bookmark it, but most likely you'll forget it.
+
+This extension reminds you the bookmark at desired time.
+
+- In the calendar you get nice overview about your past and future reading journal.
+- You can organize your bookmarks by multiple topics by attaching tags without need to worry about folder structure.
+- You can always find the right bookmark thanks to simple search which recognizes your tags.
+
+Roadmap: 
+-Intelligently pre-load planned bookmarks via wi-fi, so you can stay productive even when on airplane or offline for whatever reason.

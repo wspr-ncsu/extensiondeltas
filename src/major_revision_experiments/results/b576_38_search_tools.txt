@@ -1,0 +1,14 @@
+Context search for Hummingbird.me. 
+Highlight some text on a page, right click and select the Hummingbird option. 
+It will open Hummingbird.me on a new tab with the search results.
+If the selected text matches an anime, the anime's profile will be opened. 
+
+You can also sign in with your Hummingbird id at the extension's option page. 
+
+After logging in, the context menu will be extended with some more options. 
+They are pretty self explanatory, and map to the site's features. 
+They are just shortcuts and uses your selection to work. 
+If everything went well, you library is updated.
+If you try to use it on some nonsense, a simple error message will show on the screen. 
+
+Note: first published extension, might be buggy, so feedback is appreciated.

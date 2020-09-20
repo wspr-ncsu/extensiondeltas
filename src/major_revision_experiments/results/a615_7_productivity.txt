@@ -1,0 +1,8 @@
+Note : From new update 1.0.2 the old kite support has been dropped and now only KITE 3.0 (Current Version) will be supported!
+
+Beta version for KITE 3.0 has been launched but still in beta follow this link : https://chrome.google.com/webstore/detail/blkggfdbpeboofklnehllkeiiphgfmmg/
+
+
+This extension will make your zerodha kite trading app full-width for large screen desktop and laptops, also adding some twicks will help you stay more focused on trading.
+
+Happy trading!

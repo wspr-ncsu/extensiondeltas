@@ -1,0 +1,13 @@
+Building offline application ?
+
+Need a simple and efficient tool to clean the appcache and cache ?
+ 
+This extension is for you !
+
+It allows you to purge HTML 5 appcache and cache (JS, ...).
+
+Manifest from current page is erased according to range.
+
+It's very simple and quick : no complex configuration, two clicks only. 
+
+Check my web site for further informations : http://jeecookbook.blogspot.fr/p/chrome.html

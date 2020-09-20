@@ -1,0 +1,1 @@
+Keep track of the health of your websites.  Site Monitor Chrome Extension alerts you if your site is inaccessible for any reason.

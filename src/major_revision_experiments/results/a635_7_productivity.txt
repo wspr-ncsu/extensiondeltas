@@ -1,0 +1,1 @@
+'Alt + right-click' on a checkbox, radio button, or drop-down menu to change/add your own options. (Will only work on forms with no checks against individual values)

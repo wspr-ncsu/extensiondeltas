@@ -1,0 +1,1 @@
+Minimal User agent parser for Chrome. Know the browser right away just by selecting the user agent string.

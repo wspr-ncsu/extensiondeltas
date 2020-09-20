@@ -1,0 +1,1 @@
+Eyeballer is a simple tool for screen recording, with the ability to set and change accompanying labels throughout the duration of the recording. It is designed for use with ML classification during the COVID19 lock-down of 2020, for an upcoming arts project.

@@ -1,0 +1,8 @@
+Email Hunt is a free powerful Chrome browser extension which can find and save email addresses from your targeted websites in single click. Because finding contacts and connecting with people or company should not be difficult.
+
+Email Hunt is a free alternative for Email Hunter, built by Weloft Labs(www.weloftlabs.com) as a 'One Day Project' to help sales, marketers or any professional to be productive in finding the leads. 
+
+Instructions to use:
+> Install Email Hunt extension in your Chrome browser.
+> Open a website in which you want to find contacts of, and click on Email Hunt logo.
+> You can either save the contacts as CSV or save it in your account for later use.

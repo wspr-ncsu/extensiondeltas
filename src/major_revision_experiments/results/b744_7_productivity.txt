@@ -1,0 +1,11 @@
+This extension will help you quickly accrue your 2015 Steam Winter Sale trading cards by auto-clicking the Next In Queue button for you during the 2015 Steam Winter Sale. Start up a discovery queue and watch it go. I will look into updating this with some newer stuff to make it easier to automate if people like this.
+
+UPDATE: I made it so it works without you even having to click the button to start a new queue. This will actually loop until you navigate away from the "http://store.steampowered.com/" domain. SET IT AND FORGET IT!
+
+Check out the code at https://github.com/HHHApps/SteamWinterSale2015
+
+UPDATE (JUN 27, 2016)
+The auto-clicker SHOULD automatically stop once Steam's HTML updates to show that you've reached the end of your collection for the day.
+
+UPDATE (JUN 28, 2016)
+The auto-clicker can now be enabled and disabled by clicking the icon. It is color coded to be green when enabled (it will auto-click) and red when disabled (it will not auto-click). When enabled, it SHOULD now also start when you have cards to collect and stop when you do not. But you can start and stop the extension whenever you want.

@@ -1,0 +1,3 @@
+TalentSheets Chrome Extension makes the process of identifying new social media talent and influencers easy and more accessible for everyone. Most influencer and creator databases are priced too high for the everyday user, small business, e-commerce store, or startup. Our goal is to change that! 
+
+TalentSheets allows for quick and easy insertion of potential social media influencers and talent partners directly into Google Sheets, building your talent rosters faster. Just browse to any YouTube channel or video and with one simple click you can view top level data and expected performance for that specific channel or account.

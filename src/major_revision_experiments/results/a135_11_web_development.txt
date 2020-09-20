@@ -1,0 +1,1 @@
+This extension adds a pane to the elements view, to inspect jQuery data associated with the inspected element, and adds two new panels. One to list all events on the current page that was set using jQuery, and one to view data for all elements on the page. The screenshots provided are from jquery.com

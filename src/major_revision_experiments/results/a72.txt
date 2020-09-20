@@ -1,0 +1,26 @@
+When Everykey is close to your phone, laptop, tablet, house, car, or another access-controlled device, it unlocks that device. When you walk away, that device locks back down. Everykey can also log you into your website accounts and generate secure passwords for new website accounts. If you lose your Everykey, you can remotely freeze it, so no one else can use it.
+
+
+FEATURES OF EVERYKEY FOR CHROME
+
+Everykey for Chrome has been reworked from the ground up in version 3
+
+Remember Passwords - Remembered passwords can be used on any device that's tied to your account
+
+Automatic Login - Login to any website that Everykey has remembered a password for
+
+Multiple Accounts - Remember passwords for multiple accounts on the same webiste
+
+Password Generation - Generate unique random and secure password for new website accounts
+
+
+WINDOWS OR MAC APP REQUIRED
+
+Everykey for Windows or Everykey for macOS is required in order to use Everykey for Chrome.
+
+
+EVERYKEY REQUIRED
+
+An Everykey is required in order to use Everykey for Chrome. You can purchase an Everykey from the Everykey website:
+
+https://everykey.com

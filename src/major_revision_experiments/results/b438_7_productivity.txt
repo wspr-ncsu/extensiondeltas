@@ -1,0 +1,6 @@
+SendTask - Manage your tasks in your inbox
+Manage your tasks in your inbox.
+
+No new task management system. Simply keep using email. Make sure emails with tasks get done.
+
+*This App is in private alpha. To use it, you must be on the invite list.*

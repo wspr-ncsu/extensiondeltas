@@ -1,0 +1,30 @@
+Changing proxy settings has never been so convenient. Think SwitchyOmega as a modern version of the "Proxy Settings" dialog, designed to be simpler, quicker and more powerful, specially optimized for Chrome.
+
+No more digging through the advanced section in Chrome settings. No repeated filling and clearing the proxy config dialog of your operating system. Just tell SwitchyOmega about all your proxies, and enjoy switching with one click on the popup menu. You can also teach Auto Switch to use the right proxy for the right website automatically.
+
+This extension replaces SwitchySharp, SwitchyPlus and Proxy Switchy. If you are using SwitchySharp, installing this extension will automatically migrate all profiles and settings for you. As a fallback, you can also export a backup file manually in SwitchySharp and then import the file in SwitchyOmega.
+
+NOTE: Please report issues by RIGHT-clicking the extension icon and select the "Report Issue" in the context menu so that I can locate and fix the issue more quickly.
+
+Alternative download link (Github): https://github.com/FelisCatus/SwitchyOmega/releases
+
+SwitchyOmega is absolutely free and open source. It does not insert ads into any website. It contains absolutely no malware. It just does proxy configuration, and aims to be perfect tool of that.
+
+Disclaimer: SwitchyOmega does not come with any proxy server, VPNs or anything like that. Thus, SwitchyOmega will not magically unblock websites or protect your privacy, unless you instruct it to use a proxy server which does. You should only use trusted proxy servers, because SwitchyOmega can not protect you from bad proxies that inject ads, track you or record your password. And if you don't have a proxy server, you probably won't need SwitchyOmega. Sounds reasonable, right?
+
+Privacy Policy: https://github.com/FelisCatus/SwitchyOmega/wiki/Privacy#english
+
+The 2.x version features:
+* HTTP/HTTPS proxy authentication (username & password) is now supported.
+* More flexible proxy configurations: Fixed servers, multiple SwitchProfile and rule lists.
+* Reviewing and modifying proxy settings for resources that fail to load.
+* New types of condition for switching and improvements to the existing condition types.
+* Optimized performance for both PAC script generating and switching.
+* Improved user experience in options page and dropdown menu.
+* Many Bug fixes and improvements. More testing.
+
+== Translations ==
+You can help improve the translation of SwitchyOmega or translate it into your language on Weblate:
+https://hosted.weblate.org/engage/switchyomega/?utm_source=widget
+
+CONFLICTS: SwitchyOmega will conflict with other extensions trying to control the proxy settings. Such conflicts are caused by the design of the Chrome browser and thus cannot be avoided. When SwitchyOmega has a higher priority, it can be configured to voluntarily give back the control by selecting the [System Proxy] item in the popup menu. Otherwise, you will see a red badge on the SwitchyOmega icon indicating insufficient priority. Re-installing SwitchyOmega should raise its priority, providing a possible workaround.

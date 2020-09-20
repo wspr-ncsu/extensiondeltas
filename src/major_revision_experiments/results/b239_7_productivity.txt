@@ -1,0 +1,6 @@
+Focusly allows you to limit distractions when you want to focus. 
+
+Using the extension is simple and intuitive:
+- Add or removed sites from your list.
+- Set a timer, and restrict your access to those sites for that amount of time.
+- If you must end the timer early, enter a series of characters to regain access to the blocked sites.

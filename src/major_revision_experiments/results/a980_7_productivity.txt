@@ -1,0 +1,3 @@
+A no-frills extension that gently helps you focus by tracking the time elapsed since your last visit to reddit.com as well as your longest time away from the site ever. Inspires you to compete with yourself and build an intrinsic sense of discipline. All this without actually blocking you from any content.
+
+This extension is open source! Check out the code on GitHub: https://github.com/dchengy/reddiet.

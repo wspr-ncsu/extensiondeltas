@@ -1,0 +1,1 @@
+This extension will automatically populate your current IP address into the input fields when white listing an IP range in the Salesforce Network Access menu.

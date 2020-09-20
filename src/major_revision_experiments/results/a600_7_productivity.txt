@@ -1,0 +1,54 @@
+A collection of CSS-Rules, which are quite generic but pretty-darn complex to (semi-)heuristically clear large amount of junk from web-pages,
+without the need of an additional JavaScript solution.
+When combined with any uBlock-origin/Adblock related solution,
+the CSS-rules injected by this web-extension will probably be-prefered by the browser.
+
+You can get the same effect of installing this web-extension by using uBlock-origin,
+with the top, generic (non-domain specific) rules from _raw__hosts_adblock_anti_annoyances_hide.txt of the
+https://github.com/eladkarako/hosts project.
+
+This web-extension is nothing special, usually there is some-kind of JavaScript-control, ON/OFF switch,
+and even a way to dynamically add new rules such as with the (really great) uBlock-origin,
+
+But sometimes uBlock (for example) breaks a website or blocks the request/response chain as well,
+and you only want to remove few annoying visual elements from the screen...
+
+There are multiple different categories that this web-extension will try to block:
+- ad removing (generic)
+- ad removing, where the ads are identified by events-hooking.
+- ad removing, where the ads are identified by href/src attributes.
+- remove pesky Google-Ads even if they come back when using uBlock-origin.
+- ad removing, specific for tracker-combinations.
+- rude adblock warnings, "after ad-removing" - when your adblock is identified by the web-page.
+- ad removing, heuristics with complex CSS-selector combination to remove annoying stuff.
+- non-ad/informative-overlays that are useless and still blocks the screen.
+- hiding promotions messages.
+- hiding $h!t content semi-apps by disqus, facebook, twitter, etc...
+- hiding non-helpful, often broken "accessibility" menu called 'Atar Nagish'
+- hiding bad website structures that slows down the page such as categories and tags links near titles/articles in WordPress-based pages.
+- simply hide all adf-ly and bit-ly because you should never click on them.
+- hide all social/share buttons.
+- cookie notifications popups at the bottom/top of the screen.
+- hide donation links, PayPal and such.
+- hide newsletter-boxes and email-signin areas on pages.
+- hide silverlight errors on pages(a bit old but still useful).
+- hide footer areas, this is the same as installing the footer web-extension: https://addons.mozilla.org/en-GB/firefox/addon/unfooter/ - so if you've install this one you can remove it.
+
+
+This web-extension WILL BREAK STUFF!!!
+
+it will break twitter, disqus, and maybe facebook too,
+and various other so called 'social media' components.
+
+If you have a need to read stuff published on twitter, or you would like to comment with disques and you own a facebook profile, this web-extension is not for you.
+
+BUT if you are a unique individual, and those $h!tty websites/plugins/widgets/mess of a 'web-garbage' are making you sick, feel free to enjoy this web-extension.
+
+Other alternative is selectively hide just what you want,
+using uBlock-origin and just few of the hiding-rules in _raw__hosts_adblock_anti_annoyances_hide.txt, from https://hosts.eladkarako.com .
+
+Just copy the top non-domain-specific rules, to your 'custom rules' section in uBlock-origin, and press apply/save. You may skip the 'twitter-hiding' ones, and you'll be able to see the twitter timeline, and 3'rd-party twitter widgets across-websites.
+
+I've basically made this web-extension for myself, and then decided to share it with everyone, because sharing is caring. it's nothing fancy but it is small, quick and it works. If you've enjoyed using it I'll be thrilled to hear all about it in the review section.
+
+Pleasant-Web is 100% free (as beer..), include no ads (I hate those!), does NOT collect any data, include NO analytics and works entirely offline.

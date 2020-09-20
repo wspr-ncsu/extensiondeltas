@@ -1,0 +1,1 @@
+Temporizador de segundos, un click empieza, otro pausa! y 2 restablece.

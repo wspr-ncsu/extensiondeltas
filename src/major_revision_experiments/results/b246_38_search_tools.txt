@@ -1,0 +1,3 @@
+Search sites without loading their search pages. Configured via JSON, you can find a sample/default config in the extension option. Copy/paste it into the JSON Code text ared in the options.
+
+Future version will include get rid of json files and will a dynamic form will be added to the chrome extension.

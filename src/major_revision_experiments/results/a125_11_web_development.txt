@@ -1,0 +1,25 @@
+Robotcorder generates RobotFramework test script by recording user interactions and scanning the html page. 
+
+It aims to be equivalent of Selenium IDE for RobotFramework browser test automation.
+
+http://bit.ly/robotcorder-blog
+
+Change log 
+http://bit.ly/robotcorder-changelog
+
+-- 0.4.0 --
+- Add options to customise the locators
+
+-- 0.3.0 --
+Add pause & resume feature
+Fix Scan bug
+
+-- 0.2.0 --
+Add copy to clipboard function
+Change spacing to 4
+Include google font
+
+-- 0.1.9 --
+Add more settings - Sleep 3s, Check Element.
+Listen to all the frames including iframes. May be slow for page with many elements.
+Reduce permission.

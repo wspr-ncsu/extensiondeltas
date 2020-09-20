@@ -1,0 +1,11 @@
+This extension replaces the 'Reply' button with the 'Reply All' button in the Yahoo, GMail, and Mail.ru mail clients.
+No constant delayed forwarding and angry bosses anymore - because now you Don't Forget To CC!
+
+Disclaimer:
+Neither the app, nor its author is affiliated with the Yahoo! Inc. company, the Google Inc. company, or the Mail.Ru Group. The product is not endorsed in any way by the Yahoo! Inc. company, the Google Inc. company, or the Mail.Ru Group.
+
+Important:
+Do not forget to refresh your mail client tabs after you install the extension.
+
+Available Languages:
+English, Russian

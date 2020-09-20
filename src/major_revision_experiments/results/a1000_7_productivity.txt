@@ -1,0 +1,1 @@
+TripVogue Dashboard is a travel and productivity extension that provides inspiration to see the world. In short, it's eye-candy for the traveller's soul. It displays exotic and award winning hotels and resort destinations through out the world with option to explore and reserve hotels and flights from the page itself.

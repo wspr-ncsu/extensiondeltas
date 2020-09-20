@@ -1,0 +1,9 @@
+Please disable ad blocker before using the extension
+
+Synchronization is easy and consists of 3 steps:
+
+1) Log in to your Appmediation account
+2) Enable AdMob reporting. This can take a few minutes so please be patient.
+3) Synchronize AdMob applications with Appmediation
+
+AdMob is a trademark of Google Inc. Use of this trademark is subject to Google Permissions.

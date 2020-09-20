@@ -1,0 +1,1 @@
+"This extension is used for easy and fast transfer of shipment data from www.e-comm.plus shop management system to supplier's shipment form."

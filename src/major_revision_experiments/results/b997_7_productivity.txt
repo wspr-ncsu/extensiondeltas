@@ -1,0 +1,8 @@
+Calculates the timespent on a ticket.
+
+MM <> AR WorkLog is an internal extension that lets you.
+1. Work on zendesk tickets with simple Start, Pause and Stop button.
+2. Calculates the timespent on tickets in zendesk.
+3. Removes manual entries in timetracker.
+
+Increase Productivity, save time.

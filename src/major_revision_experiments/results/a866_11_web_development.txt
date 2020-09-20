@@ -1,0 +1,19 @@
+Quickly clear your cache with this extension without any confirmation dialogs, pop-ups or other annoyances.
+
+You can customize what and how much of your data you want to clear on the options page, including: App Cache, Cache, Cookies, Downloads, File Systems, Form Data, History, Indexed DB, Local Storage, Plugin Data, Passwords and WebSQL.
+
+Cookies can either be removed globally, only for certain domains or for everything except for certain domains.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In order to clear all of this data, this extension will require extended permissions. If you have any questions, feel free to post them in the feedback section.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Change Log:
+
+Version 1.1.1 - September 21, 2014
+- Fixed issue with descriptions not appearing
+
+Version 1.1 - September 21, 2014
+- Added descriptions for data types to remove

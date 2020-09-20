@@ -1,0 +1,4 @@
+Removes the old "click 300 times to add more files" philosophy of the canvas upload form and adds a multi-select file input
+
+
+This extension comes with no warranty whatsoever, use at your own risk. I am in no way responsible for incorrect uploads, nor will I at any point guarantee the correct working of this extension.

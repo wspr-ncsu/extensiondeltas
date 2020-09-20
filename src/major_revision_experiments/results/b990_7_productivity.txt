@@ -1,0 +1,2 @@
+Hintsystem - tool for user onboarding. 
+Install Hintsystem to creating hints and tooltips on your site

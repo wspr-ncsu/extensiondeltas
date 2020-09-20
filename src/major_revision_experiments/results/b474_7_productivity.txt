@@ -1,0 +1,1 @@
+This calculator is rather easy but it contains some uncommon features. You can change functions of some buttons. For this you have to press right mouse button on one of green buttons and choose function what you need.

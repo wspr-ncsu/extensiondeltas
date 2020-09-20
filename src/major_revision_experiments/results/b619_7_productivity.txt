@@ -1,0 +1,13 @@
+Usage instructions:
+ - click the extension button (the page should become darker);
+ - select the links you want to open by click-and-drag (i.e. like you do in the file manager);
+ - repeat the previous step how many times you need;
+ - deselect items using the right mouse button (or ctrl + left button);
+ - press 'enter' key to open all selected links or 'alt+enter' to download them.
+
+
+To report bugs or suggestions please visit http://goo.gl/r6OiE
+
+
+Known issues:
+ - the extension doesn't work on sites with frames.

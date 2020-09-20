@@ -1,0 +1,3 @@
+Plugin which automatically switches all tabs in browser by the cycle.
+It may be very useful for system performance dashboards if you need to watch few dashboards from different systems in one browser window.
+You also can configure switch interval and auto-start mode in settings.

@@ -1,0 +1,15 @@
+Swobbl for Chrome: Set Swobbl as a home and standard search engine.
+Unfortunately, the Chrome browser does not allow us to change your homepage or create a search engine for you in the browser.
+You can use the option provided by the extension by typing "q" followed by your query or following this link to add it manually: https://www.swobbl.eu/about/addSwobbl
+
+Swobbl is the secure search engine for Europe. Our extensive data protection guidelines and the high quality of our results ensure that Swobbl is a real alternative to established search engines.
+With this extension, Swobbl will be your standard search engine and your home page so you can search the Internet even faster without sacrificing your data.
+
+Swobbl searches for you securely and quickly the Internet according to the desired information and provides you more information about your search.
+We do not store any user data, e.g. IP, search query, whereabouts, used browser and the like.
+
+Enter your search using the address bar and we will provide you with the desired results quickly and safely. Whether it's web, image, video, news, social media or shopping.
+Swobbl has all the important functions to offer you the right information.
+
+For more information about Swobbl, visit:
+Https://www.swobbl.eu/about

@@ -1,0 +1,12 @@
+Defaults to Google.com but you can set your preferred Google Domain in the settings!
+
+To use, simply highlight text on any web page and right-click.
+Click on the sub-menu named "INCOGNITO PLUS! SEARCH, IMAGES, VIDEOS &...." and choose from standard, images or videos to search Google.com's selected result types.
+
+You can also set up to 10 additional items to search in Incognito mode.
+Examples: IMDB, Wikipedia, TheTVDB, Netflix or whatever!... 
+
+Add any site that supports searching via URL variables/parameters.
+i.e.: http://site.com/search/?query=xxxxxxxx
+
+Tips can be found on the settings page on how to find a valid search URL plus other ways to add additional terms to your searches.

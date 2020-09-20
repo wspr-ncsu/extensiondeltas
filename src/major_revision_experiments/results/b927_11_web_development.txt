@@ -1,0 +1,21 @@
+Dynamics CRM Extension for developers.
+
+Read this first:
+-This extension is only for advance users. This extension provides you functionality  to change core elements of CRM. Every modification is under your responsibility. 
+-It's highly recommended to use this extension only in Development environments and avoid to use in Production environments.
+
+Description:
+The HUD will appear over every single control in the CRM form with specific information about it.
+Posibility of change Visibility and Disabled properties of all controls at run time.
+Entity information with logical name and record's Guid.
+Information about globals CRM parameters.
+Shortcuts to solutions.
+Execute Fetch with return of results.
+Edit Webresources and publish in-form without reload webpage.
+Metadata entities browser. All entities/ All fields detailed information.
+Records DB Counting
+Edit all entity fields
+Query constructor: Build SDK Rest queries with UI menu
+USD Quick Access for save time managin USD configurations
+
+Tested in CRM 2011, 2015, 2016, 365.

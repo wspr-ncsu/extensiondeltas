@@ -1,0 +1,4 @@
+Creating fun exercise to recite code or to increase typing speed from various web platforms, including:
+- Github: Click "raw" button above code preview
+- Runestone Interactive Ebooks (http://interactivepython.org/): Click "Speed Type" button above code blocks
+- More will be supported

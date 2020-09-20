@@ -1,0 +1,13 @@
+This Chrome extension shows advertisements to you while you are on the web. This extension monitors browsing data in order to serve you relevant ads. 
+For more details please check our Privacy Policy (http://LoveTestPro.com/privacy-policy) and Terms of Agreement (http://LoveTestPro.com/terms-of-use). 
+We use advertisements as a way to support our site so that you can continue to browse LoveTestPro for free!  
+
+By clicking the "Add To Chrome" button and activating the LoveTestPro browser extension, you are agreeing to the LoveTestPro Terms of Agreement (found here:  http://LoveTestPro.com/terms-of-use) and its Privacy Policy (found here:  http://LoveTestPro.com/privacy-policy). 
+
+To remove the extension from your Google Chrome browser, please use the below directions. For assistance, please contact this email address: support@LoveTestPro.com
+
+1) Find the 3 vertical dots icon in the top right of your Chrome web browser.
+2) Click on "Settings".
+3) Find and click on "Extensions".
+4) Look for the "LoveTestPro" extension and click on the trash can to the right of the extension.
+5. You must restart your browser in order for the changes to take effect and the extension to be uninstalled.

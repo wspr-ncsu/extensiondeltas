@@ -1,0 +1,1 @@
+Replace zero-width characters hidden on a page with emojis! Inspired by https://goo.gl/f3hUx1 . Source code: https://github.com/chpmrc/zero-width-chrome-extension.

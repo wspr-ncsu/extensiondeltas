@@ -1,0 +1,17 @@
+SearchBits by Aztec configures your Chrome Default Search settings to blpsearch.com powered by yahoo , allowing you to quickly search the web from your Chrome address bar!
+
+
+terms:
+http://www.blpsearch.com/terms
+
+privacy:
+http://www.blpsearch.com/privacy_policy
+
+To remove our extension from Google Chrome:
+
+1) Click on the three horizontal lines icon in the upper right-hand corner of your Chrome browser.
+2) Go to "Settings".
+3) In the menu that appears click on "Extensions".
+4) From the list of installed Extensions, find the name of the toolbar extension you wish to uninstall.
+5) Click on the trash can icon to the right of "Enable" (for the toolbar extension you wish to uninstall).
+6) Close your browser completely and reopen it. Our extension should be removed from your Chrome browser.

@@ -1,0 +1,4 @@
+Topvisor App for Chrome browser:
+
+- display rank numbers in Google and Yandex search results;
+- instant access to Projects and Help Center.

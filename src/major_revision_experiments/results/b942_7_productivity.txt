@@ -1,0 +1,17 @@
+To-do list, which is always at hand.
+In short:
+- Todos with the statuses
+- Focus on tasks without distractions (timer-tomato)
+- Weather informer
+- Change the background
+- Block distracting websites (can be customized)
+
+Focus mode on tasks
+- Pomodoro-timer for 25 minutes, which can be customized to fit your needs
+- Blocking sites and statistics
+
+Solve problems in style
+- Every day, new background, to cheer up
+- You can set your color scheme or custom wallpaper
+
+Also you get the weather widget and management of blocked sites

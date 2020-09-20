@@ -1,0 +1,17 @@
+Tablé is a beautiful and simple extension for your Chrome. It replaces your New Tab page with a customizable grid of bookmarks and widgets. It respects your privacy by requiring no access to your data (NO permissions) and synchronizes across all your Chrome instances. You can add your bookmarks, assign colors, icons or logos and position them anywhere within the grid.
+
+Features
+-- beautiful design
+-- simple setup
+-- values your privacy by
+--- requiring NO permissions
+--- using NO Analytics or data collection
+--- requiring NO access to any personal data or browsing history
+-- synchronizes across all your Chrome desktop instances
+-- blazing fast performance
+-- highly customizable
+
+Thanks for using Tablé, we hope you enjoy it and would love your feedback.
+
+Learn more at:
+https://www.zigzag.is/table/

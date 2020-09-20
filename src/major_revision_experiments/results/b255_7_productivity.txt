@@ -1,0 +1,7 @@
+Paper? who needs paper when all your notes can be accessed at your finger tips with NotesPlusPlus!
+
+- Three new themes added.
+- Notes are stored within browser cache.
+- version 0.1.0 out now
+
+https://bowyer.co

@@ -1,0 +1,3 @@
+vue-component-finder is a Chrome plugin for Vue project, which help developer preview component code module and locate code file in IDE quickly.
+
+You can read https://github.com/csonlai/vue-component-finder for usage detail.

@@ -1,0 +1,6 @@
+Provides the FIDO U2F APIs for authentication. PRE-RELEASE.
+
+Minimum: Chrome 38.
+Recommended: Chrome 39 (beta).
+
+For FIDO U2F device setup, refer to your vendor's help center.

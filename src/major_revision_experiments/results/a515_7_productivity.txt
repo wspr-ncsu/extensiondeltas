@@ -1,0 +1,27 @@
+This is a beta version of the extension over here:
+https://chrome.google.com/webstore/detail/kisscaptcha-goodbye/bpkjdeodfifnppihjjmimadnhnoiokkk
+
+Features implemented in Beta may break or be incompatible with other KissAnime extensions. These features will be put into the main extension after testing.
+
+Please report any issues in feedback.
+
+===
+
+The extension will automatically solve and submit most of the CAPTCHA question pairs on KissAnime for you quickly.  It will also attempt to predict and solve captcha pages in the background so that the user won't be bothered by those pages.  
+
+Note that captcha solutions on KissAnime only last for about 2~ minutes before they must be re-entered again, so the pre-captcha system is not perfect. 
+
+Nearly all answer pairs are included, but there's a chance that I missed one since I did it manually. In the event that it cannot correctly answer for you, it will try to eliminate what it thinks is the wrong answer by darkening them.  Any missing matches will be added in future updates.
+
+Recent Changes:
+ - Added the ability to solve captcha pages for the next video when the page is loaded and when the video time reaches 92%+
+ - Added more Answers to reach 99%+ solved (possibly all?)
+
+
+
+Planned Features:
+
+ - Automatically complete captchas for the next video page in the background in more cases.
+ - Learn new images automatically
+
+The captchas on KissAnime will stop random bots but would have less success than a wet paper towel to to get in the way of anyone who is making a targeted attack on the site.  However, it is  HIGHLY successful at annoying it's users.

@@ -1,0 +1,9 @@
+This extension allows you to quickly and easily search PrimeWire without having to first visit the page. Simply type and hit enter and you will be direct to the search results. 
+
+This extension will be periodically updated when PrimeWire gets blocked.
+
+28th September 2015 - Domain changed to primewire.unblocked.la
+
+9th May 2016 - Domain changed to primewire.unblocked.tv
+
+I am not affiliated nor do I own PrimeWire I am simply redirecting to their site. This website is also know as LetMeWatchThis and 1Channel. All credits for icons/logos go to primewire.ag.

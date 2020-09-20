@@ -1,0 +1,4 @@
+# Feature
+- Copy and paste a random LGTM image to GitHub PR review textarea
+- Save your favorite LGTM images to local storage and sync Chrome account
+- Save as LGTM image from right click menu

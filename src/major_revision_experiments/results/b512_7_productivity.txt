@@ -1,0 +1,3 @@
+This Chrome extension makes it possible to export items from Podio to PDF.
+You can choose to include comments, tasks, revisions and files as well. 
+The extension can be used for backup, sending information to non-Podio users or for journalizing of data that lives in Podio.

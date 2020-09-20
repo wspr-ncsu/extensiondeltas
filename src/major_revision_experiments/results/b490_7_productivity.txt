@@ -1,0 +1,5 @@
+Do you have a lot of tabs open on Chrome? Smart Tabs is the solution. This extension keeps track of which tabs on your browser are active, and which one's aren't. After a certain amount of time (30 minutes), inactive tabs will be terminated so that it will free up your browser of that extra clutter. However, you will still be able to access links to the sites of the closed tabs by clicking the Smart Tabs logo. 
+
+This extension will improve the battery life of your by eliminating unneeded processes and it will make your browser much cleaner and organized.
+
+This extension is open source, feel free to contribute and add suggestions!

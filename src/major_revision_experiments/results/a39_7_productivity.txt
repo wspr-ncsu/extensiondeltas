@@ -1,0 +1,10 @@
+Screen Picker support following features:
+
+1. Screen Shot (or Screen Capture) 
+
+2. Screen Recorder
+
+3. Capture (or record) for Desktop Screen, specific App Area, or Tab Area
+
+
+Welcome to recommend: send email to screenpickerweb@gmail.com

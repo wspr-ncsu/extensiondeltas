@@ -1,0 +1,3 @@
+This tool helps you to translate words on dinordbok.no.
+
+The first version only supports from Norwegian to English.

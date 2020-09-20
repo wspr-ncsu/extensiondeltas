@@ -1,0 +1,13 @@
+Server IP add-on (extension) adds a small notification box to websites that displays a country flag depicting the location of the current website's server and provides a multitude of tools such as whois, and Geo location on browser click.
+
+--
+
+IP Server add-on is an extension that displays a flag icon indicating the current webserver's physical location. Knowing where you're connected to adds an extra layer of awareness to your browsing and can be useful to indicate the native languages and legal jurisdictions that may apply. Additional information can be obtained via the click on the toolbar icon.
+
+Clicking the flag icon loads our default action, Geotool, which gives a detailed map showing the city the server is in and other useful information such as its local time and ISP.
+
+For FAQs please visit:
+http://add0n.com/country-flags.html?from=server-ip
+
+If you prefer the flag to appear in your toolbar area please use my:
+https://chrome.google.com/webstore/detail/country-flags-ip-whois/bffjckjhidlcnenenacdahhpbacpgapo?hl=en

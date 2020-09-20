@@ -1,0 +1,18 @@
+Jungle Scout and Scope extension that adds Proven Private Label (PPL) functionality.  See a Pass or Fail based on PPL guidelines right inside Jungle Scout or Scope.  This extension does require a small one time fee.  If you have not already purchased, you can get information about it here:  https://gum.co/pplext/chromestore
+
+IMPORTANT!  You are not getting Jungle Scout or Scope with this extension.  You must already have one of those two products.
+
+2.0.33 : Added Amazon CA support.
+2.0.32 : Add halloween pass images.
+2.0.31 : Fix sales not showing for Jungle Scout.
+2.0.30 : Hopefully fix issue with license key being requested again.
+2.0.29 : Fix issue with links from Scope.  Added Amazon DE, FR, IT and ES support.
+2.0.28 : Fix issue with average price not calculating in the UK.
+2.0.27 : Fix problem of spaces in license key.
+2.0.26 : Fix for Jungle Scout and Amazon.co.uk.
+2.0.25 : Added Scope support.  Added explanation of results.  Added copy icon for copying results that can be pasted into Excel or Google Sheet.
+1.3.18 : Add frowning Ryan for Fails.
+1.2.1 : Bug fixes
+1.2.0 : Now updated while JS is loading results, giving a preview of the PPL score.  Will now recalculate after deleting a product.  Will copy and paste Excel formatted results by clicking the PPL score text.
+1.1.0 : Added options screen to allow setting your own PPL parameters.
+1.0.2 : First Release

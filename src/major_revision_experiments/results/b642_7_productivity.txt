@@ -1,0 +1,24 @@
+Display a company's rating on top of a job website like LinkedIn and so. 
+
+We let job seeker instantly check the employer's reputation ranking from a job ad page on most of popular job hunting websites.
+
+Two ways to use this extension:
+1: Click the extension icon form the toolbar and enter the employer company name
+2: Go to a job ad page of the supported job hunting website (e.g. job posting in LinkedIn) and click the extension icon from the toolbar.
+
+Supported job hunting websites:
+1. LinkedIn - www.linkedin.com/jobs/view
+2. ClassifiedPost Jobs - www.cpjobs.com/hk/job
+3. Stackoverflow - stackoverflow.com/jobs/
+4. WeWorkRemotely - weworkremotely.com/remote-jobs/
+5. CareerBuilder - www.careerbuilder.com/job/
+6. Indeed.com (Asia) - www.indeed.com/jobs
+7. Indeed.com (US) - www.indeed.com/jobs
+8. Jobstreet (Asia) - www.jobstreet.com
+9. Monster (Asia) - www.monster.com
+10. Monster (UK) - www.monster.co.uk/jobs/
+11. Reed (UK) - www.reed.co.uk/jobs/
+12. JobsDB (Asia) - jobsdb.com/job/
+13. PinoyJobs - pinoyjobs.ph
+14. Kalibrr - kalibrr.com
+15 BestJobs.ph - bestjobs.ph

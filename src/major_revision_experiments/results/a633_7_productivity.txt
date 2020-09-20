@@ -1,0 +1,43 @@
+Card Cutter is an intuitive, customizable, and seamless solution to cutting "cards" for debate or research projects. This extension provides a versatile solution to quickly and easily citing websites and formatting cards with a single click of a button. 
+
+Key features include:
+ - Auto citation
+ - Material Design inspired UI
+ - User preferences
+ - Dark mode
+ - Automatic card formatting
+ - Automatic "copy-to-clipboard" functionality for formatted cards
+
+WHAT'S NEW:
+v0.0.0.6
+December 23, 2018
+ - Minor bug fixes
+ - CardCutter website overhaul
+
+v0.0.0.5 
+December 25, 2017
+ - Minor bug fixes and performance updates
+
+v0.0.0.4
+October 24, 2017
+ - Added setting to auto-cite webpage on extension startup
+ - Minor bug fixes and performance updates
+
+v0.0.0.3
+October 16, 2017
+ - UI/UX improvements
+ - Bug fixes
+ - More settings
+ - Added option to restore settings to default
+ - Auto-cite feature now works better and on more websites
+ - Added feature to immediately start typing as soon as the extension open
+
+v0.0.0.2
+October 9, 2017
+ - Fixed issues with icons not showing up in certain scenarios
+ - Added context menu (right click menu) options to cut cards from highlighted text
+ - Updated the instructions
+
+v0.0.0.1
+October 7, 2017
+ - Initial release

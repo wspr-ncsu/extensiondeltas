@@ -1,0 +1,1 @@
+Sick of your new tab page taking ages to load, or finding that an array of widgets simply go unused? This is a minimalistic alternative that makes your new tab page blank, and slowly changes colors over time.

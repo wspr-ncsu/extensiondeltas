@@ -1,0 +1,7 @@
+Search MDN and NPM from the url omnibox.
+
+In the url bar, start a search with 'mmm <term>'.
+
+The highest-ranked results from Mozilla's MDN and npm's search will populate in the results list.
+
+Visit https://github.com/geuis/mdn-npm to contribute or file an issue.

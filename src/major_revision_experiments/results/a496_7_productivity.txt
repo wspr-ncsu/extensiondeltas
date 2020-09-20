@@ -1,0 +1,20 @@
+A google chrome extension to read twitter threads in an easier, quick and concise manner. 
+
+To use the twitview simply follow these steps: 
+
+1. Install the app 
+
+2. Go to twitter and find a thread you want read.
+
+3.Now that you are in the thread you want compiled go to the first post of the thread which is the tweet that started the thread. 
+
+4.Once you are on that thread scroll to the tweet you want to compiled and go below the authors replies to a newer tweet.
+
+5. Right click on the date of the newer tweet and you should see it underline and highlight.
+
+ 6.Click the compile tweet menu item from the right click menu and then a popup will appear with all tweets in reply to the original thread including the clickable links compiled.
+
+Other points:
+-Once the tweet is compiled you can click on the twitview symbol and you will be able to copy the entire thread.
+
+ -Images are not available yet but will potentially be added in the future as well as videos. If you encounter any errors navigate out of the page by clicking other comments then go back to the ORIGINAL FIRST POST and it will recompile no problems.

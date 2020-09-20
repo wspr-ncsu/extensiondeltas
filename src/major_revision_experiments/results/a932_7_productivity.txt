@@ -1,0 +1,6 @@
+Easy send to multi address bitcoin in blockchain.info, save your miner fee.
+
+step 1. record your payment in Excel or Numbers.
+step 2. copy 2 columns ADDRESS and AMOUNT.
+step 3. in blockchain.info custom send panel, click multisend icon and peast.
+step 4. check your payments and send it.

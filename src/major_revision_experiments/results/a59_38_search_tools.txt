@@ -1,0 +1,10 @@
+The Search Encrypt extension expires your searches from your local browser history and encrypts your search terms between your computer and searchencrypt.com. Searches are intercepted, encrypted locally, and redirected to our privacy-enhanced search engine.
+
+1. Search Encrypt checks the URL of each website you visit (this data is not logged or stored anywhere)
+2. For your privacy, Search Encrypt intercepts the requests if it's on our list of sites
+3. Search Encrypt encrypts your search locally using industry standard AES-256 encryption
+4. Your locally encrypted search term is securely transmitted to our servers
+5. To provide you with the most relevant results possible, we then decrypt your search term and securely request results from our search & content partners
+6. We aggregate the most relevant results and securely display them to you
+
+For added security, your local browsing history for any search we protect expires and cannot be viewed after 30 minutes of inactivity.

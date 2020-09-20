@@ -1,0 +1,3 @@
+Ampare Image To SVG is A Simple Chrome Extension That Convert Image such as ( PNG , JPEG and GIF ) To SVG Vector Format With Just Clicks.
+
+By Simply , Select Image and Save as SVG and Congrats! You Got Your SVG :)

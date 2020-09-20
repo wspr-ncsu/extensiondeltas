@@ -1,0 +1,1 @@
+Mark the recognize numbers in green and make them clickable, if not you can select the number and then write click and dial.

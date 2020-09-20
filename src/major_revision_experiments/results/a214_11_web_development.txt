@@ -1,0 +1,3 @@
+DDNS Client For NameCheap lets you automatically update the dynamic dns settings of any of your domains managed at namecheap.com.
+
+This app was created independently and is not affiliated with Name Cheap.

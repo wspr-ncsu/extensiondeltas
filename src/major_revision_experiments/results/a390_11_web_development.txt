@@ -1,0 +1,11 @@
+This extension is for professionals who creates a media content.
+
+To check meta-information of your site or article just open it in a Chrome and click extension's icon. Also you could add an URL manually.
+
+This extension shows you how many times your page was shared in social networks.
+
+If the extension helps you in your daily work please let me know it by press a "five stars" mark. It is very important for me.
+
+Please send your ideas and bug-reports to an emain ogpreview@gmail.com. For errors add an URL where you found it.
+
+Visit our Facebook page https://www.facebook.com/ogpreview/

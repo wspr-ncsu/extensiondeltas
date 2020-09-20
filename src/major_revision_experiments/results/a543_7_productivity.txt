@@ -1,0 +1,1 @@
+Deze extentie zorgt voor een juiste koppeling tussen Loxis app en externe toepassingen.

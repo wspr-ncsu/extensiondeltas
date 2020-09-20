@@ -1,0 +1,1 @@
+Layar Performence budget is showing your website performance ( RUM Speed Index, DOMContentLoaded and TTFB) with budget capability. This extension will help you when develop website so you can improve your web speed. Happy tweaking!

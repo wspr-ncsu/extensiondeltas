@@ -1,0 +1,3 @@
+Pinject provides a simple interface for injecting css into your browser so you can change the look and feel of any website. 
+
+Unlike other extensions that offer similar functionality, Pinject was designed to have minimal impact on website and browser performance. It injects css on page load and consumes no additional RAM while the app's popup is not open.

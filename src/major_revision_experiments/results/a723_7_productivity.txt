@@ -1,0 +1,7 @@
+Increase your productivity and don't get distracted by youtube videos while listening to music.
+This app has multiple options:
+* Turn all videos and thumbnails to black;
+* Minimize main video to show only the timeline. Minimize all the thumbnail's and zoom on hover.
+* Invert the color of all videos and thumbnails.
+
+This app is open-source and all the code is on: https://github.com/diogoperes/youtube-video-hider-app

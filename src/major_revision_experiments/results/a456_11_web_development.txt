@@ -1,0 +1,1 @@
+Simulates the `navigator.vibrate` native function on desktop.

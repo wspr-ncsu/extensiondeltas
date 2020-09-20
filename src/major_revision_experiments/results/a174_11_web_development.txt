@@ -1,0 +1,4 @@
+Refresh tabs automatically, without any efforts.
+
+Auto Tab Refresh is a simple extension which has an only one feature - refresh a page automatically. You may set an interval for refreshing tabs. from 5 secs to 30 mins. 
+To set the refresh time you need to click the icon in the toolbar, set minutes and seconds and hit start to go in live. To Stop auto refresh just click the button 'stop'.

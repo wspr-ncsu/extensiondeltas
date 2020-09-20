@@ -1,0 +1,5 @@
+Alpharabi.us is a Chrome extension that swaps out words in the articles of your favorite sites to encourage you to passively learn foreign language vocabulary.
+
+Additionally, you can log in to the web app to get quizzed on your new vocabulary at the end of each article and in the alpharabi.us dashboard.
+
+Check it out at www.alpharabi.us

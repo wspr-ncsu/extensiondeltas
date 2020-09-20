@@ -1,0 +1,9 @@
+This extension is developed for authors who cooperate on a document using Google Docs. 
+
+With this visualization extension, authors can have a understanding of how much they have edited others' writing. The more they edit others' writing, the more collision of ideas during their cooperative process, which might indicate that they have serious discussion on their writing and achieve a better writing quality.
+
+The arrowed edge pointing from author A to author B means that author A has edited author B's writing. The wider the edge, the more words that have been edited. 
+
+Different nodes with different colors stand for all the writers who cooperate on the document. The bigger the node, the more the author this node stands for has edited. If the node is semi-transparent, it means that the author this node stands for has never edited others' writing. This author has worked on his or her own part during the whole process.
+
+This visualization tool was developed with the help of Professor Judith Olson and Ph.D. student Dakuo Wang during my stay at University of California, Irvine in the summer of 2016.

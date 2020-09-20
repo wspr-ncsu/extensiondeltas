@@ -1,0 +1,7 @@
+A set of handy tools for web developments
+Includes:
+- Random content generator
+- Minifier/prettifier
+- JSON inspector
+- Storage inspector
+- Handy calculator

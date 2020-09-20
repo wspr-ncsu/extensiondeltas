@@ -1,0 +1,3 @@
+# Learning2Learn: An Intelligent Tutoring System
+
+This extension creates an AI tutor for the repl.it website programming tutorials.

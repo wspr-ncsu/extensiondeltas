@@ -1,0 +1,3 @@
+This extension requests access to Chrome's "desktopShare" in order to enable screen and application sharing on supported web pages on the pureweb.io domain.
+
+Users are able to share more than one applications (or the whole desktop) and each shared item appears in a dialog that can be moved (floated) within the browser.

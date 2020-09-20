@@ -1,0 +1,14 @@
+Simplistic, Clean and elegant; Just the way you like it.
+
++++FEATURES+++
+-Search Youtube, Reddit, Github, IMDB and Gmail from the new tab page.
+-Persistent notepad, lasting over new browsing sessions and reboots, resizeable, no max character limit,
+-Time & date
+-Clean, elegant design.
+-Lightweight.
+-Open Source
+-Integration with bookmarks
+
++++HOW TO USE+++
+
+After installing your new tab page will be upgraded, adding bookmarks inside a folder named "Favorites" will create an easy to use table for navigation in your bookmarks.

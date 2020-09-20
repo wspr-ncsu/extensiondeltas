@@ -1,0 +1,30 @@
+Do you work for long periods of time and forget to take regular breaks?
+Break helper reminds you to take a break with a notification and helps you track your progress with timers and statistics page.
+
+How to use
+To start using Break Helper you don't really need to do anything, just install it. The default settings use Pomodoro technique (25 minutes of work and 5 minutes of break time). If you want to change these settings to other preprogrammed techniques (like 20-20-20 or 50-10) or design your own custom technique, just click on the Break helper icon and inside the popup click "Preferences". You will be redirected to a Options page where you can set your configuration.
+
+To check how much time is left until the next break simply click on Break helper icon and inside the popup you will find a timer that tells you how much time is left until the next break.
+
+Updates:
+Update 1.6.3: Fixed playing sound when break is finished
+
+Update 1.6: Added back "Take a break" and "Skip this break" buttons, added countdown timers displaying break duration to the break notification, fixed playing break notification sound.
+
+Update 1.4: Added "Stop timer", changed notification sound to a louder one, added a timer on the extension button
+
+Update 1.3.1: Fixed notification appearance in Windows 7.
+
+Update 1.3: timer reset and time left until next break functionality was added. Minor bugs were fixed.
+
+Update 1.2: audio notification when break ends and Pomodoro technique were added.
+
+Update 1.1: a timer was added to the notifications for easier break duration tracking
+
+Update 1.0: we have two rules you can choose from:
+1) 20-20-20, which is "Every 20 minutes look at an object at least 20 feet (~6 meters) away for 20 seconds". 
+2) 50-10, which is "Work for 50 minutes, take a break for 10 minutes"
+
+If you have any problems, suggestions or just want to contact me, please email me at "breakhelper (at) tautvidas.com". I will do my best to help you.
+
+More updates are coming soon, stay tuned :)

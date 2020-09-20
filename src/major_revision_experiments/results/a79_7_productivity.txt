@@ -1,0 +1,4 @@
+Sortello helps you prioritize your Trello lists in just a few steps: using a binary-tree-based algorithm, Sortello will help you prioritize the cards of a Trello list, asking only for simple 1vs1 choices.
+
+Want to contribute? Take a look at https://github.com/mazzcris/sortello
+Found a bug? Please let us know by opening an issue here https://github.com/mazzcris/sortello/issues

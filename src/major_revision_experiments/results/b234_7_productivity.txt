@@ -1,0 +1,11 @@
+Using stack notifier you can subscribe for set of tags in Stackoverflow and also get real time notification from StackExchange inbox. Can link user profile to get StackExchange notifications. It will show desktop notifications whenever new questions available for selected tags.
+When user click on the notification it will directly open the question in a new tab.
+
+ v 1.0 released !
+ Minimum Op's reputation setting and bug fixes 
+
+ V 0.9 released !
+Now you can link your stackoverflow profile to get the inbox notifications.
+
+
+Happy "StackOverflowing"... !

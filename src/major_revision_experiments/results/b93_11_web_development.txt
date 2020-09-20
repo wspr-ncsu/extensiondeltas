@@ -1,0 +1,39 @@
+Cập nhật V 1.2.6 ngày 21/12/2018
+-Cập nhật chức năng rà soát trùng trong phạm vi huyện.
+=========================================
+Cập nhật V 1.2.5 ngày 21/12/2018
+-Lưu lại cấu hình cũ: bệnh viện, xã và tỉnh cấp.
+=========================================
+Cập nhật V 1.2.3 ngày 17/12/2018
+-Bổ sung chức năng đối chiếu thông tin cấp thẻ với danh sách đề nghị của đơn vị (D02, D03), danh sách phê duyệt của Ủy ban.
+=========================================
+Cập nhật V 1.2.2 ngày 01/12/2018
+-Cập nhật lại mã QL và một số lỗi mới theo nghị định 146.
+-Sửa danh sách hiển thị lỗi.
+-Thêm chức năng kiểm tra địa chỉ ấp, thôn.
+-Cập nhật tính năng kiểm tra trùng Offline.
+===========================================
+-Kiểm tra trường thông tin bắt buộc.
+-Họ tên, giới tính; ngày sinh 01/01.
+-Giá trị từ: mặc định ngày 01 đầu tháng.
+-Giá trị đến: HN, CN 31/12.
+-Kiểm tra nơi KCB ban đầu: KCB ngoài tỉnh, không nằm trong danh mục BV.
+-Đối tượng và mã vùng.
+-Đối tượng và mã hưởng.
+-Người giám hộ ( TE và đối tượng khác).
+-GD,HS,SV: phương án phát sinh.
+-Cảnh báo in lùi thẻ (trừ TE).
+-Tuổi trẻ em, người cao tuổi, các đối tượng còn lại.
+-Kiểm tra tuổi theo cấp: TH,THCS.THPT,SV:
+  +HS cấp TH phải có tuổi từ: 6-12 tuổi (Cho ở lại, học trễ 1 năm).
+  +HS cấp THCS phải có tuổi từ: 11-16 tuổi (Cho ở lại, học trễ 1 năm).
+  +HS cấp THPT phải có tuổi từ: 15-19 tuổi (Cho ở lại, học trễ 1 năm).
+  +Sinh viên phải có tuổi từ: 18-26 tuổi(Cho ở lại, học trễ 4 năm).
+-Kiểm tra theo mã vùng: khác báo lỗi.
+-Kiểm tra theo mã quyền lợi: khác báo lỗi.
+-Kiểm tra theo mã phòng ban: có hoặc không.
+-Kiểm tra theo mã BV: nằm trong danh sách báo lỗi.
+-Kiểm tra theo địa chỉ xã: khác xã báo lỗi.
+-Địa chỉ phải đủ 4 trường dữ liệu.
+-Địa chỉ ấp thôn.
+-Một số lỗi mặc định khác.

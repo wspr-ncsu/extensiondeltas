@@ -1,0 +1,11 @@
+"BIP Ticker" is a small Chrome extension to track dynamic and changes of BIP price.
+
+Features:
+– Auto price updates
+– Price changes
+– History chart
+– Application with open sources (https://github.com/Raccoona-Crypto/bip-ticker-extension)
+
+You can ask a question or leave feature issue by this link: https://github.com/Raccoona-Crypto/bip-ticker-extension/issues/new
+
+P.S. Made with ♥️ for Minter Community.

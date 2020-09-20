@@ -1,0 +1,11 @@
+Remember better when you see something over and over again! LearnTab uses spaced repetition, a scientifically-proven technique to boost your memory.
+
+How this extension work
+========================
+
+This extension helps you to remember better by showing a random saved item in your new tab.
+
+How to use
+==========
+
+After installed, on any webpages, highlight any sentences or text, right click & choose "Add to LearnTab". You'll see a random item displayed on your new tab from the list you saved.

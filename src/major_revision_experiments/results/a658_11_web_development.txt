@@ -1,0 +1,3 @@
+Image Resizer Online does all image resizing in the browser so you do not need to upload any images to server to resize the images. This also allows you to keep your images secure as all the images stay on your computer at all times as well as using no bandwidth for sending images to a server which also makes Image Resizer Online very fast. 
+
+Or visit: https://imageresizer.online/

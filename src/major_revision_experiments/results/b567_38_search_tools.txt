@@ -1,0 +1,75 @@
+----------------------------------------------------------------------------------------
+Updates:
+August   2018 - v2.6: Added new shortcuts.
+                      Changed layout of options & shortcuts.
+                      Fixed fresh install default options.
+                      Fixed small bug in hover of checkboxes.
+December 2017 - v2.5: Added SAP Passport link.
+October  2017 - v2.4: Notes content search URL updated to now highlight note 
+                       numbers again.
+January  2017 - v2.3: HAPPY NEW YEAR
+                      Bug fix for new PDF URL.                
+December 2016 - v2.2: Updated link to SL-Tools URL.
+October  2016 - v2.1: Bug fix for issues with highlight note numbers causing
+                       text to be incorrectly displayed along with HTML.
+                      New links in the options menu.
+July     2016 - v2.0: Updated to work with the new SAP ONE support portal.
+                      Includes new features:
+                       - Double click highlighted notes to open them even if 
+                          they are not links.
+                       - Link to your download basket.
+                       - Link to BOBJ SPS stack schedule.
+                       - Link to PAM.
+                       - Increased note history max items to 150.
+                       - Removal of obsolete functions/code.
+                       - Bug fixes & performance improvements.
+January  2015 - v1.3: Fixed issue with note searching after initial install.
+                      Fixed issue with note titles showing corrupt when using
+                       highlighting and title contains multiple note numbers.
+                      Added new component search feature from history.
+December 2014 - v1.2: Fixed Google Chrome font rendering due to https.
+                      Updated SWDC link to use support site URL.
+                      Added links to SL Toolset & SP Schedule.
+                      Increased opening tabs to 10 notes at a time.
+                      Increased note history to 100 notes.
+                      NOTE: Chrome permissions changed from service.sap.com to *.sap.com.
+
+August 2014 - v1.1: Updated to fix issue after Chrome bug fix caused history table to reverse its order.
+----------------------------------------------------------------------------------------
+
+Search for SAP notes faster:
+- From the Power Notes Searcher main popup, you can open a note (or 10 notes in one go), search for a note or perform a note content search, SCN search or help.sap.com search.
+- Highlight text on any web page and right click to open note numbers within the text.
+- Highlight text on any web page and right click to have any note numbers parsed out and copied to the clipboard.
+- Enter the text "note" followed by a space into the Chrome omnibox will allow you to directly type in up to 10 SAP note numbers to open.
+
+Search Efficiently:
+- You can select to open the note in a new tab or an existing tab.
+- When a SAP note is opened, the note number, title, component and version are recorded in the Power Notes Searcher history along with the date/time you accessed it.
+- Quick links on the Power Notes Searcher popup provide access to your download basket, software downloads centre, Top Notes, download basket, SP stack schedule, PAM & SL-Toolset.
+- You can export your entire note history into Excel or Word for easy inclusion in documents.
+- Right clicking a note page shows the "Auto-save note as PDF" function which saves the note as a PDF with the title and version in the PDF filename in your default download location.
+
+Search Smarter:
+- Enabling the "Highlight note numbers" will highlight note numbers that you have previously read, or haven't read in different colours when you open a note or when you search for notes through the Power Notes Searcher popup.  The notes you've read are green and you can hover over the highlight to see the Power Notes Searcher history entry for the note.  Unread notes are yellow.
+- Double click the highlight colours to open those notes, even if they are not links.
+- See your history of read notes in the Power Note Search popup, from there you can click the link to the note, hover the link to see the note title, or click the PDF icon to open the PDF version of the note.
+- Clicking the small block to the left of the note number in the history, will copy the note details to the clipboard.
+- Record a cookie trail when you open notes from notes, then display the relationship tree of where you've been.
+
+Chrome Extension Security Permissions - Why we need what we need:
+- We take your security seriously, so we only need what we need and here's why:
+ We access pages: https://*.sap.com/*
+                  https://*.sap-ag.de/*
+                  https://*.sap-ag.com/*
+ We create context menus (right click menus) on the above pages/sites.
+ We need to create new tabs and update existing tab locations.
+ We store your note search history locally in Chrome.
+ We allow you to quickly copy some details to the clipboard, but we don't read from the clipboard.
+ We have to manipulate the HTTP headers during a PDF download in order to adjust the filename.
+
+- We don't record your data for use other than for use with the tool.
+- We don't send any of your data to anywhere else other than local storage in Chrome.
+
+
+Please note, you will require your usual accessibility to the SAP Support Portal via your usual S-user.

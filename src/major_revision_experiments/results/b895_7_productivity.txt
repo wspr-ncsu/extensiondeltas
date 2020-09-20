@@ -1,0 +1,7 @@
+Neuma is an extension for accessing IOV, Ethereum, and Lisk blockchains.
+
+Neuma lets the user create and manage their own identities (via private keys, local client wallet), so when a Dapp wants to perform a transaction and write to a blockchain, the user gets a secure interface to review the transaction before approving or rejecting it.
+
+Neuma is open-source.  You can always "view the source" of Neuma the way you do any Chrome extension, or view the source code at https://github.com/iov-one.
+
+Neuma is built by IOV SAS, 55 rue de La Boetie, 75008, Paris, France.  https://iov.one/

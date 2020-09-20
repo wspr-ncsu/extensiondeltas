@@ -1,0 +1,22 @@
+==Observation
+
+When I ask users of AWS to navigate to a specific AWS service, the user typically takes a few seconds sinking in on the overwhelming number of services in the console page, subsequently entering the service name via Ctrl-F to find where to click.
+
+==Problem
+
+Too many service. Too difficult to find where the link is. Why is there no simple seach bar?
+
+==Solution
+
+Naturally, based on the observation, let's build a AWS Launcher that has search capability to help easily launch specific AWS services console.
+
+==Features
+
+* Instant Search to launching AWS services - no more scanning the console home page to see where to click
+* Enter to launch first listed service - type and enter and launch - don't need to use the mouse to click and launch
+
+==Further Work
+
+* save state
+* MRU
+* settings

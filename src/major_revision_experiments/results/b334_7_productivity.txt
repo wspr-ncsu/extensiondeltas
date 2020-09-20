@@ -1,0 +1,1 @@
+RecruitCraft's Import Tool allows users to easily import candidates or contacts from popular job boards and social sites. For a full list of supported sites please contact your account manager.

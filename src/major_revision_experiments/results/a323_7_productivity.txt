@@ -1,0 +1,5 @@
+This extension helps you create forum friendly links with url and title from current page in browser. BB code and a couple of other predefined formats are available upon installation. 
+
+In options page you can customize and add your own formats, and select default format to use. Options are saved to Chrome storage and is automatically synchronized between other devices that you are logged into. 
+
+This extension can safely be used in incognito mode, and options are persisted also here, no user information or logs is stored.

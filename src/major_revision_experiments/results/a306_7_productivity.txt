@@ -1,0 +1,15 @@
+Allows exporting cookies data for any TLD, with automatic recognition, into a legacy file format compatible with wget, curl, aria2 and similar, to allow download websites and/or webpages and their contents locally.
+
+You can download cookies either clicking on download link or copying the content of the popup and paste in your file.
+On Mac, once clicked on the button, you can download the cookies.txt simply typing RETURN.
+
+Provided usage examples make the download of web sites/pages and their content as easy as copying and pasting a single line of code.
+
+Useful examples for this extension, is to use authenticated session started in Chrome as well as custom parameters in terminal application.
+
+I'm on Twitter @daftano.
+Genuinous is also on Twitter @genuinous.
+
+If you like this extension and want to contribute to its maintenance, you're more than welcome to donate with PayPal at  http://goo.gl/3s4U0F
+
+TLD list is always maintained updated.

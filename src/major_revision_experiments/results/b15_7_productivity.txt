@@ -1,0 +1,5 @@
+1.3.1 Update: .eu support site
+1.3.0 Update: Now saving history is back
+Add "More" instead of "View All" for Trip and Charge log to load more log entries.
+Add "Save all" button for Trip and Charge log to save full log as .json file.
+Note: It will show and save as many entries as there are on server. Ford deletes old entries (I think only last 100 are available)

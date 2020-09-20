@@ -1,0 +1,3 @@
+Change Jira issues references into clickable link in Github PR title.
+
+WARNING: This is a first quickly created and very simple version.

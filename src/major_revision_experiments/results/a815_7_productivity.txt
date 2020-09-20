@@ -1,0 +1,7 @@
+Clouttery is a cloud-enabled, cross-platform battery monitor. With Clouttery for Chrome, you can see the battery levels of your devices and notifications about their batteries right in your browser.
+
+If you have never used Clouttery before, visit http://clouttery.xyz to know more. Right now, Clouttery can monitor Windows and Android devices.
+
+After pairing this extension with your Clouttery account, you'll be able to see the battery status of the devices in your account, know about notifications as they are issued, and dismiss them. You'll get notifications in real-time without accessing the web console.
+
+This extension does not have ads, and it doesn't track your web browsing habits.

@@ -1,0 +1,3 @@
+This extension configures your Default Search to App 
+
+Simply start typing your search query in the Omni Bar, also called address bar and perform your first search through App.

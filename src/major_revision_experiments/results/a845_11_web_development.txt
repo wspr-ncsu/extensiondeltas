@@ -1,0 +1,9 @@
+Background page request helps you to request a web page in a given interval.
+
+Required Settings:
+
+- URL to request
+- Request period in minutes
+- Expected page title of the requested url
+
+The requested web page tab closes after 5 seconds. If an expected page title is provided, the page will not be closed if the title does not match.

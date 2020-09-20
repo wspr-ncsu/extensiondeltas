@@ -1,0 +1,1 @@
+SSLight allows you to easily check the security status of login forms. SSLight will identify, analyze, and label login forms so that you know when it is safe to submit your information. This extension can protect you from the SSLstripping attack as well some internet scams (Fake websites). Install SSLight today and protect yourself on the internet!

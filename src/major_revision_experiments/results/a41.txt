@@ -1,0 +1,12 @@
+This extension re-enables the context menu.
+
+Indeed, many sites prohibit the right-click on images, pretending to protect their content. I think it is illegitimate. 
+
+Unfortunately, Google Chrome does not have advanced options for what javascript is allowed to do (on the contrary of Konqueror, Opera or firefox). If you think it should, please star (don't add a "me too" comment) 
+
+In the meantime, this extension provides a workaround, by resetting the oncontextmenu to its default behaviour on many elements of the page. Oh, as a bonus, it works for Flickr and Youtube html5 videos too!
+
+If a site is not supported, please report it in the bug tracker, not in the comments.
+If a site is broken by the extension, please report it in the bug tracker, not in the comments.
+
+However, a nice comment is always welcome :-)

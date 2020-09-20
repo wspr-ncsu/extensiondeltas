@@ -1,0 +1,3 @@
+This extension is intended for internal use for Contentsquare employees.
+
+It allows Contentsquare employees to detect 3rd party vendors that we integrate with on our customer's websites and prospect sites so that we can know what vendors they have on their page in order to proactively contact our customers and offer them an integration. It is specifically only the products we have integrations for.

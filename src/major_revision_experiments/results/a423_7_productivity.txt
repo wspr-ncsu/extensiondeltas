@@ -1,0 +1,12 @@
+A Roblox group notifier bot for Electro Legion. It detects information based on the shout and responds accordingly to that data.
+This extension creates a notification to tell you when Electro Legion has a wall shout. You can turn it off/adjust settings in the extension itself.
+
+
+Interested in Electro Legion? Check us out by joining our group!
+http://www.roblox.com/My/Groups.aspx?gid=527677
+
+Change Log:
+http://pastebin.com/meGqgvY0
+
+
+Created by TheBlissful(fuffy/fufyf).

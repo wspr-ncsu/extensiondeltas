@@ -1,0 +1,7 @@
+This extension allows you highlight words on any website.
+
+You can specify which websites to run on
+
+You can specify which words to highlight per page
+
+You can specify which color you would like to highlight with

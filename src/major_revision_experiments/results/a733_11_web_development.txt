@@ -1,0 +1,3 @@
+The COBI.Bike DevKit is a collection of Open Source components to develop modules for COBI.Bike – the perfect fusion of smartphone and bike.
+
+COBI.Bike DevKit Simulator is a Chrome Extension to develop & test COBI.Bike Modules without having to ride a bike. Riding & fitness data can be simulated by playing back pre-recorded cobitrack or GPX files. Learn more on https://cobi.bike/devkit

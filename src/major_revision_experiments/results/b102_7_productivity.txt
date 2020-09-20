@@ -1,0 +1,5 @@
+With this extension you can access to the Windows Certificate Store to export user certificates (PKCS#12) using QR codes that can be scanned from a smartphone, or import them using a camera connected to the computer.
+
+To perform the import/export of certificates, an animation will be showed with the QR codes, necessary to encode the information (in most cases the size of a PKCS#12 will be larger than it can be encoded in a single QR code).
+
+This extension also includes a content script that will allow the KEYGEN function to be invoked from any web page, which will create a private key within the Windows Certificate Store and compose a PKCS#10 certificate request (similar to the old <keygen/> tag that was available long ago in web browsers).

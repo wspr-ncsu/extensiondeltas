@@ -1,0 +1,3 @@
+Helper extension for services offered by Howtoreach.Me (http://howtoreach.me/), offering unlimited personal forwarding email addresses, hiding your own email from uncool websites, hackers and spammers.
+
+Quickly inserts site-specific email address for your Howtoreach.Me user into input fields on a page.

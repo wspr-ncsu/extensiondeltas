@@ -1,0 +1,15 @@
+* Supports Dynamics 365 Online & Power Apps (On-premise version not supported)
+
+The Dynamics 365 & Power Apps Metadata Browser is a helper tool to browse metadata of Common Data Service (CDS) based applications such as Microsoft Dynamics 365 & Power Apps. Supported by both Google Chrome and Microsoft Edge, the tool uses Web API for browsing entities, attributes, relationships & option sets.
+
+The tool can be easily used by consultants, testers and developers for retrieving meta information from Common Data Service in no time.
+ 
+Some feature highlights are as follows:
+1. Browse entity metadata like logical names, schema names and other properties
+2. View all existing attributes for selected entity along with their properties.
+3. Shows 1:N/N:N relations and associated properties of individual relationship for selected entity, like schema names, relationship behavior and other frequently used characteristics.
+4. Quick access to Option Set labels and values.
+5. Global Retrieve of all entities in organization with associated properties.
+6. All above details can be easily downloaded to an editable spread sheet.
+7. Installation in less than a minute, no additional configuration needed.
+8. No separate login required. It uses existing connection to Web API.

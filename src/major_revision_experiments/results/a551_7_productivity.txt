@@ -1,0 +1,10 @@
+Social media making you antisocial? Sick of getting drawn into arguments on some forum? Wasting time on some terrible "news" site instead of doing literally anything else?
+
+Ever wanted to just delete a website and never visit it again?
+
+This simple extension does just that! Simply press the delete button and the website will be deleted*. Visit the site again and you'll just see an error page. What a relief! Now you can do something productive instead.
+
+Come up with a witty retort after deleting a site in anger? Just hit the button again and the extension will dig the site out of the trash, dust it off and it's good as new.
+__________________________
+
+* Deleted sites are added to a list, redirecting you to a standard-looking error page. Unfortunately (as much as we would sometimes like to) we can't really delete entire web sites.

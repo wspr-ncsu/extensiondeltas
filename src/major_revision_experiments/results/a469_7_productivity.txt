@@ -1,0 +1,1 @@
+Reloads the page when the audio cuts out. Currently supports iPlayer.

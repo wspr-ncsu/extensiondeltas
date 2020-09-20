@@ -1,0 +1,25 @@
+Struggling to get data from PDF tables to Excel?
+
+Using Tabello all you have to do is simply activate the extension and drag a selection around your data - and your data is instantly converted to Excel friendly format, ready to be pasted into Excel! Letting you focus on the analysis rather than typing data into Excel.
+
+FAST
+Tabello delivers almost instant results, so no lead time to around to that analysis you are working on
+
+ACCURATE
+Tabello uses the built in data of the PDF which generates great results every time, with no need for double checking
+
+SECURE
+Tabello does most of the operations on your computer, so no sensitive data leaves your computer*
+
+LOCAL AND WEB FILES
+Tabello supports both PDFs from the web and files hosted on your harddrive. Simply open the PDF in Chrome (for example by dragging the file to Chrome) and you have access to the same features as always!
+
+OPTIMIZED FOR SINGLE TABLES
+As opposed to most online converters, Tabello is optimized to work on single tables and not entire, multi-page documents. Examples include annual reports, research reports, academic reports, company presentations and other documents where PDF keeps valuable data locked down.
+
+* Only guaranteed for paying users
+
+
+If you want to use Tabello to view local files, visit chrome://extensions/?id=odddfohmnjlodebdmnipoopeemfnnoko and put a check before "Allow access to file URLs".
+
+By installing this extension you accept our Terms of Service (https://tabellopdf.com/terms) and Privacy Policy (https://tabellopdf.com/privacy-policy). Please take the time to read it.

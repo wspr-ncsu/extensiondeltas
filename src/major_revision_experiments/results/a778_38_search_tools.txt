@@ -1,0 +1,23 @@
+* Available in all regions except Korea server.
+
+Chrome extension makes OP.GG easier!
+Start using OP.GG automatically. When the game starts, it automatically proceeds with multi-search, champion analysis, and rune settings depending on the situation.
+OP.GG Extension is currently in beta testing. We'll take your feedback and come with a better service.
+
+
+Key features
+
+- Automatic Multi-Search
+Now don't need to copy/paste to multi-search.
+When the game starts, the summary of your team members will automatically appear on OP.GG.
+
+
+- Champion Statistics
+Check the champion analysis page with the champion that you choose.
+Extension will automatically show the champion analysis page when you choose a champion.
+
+
+
+- Automatic Rune Settings
+If you are having hard time changing rune right before the game starts, check out the automatic rune settings feature.
+Extension will automatically set your rune with the most popular one based on our champion analysis data.

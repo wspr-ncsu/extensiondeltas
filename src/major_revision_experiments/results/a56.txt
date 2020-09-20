@@ -1,0 +1,8 @@
+The tool enables efficient test-automation for SAP UI5 and OpenUI5 Applications, by providing you a test-recorder for UI5 with exporting capabilities to uiveri5, testcafe and OPA5.
+
+During recording the tool supports you in setting the perfect combination of unique attributes in order to allow a stable test-execution.
+
+The tool has support for the following test-frameworks:
+- UIVeri5
+- testcafe
+- OPA5

@@ -1,0 +1,7 @@
+If you're like me then you have to order the pizza for the office. Once the order is in then the countdown to pizza time is on. Left and right your co-workers want status updates "Where is the pizza?", "Will it be here soon?" and "Did it pass the quality check?". 
+
+Well, fear no more. The Slack'n Domino's Tracking Notify plugin is here to help. Simply add your Slack's web api token and preferred channel name and poof! Your Pizza Tracker notifications are pushed to slack.
+
+You must keep the pizza tracker page open and your computer awake for notification pushes to work.
+
+works for Domino's Canada only at the moment.

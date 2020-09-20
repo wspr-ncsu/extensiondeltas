@@ -1,0 +1,7 @@
+Print GitHub Flavored Markdown exactly as it appears on GitHub, with just two clicks.
+
+Faster and easier to use than other methods, such as downloading the markdown file and running it through a converter.
+
+Works on any page on GitHub or GitHub Enterprise that has a markdown preview.
+
+Post issues and suggestions here: https://github.com/jerry1100/github-markdown-printer/issues

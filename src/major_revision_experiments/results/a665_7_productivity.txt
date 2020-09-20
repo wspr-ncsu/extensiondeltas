@@ -1,0 +1,1 @@
+Chrome extension for importing into the browser window the displayed value for E-SCALE Google app

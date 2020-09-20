@@ -1,0 +1,21 @@
+Send hundreds of emails to recipients individually. Like a newsletter or a birthday invitation. All in Fastmail.
+
+Firefox version: https://addons.mozilla.org/en-US/firefox/addon/massfastmail
+
+LIMITS
+
+Check your Fastmail limits for accurate information. The Basic plan can send 1000 emails at a time.
+
+ROADMAP
+
+- Mail merge: Use ${firstname} type of variables from CSV or Google Sheets.
+- Auto-followup: if your contact hasn't replied in two days, send an automatic followup (queue).
+- Track opens and clicks
+- In depth analytics (optional of course)
+- Team plans
+
+TROUBLESHOOTING
+
+- Emails that fail to send are left in the draft for your review.
+- Generally it's a good idea to add yourself to the newsletter just to confirm everything works.
+- It's normal that 100 emails take (exactly) a minute to send, we tempo it down so no Fastmail filters are triggered.

@@ -1,0 +1,3 @@
+This plugin was created in order to give the searches a more social approach to the end users, so that when you search for some info in one of the majos engines like (google, yahoo, bing,yandex, baidu) if other users search for the same as you, you can check the info the share, try a chat or share your own info so that others can see it.
+
+We think that the human being is the best link and so we create this plugin to attach the links provided a human approach to the info they have.

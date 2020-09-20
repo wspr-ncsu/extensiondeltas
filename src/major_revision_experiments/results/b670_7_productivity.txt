@@ -1,0 +1,1 @@
+Because Twitter's trending is not relevant to me. CSS only. Does not require JavaScript. Does not phone home. For the paranoid out there, you may also install manually via github: https://github.com/59023g/not_trending

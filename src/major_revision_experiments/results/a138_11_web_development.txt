@@ -1,0 +1,3 @@
+GhostPage can simplify the page style, you can use it to check the page layout or debug unwanted scrolling. Just click the extension icon, you will see the change. 
+
+Don't worry! Everything will return normal when your refresh the page.

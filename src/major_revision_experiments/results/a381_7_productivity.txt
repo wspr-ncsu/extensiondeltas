@@ -1,0 +1,22 @@
+Joins two or more windows into single window. Popups are also merged into the window as they are created. More options available. 
+
+Helps you to close unnecessary pop-ups instantly without even looking at the page
+
+Following are the features...
+1.  Automatically join the popups (makes it easy to close popups)
+2.  Option to join popup in background and foreground
+3.  Option to join new windows and detached tab
+4.  Option to join new tabs at immediate right to current tab
+5.  Option to enable single click to join all the windows
+6.  Ability to add exceptions in the form of urls
+7.  Options to enable disable joining of windows 
+
+Keep your windows in control!
+
+More extensions at http://tejji.com/browser/chrome/extensions/
+
+Thanks,
+http://tejji.com
+
+v1.2 - 2018-09-13
+- changes to ensure compliance to Chrome Web Store policies

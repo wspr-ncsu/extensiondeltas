@@ -1,0 +1,1 @@
+A super simple, interactive HSLA (HUE, SATURATION, LIGHT and ALPHA) color picker chrome extension. this HSLA color picker make the task easy for developers, html slicers, and Photoshop designers.

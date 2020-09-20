@@ -1,0 +1,10 @@
+ModernDeck is an extension that has a comprehensive Material Design-inspired skin, and enables you to truly customise your TweetDeck experience. The UI works around the principles of floating paper, to make TweetDeck appear uniform and seamless, but also ModernDeck also makes this malleable.
+
+Want to change the theme colour? You can do that using the complementary theme selection.
+Want to use a different theme entirely? You can do that too using the complete theme selection.
+Want to use stars rather than hearts? Got you covered.
+Want rounded profile pictures or square? Covered there too.
+Want to change how scroll bars look and function? Got it.
+Want to make TweetDeck easier to use without needing a mouse? You can even do that as well.
+
+ModernDeck, version 6 in particular, essentially provides you with a beautiful canvas, and many ways to tweak it. Because people come in many varieties--not everyone wants just black or white. Whatever your configuration and preferences may be, ModernDeck's got your back. It's our core philosophy that TweetDeck is a powerful tool, but its UI could use some freshening up, so it work better for you, without you having to work harder for it. 6 major versions later, we stay true to this, and since ModernDeck's introduction in 2014, we've essentially spawned an entire new class of apps and extensions: TweetDeck skins. Even if our offering isn't the best, or doesn't fit you, there's probably one that does. Though ModernDeck to this day is still, arguably, the freshest and most customisable available. Give it a shot, it's free forever for you to enjoy.

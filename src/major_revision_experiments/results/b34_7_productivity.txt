@@ -1,0 +1,9 @@
+Echo for ArcGIS is a browser extension that syncs directly with ArcGIS Online. Echo offers a user-friendly design for quick access to all your personal and organizational content, groups, and favorites.
+
+Access all your regular ArcGIS Online resources from one simple browser extension. Try out the AppLauncher, which links directly to the Developers site and powerful apps like Survey123, Operations Dashboard, and more.
+
+Sync multiple ArcGIS Online accounts, and easily toggle between them without logging out. Quick link to Esri Technical Support and the vast library of Esri Training Materials. Dive in and join the GeoNet community, where customers, partners, and Esri staff connect, collaborate, and share experiences.
+
+Customize your Echo settings to manage connected ArcGIS Online accounts, choose your default Echo landing page, and suggest new ideas for the Echo for ArcGIS extension. Streamline the ArcGIS Online experience with Echo for ArcGIS.
+
+Echo is powered by GeoMarvel, a GIS software development company offering a range of GIS, cloud, data, and GIS support services. Visit the GeoMarvel tab to learn more.

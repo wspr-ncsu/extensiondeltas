@@ -1,0 +1,11 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.1",
+  "description": "Node.js on Docker",
+  "author": "Nikos Pantelaios",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "esprima": "^4.0.1"
+  }
+}

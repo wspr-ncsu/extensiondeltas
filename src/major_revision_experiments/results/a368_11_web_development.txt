@@ -1,0 +1,1 @@
+Inject code snippets, scripts, HTML, CSS into selected DOM elements and see them render dynamically onto web pages to make design and developmental decisions quickly.

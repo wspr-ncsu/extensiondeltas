@@ -1,0 +1,50 @@
+Tusk adds KeePass functionality to your browser.  It does not require KeePass to be installed, and is suitable for using KeePass with Chromebooks.  Tusk is read-only and can be configured without granting the extension access to manage your cloud storage accounts.  It can be used with:
+
+* Google Drive
+* Dropbox
+* Onedrive
+* pCloud
+* OwnCloud and NextCloud
+
+It includes:
+
+* KDBX Version 4 Support
+* WebDAV support
+* OTP support
+* Shared Link support
+* HTTP fetch support
+* Better security practices and updates.
+
+Tusk is a fork of CKP and seeks to provide improvements to the UI, better security practices, and KDBX version 4 support.  Visit https://subdavis.com/Tusk for more information.
+
+Tusk is Open Source and provided under an MIT license.
+
+** UPDATE LOG **
+================
+v2018.9.27 - Bugfix #257
+----------------
+v2018.9.16 - UI Update, new settings, bug fixes.
+----------------
+v2018.6.27 - Bug fixes
+----------------
+v2018.6.16 - CRL+SHIFT+SPACE opens popup, other fixes.
+----------------
+v2018.5.19 - Pcloud and hotkey navigation!
+----------------
+v2018.2.25 - WebDAV support!
+----------------
+v2018.2.17 - KDBXv3.1 (chacha20+AES KDF)
+----------------
+v2018.2.12 - Solve race condition when opening before cache expires.
+----------------
+v2018.1.31 - TUSK_URLS custom field
+----------------
+v2018.1.23 - KeeOTP support; clipboard timeout preferences.
+----------------
+v2018.1.16 - solve #64, add Hotkeys Ctrl+Shift+Space
+----------------
+v2018.1.8  - fix bug with XML-based keyfiles
+----------------
+v2018.1.7  - use persistent background page
+----------------
+v2018.1.5  - Tusk!  A ground-up rewrite of the UI + major bugfixes.

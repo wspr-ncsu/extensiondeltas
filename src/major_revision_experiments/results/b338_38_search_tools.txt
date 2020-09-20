@@ -1,0 +1,2 @@
+If you've ever had your browser switch search engines for no reason, you know the frustration. Search Swapper makes it easier to pick (and keep) your search engine. Choose between Google, Yahoo, and Bing for your search engine and also enjoy a choice of ten different backgrounds.
+By default, Search Swapper will change your search engine to Yahoo, although you can always change it back from the new tab page.

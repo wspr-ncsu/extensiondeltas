@@ -1,0 +1,10 @@
+What is MusicSpider?
+
+  - We developed spiders which constantly crawl songs from different resources. (Like Google's spiders)
+  - And built a chrome extension to boost your productivity.
+  - You don't have to switch tabs/applications ever again.
+  - Have your playlist closer to you.
+
+Can't wait to hear how much you love using it.
+Please leave a review and share with your friends.
+https://bit.ly/musicspider

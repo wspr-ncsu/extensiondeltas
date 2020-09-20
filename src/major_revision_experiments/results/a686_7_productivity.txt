@@ -1,0 +1,21 @@
+Hello man! Are you a fan of Bob Marley? Do you like the Jamaican way of life and the message in his songs? Mee too.
+
+That's why I created this Chrome extension, to make my life easier and to feed the Marley's fan inside me :) Hope you like it.
+
+Features:
+- each tab you get a new Bob Marley image that you'll love
+- each day a new inspirational quote
+- speed dial
+- super easy usability to navigate through Bookmarks, Apps, Most Visited and Last Visited. Just mouse over them...
+-not the last, Google search form. Efficiency, man!
+
+If you need more features, let me know.
+If you like it, let me know (and give me a 5* review :))
+
+Why the app needs those permissions?
+To be able to display in a friendly format the bookmarks, apps, most and last visited sites, the extension needs access to read them before displaying.
+
+How to uninstall it?
+Go to toolbar and write: chrome://extensions. Go to Bob Marley New Tab and uninstall it. No trouble, man!
+
+“One love, one heart. Let’s get together and feel all right” - Bob Marley

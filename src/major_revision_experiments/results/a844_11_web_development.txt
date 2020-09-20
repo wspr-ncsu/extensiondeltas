@@ -1,0 +1,1 @@
+When you're sending JSON data in Papertrail logs this is an easy way to see JSON data visually structured.

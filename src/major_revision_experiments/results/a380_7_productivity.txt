@@ -1,0 +1,1 @@
+A browser extension that makes it easy to add websites to your MVP activity feed.

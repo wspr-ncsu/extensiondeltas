@@ -1,0 +1,12 @@
+Auto Refresh Plus enables you to set the refresh interval in accordance with your needs. 
+
+Auto Refresh Plus not only refreshes the page but also supports content detection, which is very useful when you want to find some content in a dynamic webpage.
+
+The key feature list:
+
+- Refresh page base on time interval.
+- Set default time interval.
+- Timer to start(A countdown to start to refresh).
+- Auto start refresh when start Chrome
+- Monitor page when refresh page.
+- Show notification and play sound for page monitor.

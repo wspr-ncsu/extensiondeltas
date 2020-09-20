@@ -1,0 +1,156 @@
+ \hline
+extension \halfTab \tab 0.186564 &
+tool \tab     0.029820 \\ 
+\hline
+chrome \halfTab \tab   0.157341 &
+buttons \tab  0.028817 \\ 
+ \hline
+signup \halfTab \tab   0.118862 &
+web \tab         0.025196 \\ 
+ \hline
+click \halfTab \tab    0.069693 &
+support \tab    0.025060 \\ 
+ \hline
+website \halfTab \tab  0.063508 &
+youtube \tab 0.015109 \\ 
+ \hline
+product \halfTab \tab  0.059627 &
+videos \tab  0.013978 \\ 
+ \hline
+email \halfTab \tab    0.058668 &
+activating  \tab    0.007371 \\ 
+ \hline
+app \halfTab \tab      0.058806 &
+workflow \tab0.006296 \\ 
+ \hline
+credentials \halfTab \tab0.049734 &
+access \tab  0.005807 \\ 
+ \hline
+download \halfTab \tab   0.049734 &
+user \tab    0.005270 \\ 
+ \hline
+visit \halfTab \tab       0.048888 &
+address \tab 0.005116 \\ 
+ \hline
+version \halfTab \tab  0.042233 &
+windows \tab 0.003714 \\ 
+ \hline
+browser \halfTab \tab  0.038744 &
+account \tab 0.003376 \\ 
+ \hline
+add \halfTab \tab      0.037630 &
+vendors \tab 0.003148 \\ 
+ \hline
+time \halfTab \tab     0.036105 &
+watchlists \tab     0.003148 \\ 
+ \hline
+
+\hline
+extension \halfTab \tab0.186564 &
+tool \tab     0.029820
+
+
+chrome \halfTab \tab   0.157341 &
+buttons \tab  0.028817 \\ 
+ \hline
+
+
+signup \halfTab \tab   0.118862 &
+web \tab         0.025196 \\ 
+ \hline
+
+
+click \halfTab \tab    0.069693 &
+support \tab    0.025060 \\ 
+ \hline
+
+
+website \halfTab \tab  0.063508 &
+youtube \tab 0.015109 \\ 
+ \hline
+
+
+product \halfTab \tab  0.059627 &
+videos \tab  0.013978 \\ 
+ \hline
+
+
+email \halfTab \tab    0.058668 &
+activating  \tab    0.007371 \\ 
+ \hline
+
+
+app \halfTab \tab      0.058806 &
+workflow \tab0.006296 \\ 
+ \hline
+
+
+credentials \halfTab \tab0.049734 &
+access \tab  0.005807 \\ 
+ \hline
+
+
+download \halfTab \tab   0.049734 &
+user \tab    0.005270 \\ 
+ \hline
+
+
+visit \halfTab \tab       0.048888 &
+address \tab 0.005116 \\ 
+ \hline
+
+
+version \halfTab \tab  0.042233 &
+windows \tab 0.003714 \\ 
+ \hline
+
+
+browser \halfTab \tab  0.038744 &
+account \tab 0.003376 \\ 
+ \hline
+
+
+add \halfTab \tab      0.037630 &
+vendors \tab 0.003148 \\ 
+ \hline
+
+
+time \halfTab \tab     0.036105 &
+watchlists \tab     0.003148 \\ 
+ \hline
+
+
+
+
+
+ \hline
+  add \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+  app \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline
+   aaa \halfTab \tab 000 & bbb \tab 111 \\ 
+ \hline

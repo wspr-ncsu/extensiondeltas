@@ -1,0 +1,9 @@
+This is simple extension which gives you the HTML color code for any selected color. There are two method of color coder.
+1. First method gives you the HTML color code of the selected color square.
+2. Second method is the color picker. You just have to click on the text box. Then the color picker appears. You have to select the color that you want with shades & the HTML color code will appear in the text box.
+
+This extension is also available for Mozilla Firefox browser at below link:
+"https://addons.mozilla.org/en-US/firefox/addon/html-color-coder/"
+
+This extension is also available for Opera browser at below link:
+"https://addons.opera.com/en/addons/extensions/details/html-color-coder/1.0.1/"

@@ -1,0 +1,1 @@
+Convert ANSI characters to colors on the fly / on button click for the lazy ones. Does what ansi-html-stream does but within browser.

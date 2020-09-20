@@ -1,0 +1,23 @@
+This product is neither created nor endorsed by Instagram.com.
+
+"Toolkit For IG by PlugEx" is a collection of automation tools for Instagram.com developed by PlugEx Software.
+
+Our product provides your various tools to automate and interact with Instagram.com.
+
+Some of the key features and their general use is described below:
+
+1. Click all follow buttons: Using this tool you can follow multiple Instagram profiles that are displayed on your suggestions page. This tool allows you to follow multiple profiles in less time by clicking all visible follow buttons one by one. You can specify a custom delay time and whether you want to auto scroll by using input fields displayed on page.
+
+2. Click all unfollow buttons: Using this tool you can unfollow all Instagram profiles that were previously followed by you. This tool allows you to click all unfollow all profiles followed by you by clicking on all visible unfollow buttons one by one. You can specify a custom delay time and whether you want to auto focus on buttons by using input fields displayed on page.
+
+3. Click all like buttons: Using this tool you can like all posts that are displayed on a page. This tool allows you to click all like buttons displayed on your Instagram feed by clicking like buttons one by one. You can specify a custom delay time and whether you want to auto focus on buttons by using input fields displayed on page.
+
+4. Click all unlike buttons: Using this tool you can unlike posts that were previously liked by you. This tool allows you to click all unlike buttons displayed on your Instagram feed by clicking unlike buttons one by one. You can specify a custom delay time and whether you want to auto focus on buttons by using input fields displayed on page.
+
+5. Click all comment like buttons: Using this tool you can like all comments added on a specific Instagram post. This tool allows you to click all like buttons displayed on your Instagram feed by clicking like buttons one by one. You can specify a custom delay time and whether you want to auto scroll by using input fields displayed on page.
+
+6. Click all comment unlike buttons: Using this tool you can unlike all comments on any post on Instagram that were previously liked by you. This tool allows you to click all unlike buttons displayed on your Instagram feed by clicking unlike buttons one by one. You can specify a custom delay time and whether you want to auto scroll by using input fields displayed on page.
+
+7. Enable / Disable mobile user agent for Instagram: Using this tool you can enable mobile user agent while browsing Instagram. Enabling this tool will change your browser user agent to iPhone, allowing you to access mobile version of Instagram. After enabling this tool you will be able to upload photos to Instagram and access other mobile only features using your web browser.
+
+8. Quick links for Instagram: This tool combines all useful Instagram links on single page, allowing you to instantly search and open useful links without any delay.

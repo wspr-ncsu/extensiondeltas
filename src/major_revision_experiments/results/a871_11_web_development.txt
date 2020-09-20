@@ -1,0 +1,2 @@
+Postman helps you send requests which use browser cookies through the Postman app. 
+It can also send headers which are normally restricted by Chrome but are critical for testing APIs. The Interceptor makes this process painless. Something that would have required a proxy earlier can now be achieved without any installation steps or extra configuration.

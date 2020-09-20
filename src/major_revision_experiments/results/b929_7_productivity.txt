@@ -1,0 +1,9 @@
+Are you waiting for the VIN of your Tesla to be assigned to your order?
+
+This browser extension reads out the source code of your Tesla account page and detects changes in the VIN assigned to your order. All you have to do is load your account page and we'll do the rest.
+
+- If a VIN is assigned, you'll receive a pop-up window
+- It sometimes happens that a VIN is changed. We'll notify you too.
+- No VIN found anymore? We'll let you know.
+
+All actions happen as soon as you log in to your account and the page is fully loaded, and no data is stored on our side.

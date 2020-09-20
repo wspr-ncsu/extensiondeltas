@@ -1,0 +1,3 @@
+This lightweight chrome extension is aiming to control screen addiction. It applies gray filter to images and videos, so it makes images and videos less appealing. 
+
+So next time when you try to binge watching TV shows or watching youtube videos non-stop, you can get bored watching videos if you are using this extension.

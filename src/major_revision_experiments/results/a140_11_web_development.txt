@@ -1,0 +1,5 @@
+Defenestration is an English word meaning, "throwing out of a window". This add-on will put into a window any source code of the element you are hovering over. That's it.
+
+The source code is licensed under GPLv3, found at https://github.com/polypmer/fenestrate
+
+The syntax highlighting is done with the 3rd party (BSD-3) library highlight js.

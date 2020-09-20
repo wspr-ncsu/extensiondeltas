@@ -1,0 +1,7 @@
+Open Tabs allows you to create groups of tabs, save them across multiple devices, and re-open them later. Reduce memory consumption and speed up your computer by saving into groups all the tabs that you don't need right now, and focus on what's relevant.
+
+If you usually find your browser with dozens of tabs open at a time or if you have several sets of tabs that you always use for specific activities in Chrome, you might find Open Tabs very useful.
+
+Open Tabs syncs to your Google account which means you it will remember your tab groups on any computer as long as you're signed in and you can customize it however you want.
+
+This extension is still in development, and therefore it will continue to improve over time. Your feedback is always very welcome.

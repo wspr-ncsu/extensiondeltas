@@ -1,0 +1,5 @@
+The Signature Viewer helps you to validate the signature on an Inline XBRL document.
+
+The development and publication of this plug-in is endorsed by the Global Legal Entity Identifier Foundation (https://gleif.org/) and XBRL International (https://xbrl.org/).
+
+A sample document is available on https://opensbr.org/inline/gleif-annual-report-2017/reports/GLEIF-Annual-Report-2017.signed.html

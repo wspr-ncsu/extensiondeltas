@@ -1,0 +1,1 @@
+Running the relevant test for wix system after publish.

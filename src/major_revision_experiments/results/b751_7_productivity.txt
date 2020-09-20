@@ -1,0 +1,8 @@
+El Conjugador permet de conjuguer tous les verbes espagnols à tous les temps. En plus de la seule conjugaison, il contient une liste de tous les verbes ce qui permet de retrouver l'orthographe exacte d'un verbe. 
+
+Vous pouvez également:
+- écrire un nombre en espagnol (ex: 20)
+- rechercher un verbe particulier (ex: am* donne tous les verbes commençant par am.)
+- retrouver l'infinitif d'un verbe déjà conjugué (ex: veo)
+
+Cette application se connecte sur le site http://www.elconjugador.com pour obtenir les résultats.

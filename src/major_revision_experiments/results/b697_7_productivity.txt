@@ -1,0 +1,3 @@
+Auto Cleans the complete browsing history when you close the chrome window. Caution: It removes the complete history. It also counts the number of saved history urls in the memory and displays the number. Please only install if you want to keep deleting your history in normal mode. I built it for personal use where I want every session cleared when I close the chrome window.  This feature is available by default in Firefox, I just tried to replicate it. Thanks for your support. 
+
+Caution(again): Only use in dev mode please.

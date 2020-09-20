@@ -1,0 +1,5 @@
+Javascriptのテスト等にお使いください。
+
+作成にあたって次のライブラリ,リソースを使用させていてだいております。制作者の方に深く感謝致します。
+jQuery > http://jquery.com/
+The Noun Project OCHA AVHM - Construction > http://thenounproject.com/ochaavmu/

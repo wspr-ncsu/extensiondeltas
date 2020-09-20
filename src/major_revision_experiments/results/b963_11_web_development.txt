@@ -1,0 +1,2 @@
+Search Mturk HIT and automatically add is to you HIT queue. HIT search basically refresh all mturk tab in a given particular time untill your search priority name matches with search result.
+If you select Auto Accept Option then if search priority name matches with search result then 2 HIT will be automatically added in you mturk HITs queue.

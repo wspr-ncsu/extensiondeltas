@@ -1,0 +1,8 @@
+Set up iCloud for Windows
+
+1: Download iCloud for Windows. If it doesn't install automatically, go to File Explorer and open iCloud Setup.
+2: Restart your computer.
+3: Make sure iCloud for Windows is open. If it doesn't open automatically, go to Start, open Apps or Programs, and open iCloud for Windows.
+4: Enter your Apple ID to sign in to iCloud.
+5: Choose the features and content that you want to keep up to date across your devices.
+6: Click Apply.

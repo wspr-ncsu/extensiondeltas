@@ -1,0 +1,3 @@
+This Chrome extension lets users bookmark LinkedIn profiles, and make notes for future reference. Web links for the bookmarked LinkedIn profiles will be stored in the cloud. Users can login from any machine with this chrome extension and retrieve the links for saved LinkedIn profiles. The dashboard of this extension helps users visualize the saved profiles. The user can search through the profiles using the search bar on the dashboard. 
+
+This extension will help recruiters, marketing professionals, and job seekers organize their LinkedIn connections and improve their productivity. Which in turn makes the world a better place to live!!!

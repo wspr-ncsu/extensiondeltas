@@ -1,0 +1,1 @@
+It enforces security policies on chrome browser profile which can be set from CloudCodes Admin panel.

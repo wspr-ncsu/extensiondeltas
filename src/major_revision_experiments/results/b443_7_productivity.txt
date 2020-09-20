@@ -1,0 +1,14 @@
+Quickly add tasks to Asana from any web page.
+
+Changes in 1.8.2:
+-----------------------------------------------------------------------
+- Fixed: Launch extension by hitting Alt + A
+- Fixed bug: Focus, tab order and Enter key problems
+- Fixed bug: Hitting enter creates tasks, even with all fields empty
+- Improved: Semantic changes to HTML and CSS (eg. Submit <button>)
+- Improved: Submit <button> now disabled on init, enabled when task name is filled
+- Improved: Visual styling on assignee selection drop-down
+- Improved: Typekit fonts removed, for performance
+- Added: GA tracking code
+- Added: Links to the current web page
+- Added: Buttons to assign date

@@ -1,0 +1,1 @@
+Use this extension if you need to run javascript code before any other scripts on the page

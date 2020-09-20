@@ -1,0 +1,15 @@
+Search Set is a small Google Chrome extension that helps you change your default search engine in address bar of the browser to Google, Yahoo, Ask.com, Bing or Baidu very easily. 
+
+Just click on the extension button in the top right corner of the browser and select any search provider from the dropdown list to replace the default one. That's it!
+
+Apart from this you can customize the  appearance of the extension page setting up its background and widgets. You can make it your new tab page (and home page) to be able to use your favorite search engine on every new tab!
+
+Features of the extension:
+
+- 100% free Google Chrome extension
+- Very small small size, one-click installation, does not use excessive resources of your computer
+- Choose from any of the 6 search engines: Google, Yahoo, Bing, Ask.com, Baidu and Yandex
+- Very easy to use, one-click selection of the needed default search provider from the dropdown
+- Option to customize extension page (set up widgets and background) and set the page as your default new tab
+
+If you use our extension, please do not hesitate to leave feedback, propose suggestions or ask questions. Your opinion is very important for us!

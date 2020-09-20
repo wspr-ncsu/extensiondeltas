@@ -1,0 +1,8 @@
+This extension provides two useful tools from Fusion5 for interacting with JDE's web interface.
+
+1. Form ids copied to your clipboard in an instant! Simply hold down SHIFT and click on a field to have its form id copied to your clipboard.
+
+2. Bulk literal value entry. An additional entry method is automatically added to the "Select Literal Value" method within data selection. Simply copy from a spreadsheet or enter each item on a new line and click the list button.
+
+Read more:
+https://shannonscncjdeblog.blogspot.com.au/2017/07/rapid-data-selection-entry-easy.html

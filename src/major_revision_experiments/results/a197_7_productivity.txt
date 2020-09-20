@@ -1,0 +1,5 @@
+Simple Chrome extension that allows you to reload images on a Quora page in their original format, rather than in WebP format. Why? Well, because Evernote's client doesn't support WebP images. If you're using the Evernote Web Clipper, and want to preserve the inline images found on a Quora page, click the icon in URL bar to convert the images to a format Evernote can use.
+
+Note: Quora may change their image rendering strategy at anytime. I make no guarantee that this will continue working.
+
+I threw this together for my own use. If you want to see improvements, I encourage you to shoot me a pull request on github. Source available at https://github.com/joshjordan/quora-no-webp

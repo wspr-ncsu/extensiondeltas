@@ -1,0 +1,1 @@
+A lightweight, open-source to-do list that exists solely in your browser! No more annoying pop-ups, extra windows, or long loading times. If you want a simple to-do list to organize your thoughts and boost your productivity, then this is for you!

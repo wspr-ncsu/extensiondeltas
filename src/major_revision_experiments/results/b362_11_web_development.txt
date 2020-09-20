@@ -1,0 +1,2 @@
+developed for academic research by the University of Amsterdam.
+This is an experimental tool to perform algorithm analysis of amazon shopping experience.

@@ -1,0 +1,17 @@
+Scrape and Import Dropshipped products directly from AliExpress, Alibaba, Wish, Gearbest and Banggood to your store!
+(Extension for Shopify Yakkyofy App https://apps.shopify.com/)
+
+With Yakkyofy Extension you can increase the profits of your dropshipping business thanks to price from 15% to 50% lower than on other Chinese e-commerce.
+
+How does it works?
+
+1) Install the Extension
+2) Click on the icon and get registered
+3) Visit Aliexpress/Alibaba/Wish/Gearbest/Banggood product page
+4) Click on import to scrape your product
+5) Visit your Dashboard to find the discount price
+6) Start to sell in dropshipping!
+
+Info: https://yakkyofy.com/
+Register: https://app.yakkyofy.com/signup
+Login: https://app.yakkyofy.com/

@@ -1,0 +1,1 @@
+This plugin will generate Odesli link (song.link, album.link) for the current active page in your browser. This link can be sent to other persons which may not use same service for listening music

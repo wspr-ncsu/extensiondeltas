@@ -1,0 +1,8 @@
+Features:
+
+- Main action (click on the chrome extension bar icon): moves all tabs in the current window when you press the Chrome Tab Tools icon in the chrome extension bar. The list of URLs to ignore when compacting tabs can be configured.
+- Right click menu: Opens all linked images in separate tabs. When clicking on selected text: Opens all links in the selected text/area.
+- Background action (auto): De-duplicates tabs - whenever you open a page you have already opened, the previous instance is closed. Configurable.
+- Background action (auto): Removes social media junk from URLs - things that social media platforms attach to the URLs to track the source of your content. It does that by discarding the search strings in your URL that begin with certain key-words (like utm_ or fbclid). The list is configurable
+- Background action (auto): Image viewer enhancements: configurable background for single-image tabs. Based on an idea found in the center-image add-in. Configurable.
+- Referer removal - remove referer for designated sites.

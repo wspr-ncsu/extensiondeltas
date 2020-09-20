@@ -1,0 +1,1 @@
+Most custom new page redirects for Chrome are either bloated or lack the most fundamental feature: address bar autofocus. This apps sorts out both issues.

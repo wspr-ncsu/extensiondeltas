@@ -1,0 +1,5 @@
+If you have ever lost track of multiple tabs of the same site, this extension can help! 
+
+* Persists tabs even if you navigate to a different page if you wish.
+* Remove renames and go back to the original tab title.
+* Options page allows you to view renamed tabs and clear them.

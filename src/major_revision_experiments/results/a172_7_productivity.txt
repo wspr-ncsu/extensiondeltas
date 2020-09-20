@@ -1,0 +1,11 @@
+Tab Viewer is a tool for managing and organizing open tabs. Currently it allows you to see all your open tabs in a tiled view. From the tiled view click a tile to jump to that tab.
+
+Shortcut to trigger grid view: Alt + T
+
+Features yet to come include:
+1) closing tabs from tiled view
+2) rearranging tabs from tiled view
+3) saving a workspace, collection of tabs under a name
+4) customizing the tabs with descriptions 
+
+and much much more! Stay tuned.

@@ -1,0 +1,7 @@
+TeleBroad's Phone system integrates with Microsoft's Dynamics for optimal work flow. 
+
+Incoming calls are automatically cross-referenced with your existing CRM records, saving you from having to type or search for names and numbers. 
+
+Make calls by clicking any number. 
+
+Its easy interface will making logging call notes a breeze. Call details are directly added by the system to a contact's account.

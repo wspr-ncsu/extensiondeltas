@@ -1,0 +1,26 @@
+Automatically reloads web pages after any number of seconds.
+
+Features:
+* Refresh pages after a set number of seconds.
+* Set different delays per page or tab.
+* Remembers your settings per page.
+* Remembers web page scroll position.
+
+Simply enter the number of seconds between reloads and click Start. You can specify different settings per tab. Preferences are saved per web page URL. The countdown pauses while typing. To stop refreshing of the tab, just click Stop.
+
+Register your copy of Easy Auto Refresh to unlock advanced options, including:
+
+* Save preferences per web page URL or per web site domain.
+* Enable random countdown intervals.
+* Choose specific times of day.
+* Reload all tabs in the window.
+* Automatically click a button, link, or element on the page.
+* Navigate to a url from a list at each countdown interval.
+* Show a notification and play a sound when text is found in the page.
+* Display the last and next refresh time.
+* Clear cache.
+* Receive access to future enhancements.
+
+Privacy Policy and Terms of Service
+
+By installing this add-on, you agree to the following privacy policy http://dummysoftware.com/chrome-privacy.html

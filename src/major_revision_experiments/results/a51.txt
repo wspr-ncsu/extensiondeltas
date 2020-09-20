@@ -1,0 +1,8 @@
+Issues List Page
+- Adds icons to each issue on the issues table. Allowing to quickly view and edit the issue.
+- Limits the 'title' column becoming too narrow.
+- Grows the 'milestone' & 'version' column to accommodate for the longest milestone.
+- Hides the 'votes' column.
+
+New Issue Page
+- Milestones with past dates in their names get moved to the end of the dropdown list

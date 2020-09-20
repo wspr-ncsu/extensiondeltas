@@ -1,0 +1,3 @@
+The Enhance Pro extension shows you online stores where you can find lower prices for the products that you are planning to purchase.
+
+When you view a product on a certain online shop of your choosing, the add-on recognizes the product you are looking at and displays a list of online merchants that sell the same product but for a lower price, directly in your Chrome browser. It can also show you special offers or other promotions that you may be interested in, all from trusted online shops.

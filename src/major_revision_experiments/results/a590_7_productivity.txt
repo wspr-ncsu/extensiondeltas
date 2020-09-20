@@ -1,0 +1,30 @@
+The Amazon Seller Product Scraper extension helps you to get all the amazon product from your Amazon Seller Account (https://sellercentral.amazon.com/) in a CSV File very easily. With the extension, you can get the whole information for your products on amazon seller account and can track each product easily with a CSV file.
+
+The CSV file contains following fields for your amazon product(s):
+
+1) Date.
+2) Quantity: Total qunatity of the product.
+3) UPC or EAN: product UPC or product EAN. 
+4) Product Title: Title of the product.
+5) Date-status-changed.
+6) Fulfillment Channel.
+7) ASIN: ASIN of the product.
+8) SKU: sku of the product.
+9) Product Type: Category or Product type on Amazon.
+10) Status: Code of the status.
+
+How it works?
+
+You can get your amazon product CSV in just few steps.
+
+- Install the Amazon Seller Product Scraper in your chrome browser.
+- Log in your Amazon Seller Account and go to in Manage Inventory section.
+- Now, Just click on Extension Icon and click on *Start Process*.
+- Once you will click on the *Start Process* button, the extension will start 
+  the process to fetch product and will download the CSV file for your all 
+  amazon
+  product(s).
+
+  For more...please email your query at mikerobert@cedcommerce.com
+
+  Thank You :)

@@ -1,0 +1,16 @@
+Restore your backups and access your two-factor authentication tokens from your browser. Limited to plain-text JSON backups right now.
+
+Features right now include:
+• Copy to clipboard
+• Text search filter
+• Auto refresh tokens
+• No phone required after restoring backup
+
+Planned features:
+• Firefox and Edge versions
+• Add encrypted backup support
+• Add dark theme
+• Add thumbnail support
+• Add auto sync with phone feature
+
+Source is on GitHub: https://github.com/krestaino/andotp-extension

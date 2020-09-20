@@ -1,0 +1,3 @@
+It now only requires access to https://www.google.com.vn only.
+
+Forked from https://github.com/dangoakachan/Remove-Google-Redirection.

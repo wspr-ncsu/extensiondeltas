@@ -1,0 +1,6 @@
+Move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
+
+Usage:
+1. Right click on link, click [Open this link in pop-up window] => po-pup link to standalone window.
+2. Right click on page, click [pop-up/merge current page] => move current page to standalone window.
+3. Click on toolbar button => move current page to standalone window.

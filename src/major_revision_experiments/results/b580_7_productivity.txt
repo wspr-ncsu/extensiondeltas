@@ -1,0 +1,15 @@
+Stock & Cryptocurrency monitor.
+
+Features:
+
+* Stock monitoring, available markets: Australia, Brazil, Canada, United States, Forex;
+* Cryptocurrency monitoring;
+* Historical price;
+* Pivot calculation;
+* Historical dividends;
+* Configurable min and max price alerts.
+
+Discreet and perfect for those who like monitoring stocks and expend long hours working in front of a computer.
+
+Suggestions:
+diones.andrade@gmail.com

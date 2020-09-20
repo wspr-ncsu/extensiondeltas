@@ -1,0 +1,33 @@
+Awesome HQ is a customizable dashboard reminiscent of iGoogle and Awesome New Tab Page (and made by the same people as ANTP!). This extension makes Awesome HQ your new tab page, but you can also access it from AwesomeHQ.com on any modern web browser.
+
+Sign up for updates about Awesome HQ: http://eepurl.com/LBKaL
+
+
+Frequently Asked Questions:
+
+What is Awesome HQ?
+Awesome HQ is both the name of this product and our company. It's a productivity tool that can be used as a home page, dashboard, or new tab page. It's currently in a limited beta, and will gain additional features over time.
+
+Is an account required?
+Yes. You are currently required to login with your Google account to fully utilize Awesome HQ. Without an account, you can not make any changes.
+
+How is Awesome HQ different from Awesome New Tab Page?
+Awesome New Tab Page runs on your computer. No account or internet connection required. However, if you install it on another computer, your settings are stuck isolated. No synchronization. Awesome HQ runs on our servers, so you need an internet connection. However, Awesome HQ works in all modern browsers and even on your smartphone. Just login with the same account on each of your browsers/devices, and you're good to go!
+
+
+Recent Changes:
+
+1.1.2 - May 24, 2014
+ - Fixes an edge case with the added Chrome Apps link.
+ - Hides the "Chrome Extension" promo button on Awesome HQ's navbar.
+
+1.1.1 - May 24, 2014
+ - Added "Chrome Apps" link to the top of Awesome HQ. Requires additional "tabs" permission to allow the extension to open "chrome://apps".
+
+1.1.0 - May 21, 2014
+ - No longer utilizes a (persistent) background page, reducing memory usage
+ - Fixed an occasional issue resulting in a blank page
+ - Some permissions were removed.
+
+1.0.0 - January 5, 2014 
+ - Initial release

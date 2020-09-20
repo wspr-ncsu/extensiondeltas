@@ -1,0 +1,9 @@
+Play SWG files anywhere across the WEB! Flash Player  + is a well design Chrome Extension, which allows you to add any swg into the app's playlist and access them by simply clicking the app icon.
+
+Just navigate to the webpage, which hosts the flash, you want to add, open the Extension, choose from detected files and click the Add button. Voila! Flash file is saved and hosted in your playlist now, you can play it whenever you want! 
+
+All flash games, videos and other files, added into Flash Player playlist are saved without quality loss, enjoy the original image and sound quality from the upper right corner of your Chrome Browser:)
+
+To remove Flash Player Extension from Chrome browser, right-click on extension icon and choose "Remove from Chrome" option.
+
+Flash Player is a trademark owned by Adobe Systems. This extension doesn't ads Adobe Flash Player functionality to your browser, it Plays flash files only, as stated in extension name and description.

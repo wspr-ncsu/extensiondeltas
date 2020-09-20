@@ -1,0 +1,26 @@
+Inject jQuery latest stable release version into any page you want or indicate presence of jQuery if it is included on page already. It allows you to use injected jQuery in the console shell (You can invoke Chrome console by "Ctrl+Shift+j" on PC or "Option+Command+j" on Mac) and to see the indication if jQuery has already been injected to the current page.
+
+To inject jQuery into selected tab click on extension button.
+
+ - "$" sign over plugin button means jQuery injected (embedded). 
+IMPORTANT: If the page already has jQuery injected - the "$" - sign will be visible on top of the plugin icon. In this case pressing plugin button will obviously not embed jQuery to this page because it is already there.
+
+ - "$j" sign means - jQuery injected as $j variable with no conflict to prototype or other frameworks.
+
+Update "3 September 2013":
+ - Code updated to inject the latest stable version of jQuery as soon as it appears.
+
+Update 10/24/2012.
+ - Added HTTPS support. 
+ - New version of jQuery (1.8.2) added.
+ - Tech changes in case of updates in chrome extensions API.
+
+Give me your feedback friends and I will improve the tool!
+
+Cheers!
+
+P.S: This plugin is used to embed jQuery in non-conflict mode with prototype, - that's said. Do NOT base your rating on absence of options you would like to have.
+If you think that something does not work - fire a bug, not a comment.
+
+IMPORTANT:
+This plugin will obviously NOT work on this market page. Also after plugin installed please RELOAD any page opened before installation, to which you would like to inject jQuery to.

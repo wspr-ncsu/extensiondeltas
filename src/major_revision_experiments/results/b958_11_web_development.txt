@@ -1,0 +1,24 @@
+Full Information on Any Website -
+- Display Country Flag indicating Website Physical Location
+- Website Owners Whois
+- Website Popularity (Live Visitor Statistics). Shows how many users are visiting any World Website per day
+- Website IPv4/IPv6 Address
+- Hosting Company
+- DNS Information
+- Other Sites on this IP Address
+
+Also
+========
+- Check you are visiting Websites for Viruses/Malware on Symantec Website (Norton Antivirus Safe Web SiteAdviser)
+- Alexa Popularity Rank
+- Web of Trust (MyWOT) Rank
+- Ignore X-Frame headers - Drops X-Frame-Options HTTP response headers, allowing all pages to be iframed.
+- Website Reputation Reviews
+- New incognito window: Provides a quick access to the secure incognito mode for current page
+
+======== FIREFOX EXTENSION ==========
+
+Our Extension for Firefox here -
+https://addons.mozilla.org/en-US/firefox/addon/flags-for-firefox-websites-/
+
+=====================================

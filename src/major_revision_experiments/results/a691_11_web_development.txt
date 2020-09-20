@@ -1,0 +1,14 @@
+Graphify automatically converts any CSV or any other delimited data into bootstrap compliant HTML5 graphs. Currently supports PIE, BAR, & LINE graphs. Just paste any delimited data and let Graphify help you find responsive graphs.
+
+Graphify is an innovative solution that will help you to:
+- visualize PIE, BAR, & LINE distributions,
+- interact with graphs and see point data,
+- download them as images, pdf etc.
+
+This powerful solution enables you to do all this instantly, with one click on the extension icon in the Chrome toolbar.
+
+!Note: this extension is supported on all the Google Chrome versions.
+
+CHANGES
+- v0.1.0
+-- Released first version. After all done is better than perfect :)

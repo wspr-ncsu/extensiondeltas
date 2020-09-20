@@ -1,0 +1,29 @@
+Todo list that help you focus on each day. Wokrs as new tab extension.
+
+Changelog:
+1.62
+- Subtask delete button added
+- Changelog added
+- Toast notyfications
+1.61
+- FIX minor bugs 
+1.60:
+- task details with notes and subtasks
+1.54:
+- duration sum
+- title update
+- FIX input cursor bug
+1.52:
+- settings are now saved 
+- menu update
+- now you can postpone to today ;)
+- minor FIXes
+1.51:
+- new themes - more photo backgrounds and white one
+1.50
+- sort by kind and name
+- FIX postpone to tomorrow
+1.42
+- FIX login 
+- postpone menu extended
+- sync via cloud

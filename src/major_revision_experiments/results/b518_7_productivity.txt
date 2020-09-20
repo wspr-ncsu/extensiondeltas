@@ -1,0 +1,8 @@
+[for the moment, this ONLY WORKS with Chrome Beta. Download here: https://www.google.com/intl/en/chrome/browser/beta.html]
+
+Check Less helps you spend time more efficiently every day, by giving you a certain number of periods during which you can use time-wasting websites.
+
+1) Add a site that you'd like to check less.
+2) Check Less will limit the number of times and length of time you use the site.
+
+After you hit your limit, you'll be blocked until the next day.

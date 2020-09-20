@@ -1,0 +1,1 @@
+This extension is a part of service provided by Stolist.app. It allows users to copy products content in websites to their own stolist accounts. The products content must be in the structure defined at https://schema.org/Product to be able to copy.

@@ -1,0 +1,1 @@
+Chrome extension for the password manager app PassZero

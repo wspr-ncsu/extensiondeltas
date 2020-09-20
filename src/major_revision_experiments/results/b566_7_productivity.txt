@@ -1,0 +1,3 @@
+Make eMule run a search for selected text without leaving Firefox
+
+Select some text in Chrome, Rightclick and select "Search eMule for" context menu item.

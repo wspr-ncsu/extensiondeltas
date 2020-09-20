@@ -1,0 +1,16 @@
+For Amazon Sellers!
+
+This Chrome extension expands the number of search suggestions that are shown in the Amazon search bar by showing the keywords that Amazon would suggest before and after the keywords you have entered.
+
+This makes searching for new product niches easy!
+
+Works in US, CA, MX, UK, DE, FR, IT and ES markets.
+
+Updates:
+v1.0.11 : 
+  Bug fixes
+  Tip display.
+v1.0.10 : 
+  Bug fixes
+v1.0.9 : 
+  Added display of Amazon Suggestions when you press the down arrow key to move thru the list of original suggestions.

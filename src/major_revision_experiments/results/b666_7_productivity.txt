@@ -1,0 +1,2 @@
+Cookie Jar is a simple extension that allows you to visit your favorite websites without sharing this information with third parties (e.g. social networks, advertising networks, and analytics platform).
+Cookie Jar functions by removing cookies sent to websites that are hosted on a different root domain than the website you are visiting.

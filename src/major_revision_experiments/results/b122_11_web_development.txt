@@ -1,0 +1,1 @@
+The goal is to eliminate these squares, some of which contain items that can help eliminate all of them faster

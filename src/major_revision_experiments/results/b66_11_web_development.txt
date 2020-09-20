@@ -1,0 +1,14 @@
+What is Live-Expression ?
+This is basically a developer tool which helps developers to run a live code (code which repeats itself after 600ms) and helps them to debug accordingly.
+********************************************************************** Features
+->Helps run almost any JS live code 
+->Easy to use. note: that it is only for developers.
+********************************************************************** How to use it?
+1)After adding this to your browser click on the addon icon on the browser.
+2)A popup opens up. Blue button is for run and red button is for stopping the running code.
+note: make sure that your console is open at the same time as the result will be displayed on the console.
+3)enter the code in the popup and press the blue button.
+4)The result will appear in the console.
+5)To stop the code just open popup and press the red cross button which will stop the code.
+Bugs/Feedbacks:
+If there is any sort of bugs or problems faced by the users they are requested to immidiately respond so that it can be fixed as early as possible.

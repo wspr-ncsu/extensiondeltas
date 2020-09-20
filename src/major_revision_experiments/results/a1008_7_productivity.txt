@@ -1,0 +1,1 @@
+Allows you to filter Voat posts based on the domain of the submission, or filter to show only NSFW posts.

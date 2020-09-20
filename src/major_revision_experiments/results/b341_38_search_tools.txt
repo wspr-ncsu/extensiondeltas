@@ -1,0 +1,22 @@
+Youtube New Tab Search is an extension that allows you to open YouTube search results in a new tab. The extension adds a button to the right of the YouTube search bar that when clicked will open up search results in a new tab. This way, the currently playing video doesn't stop.
+
+>> Fits naturally with YouTube layout <<
+----------------------------------------------
+- The button added is unobtrusive and fits nicely with Youtube's native style.
+
+>> Works with the new layout << 
+----------------------------------------------
+- The extension supports the new and old YouTube layout.
+
+>> Adapts to light/dark theme <<
+----------------------------------------------
+ The extension will adapt itself to match whatever theme you are using for YouTube, wheter it is dark or light.
+
++ ADDITIONAL BENEFITS
+>> Free for Chrome & all other browsers
+
+----------------------------------------------
+
+Found a bug? We're always looking to improve. Consider leaving us a report at: https://github.com/AlessandroFC15/YouTubeNewTabSearch/issues
+
+All code can be found at: https://github.com/AlessandroFC15/YouTubeNewTabSearch

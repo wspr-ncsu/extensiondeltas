@@ -1,0 +1,1 @@
+This chrome extension will identify that you have just opened a new tab and that you are going to visit a website that will waste your time, such as Facebook, Reddit, etc. It will show you a confirmation dialog, confirming that you are willing to waste your time.

@@ -1,0 +1,17 @@
+Free QR Code Generator - Create and share your own QR codes
+
+This plugin from www.free-qrcode-generator.com help you to generates QR Codes from free text, URLs, phone numbers, SMS messages, or contacts and more.
+
+Free QR Code Generator and online QR code creator. Generate QR codes ready to download and print. or Generate QR code and share to friends easily using facebook, gmail, etc... 
+
+A QR code is a two-dimensional barcode that is readable by smartphones. It allows to encode over 4000 Characters in a two dimensional barcode. QR codes may be used to display text to the user, to open a URL, save a contact to the address book or to compose text messages.
+
+To read QR codes with your smartphone, follow below steps:
+
+1. Take your cell phone with a camera,
+2. Run the program QR Scanner to scan the code 
+[ QR Reader Google play apps:
+https://play.google.com/store/apps/details?id=com.king.qrscanner 
+https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en]
+3.Point the camera at the code,
+4. Get the details!

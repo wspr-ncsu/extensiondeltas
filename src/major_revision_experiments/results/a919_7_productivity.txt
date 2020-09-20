@@ -1,0 +1,3 @@
+Right click on the download link, and select "Send to Aria2" options.
+JSON-RPC address need to be configured for work.
+"Send to Aria2 Save As ..." opens a dialog to rename the outputfile.

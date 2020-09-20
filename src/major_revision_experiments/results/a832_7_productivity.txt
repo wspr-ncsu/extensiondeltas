@@ -1,0 +1,6 @@
+Features
+ - Set timer by one click.
+ - Notify by new tab after the time has elapsed.
+ - Time that can be set is 3, 5, 10, 15, 25, 30, 45, 60 minutes.
+ - Remaining time is displayed on the right bottom of the icon.
+ - Notify with a message if you enter a message.

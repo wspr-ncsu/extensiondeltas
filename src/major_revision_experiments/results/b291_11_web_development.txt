@@ -1,0 +1,16 @@
+PHP 5.5 documentation in 8 languages always available right in your browser.
+
+Our Google+ page: https://plus.google.com/110711963366840519592
+
+Finally, version 2.0 arrived! Extremely fast NaCl-powered search engine with fuzzy search implemented out of the box, able to search 9527 PHP 5.5 methods under 25ms. 
+
+Last update: 2.0.0 - Nov 6th 2012. Noticeable changes:
+ - NaCl-powered search engine + IndexedDB
+ - entire PHP 5.5 documentation including all methods and classes (total 9527 terms)
+ - added hotkey to open the popup. Shift+Alt+F by default.
+ - many formating bug fixes (better displaying tables and lists, eg. preg_match, file_put_contents)
+ - many parser related bug fixes
+ - some design enhancements (colors, syntax highlighting, ...)
+ - popup is 100px wider
+
+If you have any feature suggestions or if you find a bug, please add an issue at http://goo.gl/cf0jk.

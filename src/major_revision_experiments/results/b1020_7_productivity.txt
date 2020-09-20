@@ -1,0 +1,1 @@
+Simple extension to copy and paste text and plain.

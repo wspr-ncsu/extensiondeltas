@@ -1,0 +1,5 @@
+The PageMarker Chrome extension is the perfect companion to the web app.
+
+- Save links quickly with one click of a button
+- Add notes to your links as you go
+- Set link folder and add tags

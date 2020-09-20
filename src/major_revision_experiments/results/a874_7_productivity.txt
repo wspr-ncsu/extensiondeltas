@@ -1,0 +1,6 @@
+Attempts to add keyboard shortcuts for https://play.google.com/music
+This may or may not work.
+
+To set the shortcuts go to chrome://extensions/shortcuts.
+
+https://github.com/DanielLeone/google-play-music-keyboard-shortcuts

@@ -1,0 +1,6 @@
+This extension was designed for one purpose; to simplify life when trying to log in to UWMilwaukee's web services. Originally designed specifically for PROWLnet, it now includes most all UWM websites needing your ePanther ID including PAWS, D2L, myUWM, PantherList, PantherFile, and UWM Email.
+
+
+You just need to add your username and password in the options menu, found under the extensions tab.
+
+NOTE: Only install this on personal computers that are secure; its a security risk otherwise. That means no lab computers, or otherwise public computers.

@@ -1,0 +1,9 @@
+RedditBoost provides a suite of features for Reddit to improve user experience in a lightweight and convenient manner. Features include,
+
+* hover image preview
+* user tagging
+* link mirrors for popular submissions
+* subreddit blocking
+* user comment and/or submission banning
+
+This extension is currently in beta. As an open source project, contributions are always welcome!

@@ -1,0 +1,12 @@
+View Word translation to Dutch as you browse the web.
+
+With this extension, you can:
+1) Double-click any word to view its translation to Dutch in a small pop-up bubble.
+2) its also acts as English -> Dutch Dictionary.
+
+How to Close pop-up bubble:-
+1] Click on the Webpage again, pop-up bubble will close itself. 
+2] Press the 'X' button in pop-up bubble.
+
+
+IMPORTANT: The pop-up bubble will not work in tabs that were open prior to installation; such tabs must be refreshed. Also, note that all extensions are disabled on Chrome Web Store pages (including this page).

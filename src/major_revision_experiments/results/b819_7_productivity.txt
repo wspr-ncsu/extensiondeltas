@@ -1,0 +1,1 @@
+Replace default new tab page in Chrome with a timer-tab.com

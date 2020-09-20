@@ -1,0 +1,29 @@
+Integrates Bugzilla and GitHub to make your life easier. It is a work in progress, so feel free to contribute: https://github.com/ditinc/bugzilla-github-extension
+
+Features - Bugzilla:
+
+- If GitHub Pull Request URL is populated with the pull request's URL, then a link will be added to the bug's title
+- There is a button for marking selected bugs as duplicates when changing several bugs at once
+
+Features - GitHub:
+
+- If the repository is associated with a Bugzilla product:
+  - The Product will be listed under the repository name
+  - There will be buttons to jump to Bugzilla lists of unresolved or resolved bugs
+- If the pull request's title includes the bug number (ex: 83513, [83513], Bug 83513, Bug85313) or if the branch contains the bug number (ex: bug_83513, Bug-83513, bug83513):
+  - Bug number in title will be a link to the bug
+  - Bugzilla section added to side listing some bug details
+  - Comments will be sent to Bugzilla along with the Hours Worked entered in a new input added next to the comment buttons
+    - This includes line comments, though they do not have an Hours Worked field
+  - Have the option of setting but to RESOLVED FIXED when making a pull request comment
+- When creating a pull request, you have the option to:
+  - Update the GitHub Pull Request URL on the bug in Bugzilla
+  - Send the comment to Bugzilla
+- When merging a pull request, you have the option to:
+  - Update the Code Status in Bugzilla 
+  - Update the bug to RESOLVED TESTED
+  - Labels are pushed to the GitHub Labels field on the bug
+- If the release's comments include bug numbers (ex: 83513, [83513], [83513], [83513]):
+  - Have the option of setting to In Staging or In Production in Bugzilla
+  - Have the option of updating Release field in Bugzilla
+... and more!

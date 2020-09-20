@@ -1,0 +1,3 @@
+Find yourself constantly copying and pasting from JIRA into an email to update your boss/colleagues about an issue? This plugin adds a clipboard icon to your browser that takes the details from the current tab (in browse or search mode) and puts it into your clipboard.
+
+You can also open multiple tabs and copy all the details into a bulletted list.

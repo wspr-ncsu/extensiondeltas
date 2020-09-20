@@ -1,0 +1,29 @@
+This extension configures your default search to searchpowerapp.com & provides enhanced results
+Please read carefully: By installing Flash App (9144 400), you agree to change your Default Search to Flash App (searchpowerapp.com)
+
+How does it work?
+
+Simply start typing your search query in the Omni Bar, also called address bar and perform your first search through Flash App.
+
+For more information about how Flash App works visit https://developer.chrome.com/extensions/settings_override.
+
+Permissions:
+Change your search settings to: searchpowerapp.com
+tabs, webRequest, webRequestBlocking only for our domain https://*.searchpowerapp.com/*
+
+How to remove Flash App extension?
+
+1) Click on the three horizontal lines icon in the upper right-hand corner of your Chrome browser.
+2) Go to "Settings".
+3) In the menu that appears click on "Extensions".
+4) From the list of installed Extensions, find the name of the extension you wish to uninstall.
+5) Click on the trash can icon to the right of "Enable" (for the toolbar extension you wish to uninstall).
+6) Close your browser completely and reopen it. Our extension should be removed from your Chrome browser.
+
+TOS:
+https://searchpowerapp.com/tos/
+
+Privacy policy:
+https://searchpowerapp.com/privacy_policy/
+
+You can always contact us at searchpowerapp@gmail.com

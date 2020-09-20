@@ -1,0 +1,1 @@
+Voegt automatisch het rooster dat je hebt geselecteerd toe aan je Google Calendar.

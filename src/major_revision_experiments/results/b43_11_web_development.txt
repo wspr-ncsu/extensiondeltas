@@ -1,0 +1,3 @@
+Update: More visible description Icon
+
+Add task ID to board view. Unofficial enhancements. With Dark-Theme support.

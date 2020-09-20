@@ -1,0 +1,11 @@
+If you say the name of a website, you'll navigate there. If you ask for the weather report, you'll see one. If you tell your browser to play music, it will. 
+
+From your New Tab screen, you'll be able to issue voice commands like:
+- new york times
+- play the beatles
+- search for the best pajamas
+- new doc
+- new email
+- new presentation
+- close all tabs
+- what's the weather today

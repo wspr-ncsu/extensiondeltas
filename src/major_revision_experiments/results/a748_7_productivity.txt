@@ -1,0 +1,1 @@
+A useful Chrome extension for managing tabs! Save multiple open tabs as a session and open them later with one click.

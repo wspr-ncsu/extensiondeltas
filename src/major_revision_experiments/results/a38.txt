@@ -1,0 +1,5 @@
+This is a 10 level brick and paddle, breakout-style game.
+
+ space: launch ball
+ left/right: move paddle
+ up/down: change level

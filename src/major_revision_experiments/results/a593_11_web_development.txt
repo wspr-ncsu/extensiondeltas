@@ -1,0 +1,1 @@
+Insert .v4 domain to any IPv4 address in the URL. This is an experimental implementation for IPv4 Address Literal in URL which is published at http://tools.ietf.org/html/draft-osamu-v6ops-ipv4-literal-in-url-00

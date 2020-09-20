@@ -1,0 +1,3 @@
+Tarayıcı başlatıldığında güncel haberleri, şehrinizdeki hava ve trafik durumu bilgisini ve yeni e-posta bilgilerini içeren Yandex ana sayfası açılacaktır.
+
+Ana sayfayı kendinize göre ayarlamak çok kolay; gözünüzün önünde en önemli şeylerin olması için servis bloklarını değiştirebilir veya yeni bloklar ekleyebilirsiniz.

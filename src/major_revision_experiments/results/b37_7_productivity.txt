@@ -1,0 +1,3 @@
+This extension gives you the ability to see webpages related to the one you are currently browsing.
+
+Whether you are looking at the documentation for your next programming project, trying to find your next favorite chocolate cake recipe, or even trying to research information for a school project, this extension can help you. By using Google Search technology, webpages from all throughout the Web are searched, and the relevant one that share a similar content to the one you are currently visiting are presented to you.

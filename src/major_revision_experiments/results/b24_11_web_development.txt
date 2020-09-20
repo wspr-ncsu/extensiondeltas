@@ -1,0 +1,9 @@
+Add a "Delete Entire Logs" button on delete debug log section that delete all the logs in one click
+
+Add a "Add Currrent User" button to add current logged in user as debug user.
+
+Add a "Code Coverage" button to Edit View of ApexClass to show coverage.
+
+Add Option "Search Salesforce" in context menu to search selected item
+
+Demo : http://screencast.com/t/i3g9LhhGAU

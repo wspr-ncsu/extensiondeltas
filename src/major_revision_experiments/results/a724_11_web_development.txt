@@ -1,0 +1,18 @@
+With Textmetrics everyone can create high quality webcontent. With our Content Quality analysis you can make sure your content matches your target audience. And with our SEO suggestions, you can make sure it's SEO friendly as well.
+
+What you can do with the Textmetrics extension
+
+Content Quality and SEO optimization suggestions
+The Textmetrics extension integrates in the Chrome browser. Once the extension is invoked, you will get suggestions on how to improve your content. The suggestions will show directly in the popup, so they are clearly visible and easy to follow.
+
+Analysis of your content
+Textmetrics will analyze your content and tell you how to optimize it for maximum results in search engine rankings.
+
+Up-to-date Content Quality and SEO rules
+We make sure that the Textmetrics engine is always up to date with the latest Content Quality and SEO rules. So you will always have access to the latest rules and insights to optimize your content.
+
+What does it cost / is it free / how to use this?
+You will need a Textmetrics account to use the extension. You can sign up for a (always) free account at https://app.textmetrics.com/#/register-free. Next to that we offer paid subscriptions which will give access to all of Textmetrics's features and offer more credits. You can sign up for a free 7-day trial here: https://app.textmetrics.com/register
+
+About Textmetrics
+Textmetrics is the content creation and monitoring platform that helps you write better webcontent and monitor the performance of your content online.

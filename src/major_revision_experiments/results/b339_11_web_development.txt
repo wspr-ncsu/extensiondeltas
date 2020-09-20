@@ -1,0 +1,1 @@
+With our SSL Scanning tools you can easily get a quick scan of your server to make sure your SSL Certificate is installed and trusted. It also checks for any possible vulnerabilities that may be present on your server.

@@ -1,0 +1,5 @@
+Simple and powerful cookie editor.
+The cookie editor is designed with an easy-to-use interface that allows you to perform most non-standard cookie operations. It's great for developing and testing web pages and even managing cookies manually to protect your privacy.
+You can easily create cookies for the currently visited pages.
+You can also import cookies in text format for sharing or backup purposes.
+This is a perfect cookie editor2.

@@ -1,0 +1,7 @@
+test refresh is a responsive web design development testing tool. Working in conjunction with an iOS and android app, it allows you to specify a tab within chrome that you wish to monitor.
+
+Once monitoring, any page reload or on-site click will automatically load or refresh that page on your mobile device, allowing you to instantly see the mobile-rendering of your page as soon as you refresh it on your desktop.
+
+It is designed to help you quickly test your responsive web designs by allowing you to test on desktop and mobile without requiring you to manually refresh your mobile browser screen.
+
+It is also designed to work without an internet connection - as long as your desktop and mobile are on the same network, and can see the same URLs, you can automatically link the two devices to help you develop more effectively.

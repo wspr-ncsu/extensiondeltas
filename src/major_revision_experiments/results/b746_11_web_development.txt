@@ -1,0 +1,13 @@
+Công cụ hỗ trợ đặt hàng trực tuyến của Sói Tuyết trình duyệt Chrome & Cờ rôm+ là công cụ hỗ trợ giúp khách hàng có thể đặt hàng trực tuyến hàng triệu sản phẩm phong phú dễ dàng hơn từ những website Thương Mại Điện Tử lớn của TQ như: taobao.com, tmall.com và 1688.com.
+
+Hướng dẫn sử dụng: 
+Công cụ hỗ trợ đặt hàng của Sói Tuyết từ các trang TAOBAO, ALIBABA, TMALL, 1688:
+Bước 1: Tải công cụ
+Bước 2: Đi tới link bạn cần đặt hàng: Taobao, 1688, Tmall
+Bước 3: sau khi đồng ý thêm hết hàng vào giỏ, bạn click vào chữ "về giỏ hàng" chọn kết đơn các shop cần đặt
+
+Screenshots:
+Hình 1: Trang chủ của Sói Tuyết.
+Hình 2: Hình ảnh chi tiết sản phẩm và công cụ đặt hàng.
+Hình 3: Hình ảnh cho vào giỏ hàng thành công bằng công cụ đặt hàng.
+Hình 4: Hình giỏ hàng sau khi đã được cho sản phẩm vào giỏ bằng công cụ đặt hàng.

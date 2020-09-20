@@ -1,0 +1,9 @@
+This extension will add the following website to the Allow list to run the Flash Player:
+
+AsureWin.com
+
+After installing this extension, the aforementioned website will be able to run Flash content with no prompts or warnings.
+
+This extension is meant to be installed in machines owned by the company, the link is not supposed to be shared with third parties or other individuals.
+
+People who get the link to install this extension are IT Professionals who know exactly what they're doing. In a few months they will have suitable HTML5 content to replace all their Flash content and this extension will be deleted.

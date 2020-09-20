@@ -1,0 +1,2 @@
+A utility for executing JavaScript RegExp searches in-page. This extension is open source.
+*This extension is still under development. To contribute, visit https://github.com/jncornett/rex*

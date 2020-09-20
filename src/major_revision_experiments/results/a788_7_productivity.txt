@@ -1,0 +1,4 @@
+Turkmotion extension helps workers in MTurk to share their opinion about each HIT Groups and with other workers in an easy way.
+Our goal is to help workers to find most enjoyable and/or well payed HITs. In the Turkmotion website list of top HITs are available, and using the extension one can see HITs' ratings in MTurk.
+
+It is a free service provided as a part of research project to analyzes factors influencing workers motivation.

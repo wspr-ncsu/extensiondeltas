@@ -1,0 +1,5 @@
+Our AptivNarrativ Platform creates a simple dynamic digital sales playbook from billions of buying signals. Maximizing your CRM investment, we provide the missing link that fuels efficient growth.
+
+AptivIO's engine extracts signals from 100's of millions of websites, court records, CRM interactions, job postings, private subscriptions, SEC filings and billions of indent data visits daily. Signals are NLP'd, entity mapped, ranked and many other steps till they can be attributed to one of millions of the global companies we have in our entity database.
+
+For Opportunities, the biggest time savings for Sales is the automated buyer discovery with email/phone/office resolution. We scan millions of contacts instantly to ensure the most coverage and accuracy to enable direct import into CRM.The more a user or team interacts with AptivIO or our insights the more we understand the correlations of signal to success and actively adapt our models to improve accuracy.

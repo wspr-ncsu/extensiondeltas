@@ -1,0 +1,5 @@
+This extension is a Chrome version of the UserScript by Michael Mangino on http://userscripts.org/scripts/show/117452. All credit goes to him.
+
+This script adds a button labeled Mark previous read to Google Reader. When clicked, all items above the currently selected one are marked "as read".
+
+The button added by this script provides functionality similar to the Mark previous as read operation that can be invoked after long-pressing an item in the official Google Reader app for the Android platform. That is, the items above the current selection are marked "as read", regardless of whether the list is sorted by newest or by oldest. Therefore, this functionality is intended for users who read their feeds top-to-bottom, not bottom-to-top.

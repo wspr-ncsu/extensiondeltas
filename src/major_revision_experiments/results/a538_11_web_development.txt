@@ -1,0 +1,1 @@
+This extension is very useful when You need to specify User-Agent header sent by Your Browser. No need for technical skills, just choose predefinied User-Agent or input it manualy. Future version give You oportunity to build regex conditions to change User-Agent automatically within specified conditions.

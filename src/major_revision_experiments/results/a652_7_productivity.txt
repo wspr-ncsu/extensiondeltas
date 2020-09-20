@@ -1,0 +1,7 @@
+The next generation of MindMup - a zero-friction, collaborative, free online mindmapping tool.  MindMup 2.0 brings much better Google Drive/Google apps integration. 
+
+- Support for typical Google Drive workflows - rename and change folders from the app, or create a map inside a folder to inherit sharing permissions so you can manage maps easier
+- Show previews in Drive, so you can share and discover maps easier
+- Attach files from Google Drive to map nodes
+- Add images from Google Photos to map nodes
+- Argument visualisation, productivity mode and several visual themes

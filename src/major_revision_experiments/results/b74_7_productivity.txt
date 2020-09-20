@@ -1,0 +1,18 @@
+Planyway is a calendar and timeline for Trello that lets you visually manage your projects and coordinate your team.
+
+Plan and manage visually:
+✔ Create a project plan with Trello lists and cards
+✔ Set milestones and deadlines
+✔ Use Weekly, Monthly or Timeline views to coordinate your team
+✔ Drag and drop cards to distribute them among your team and place them in time
+✔ Track progress, collaborate and reorganize
+
+Manage and execute your own schedule:
+✔ Follow your assignments across boards
+✔ Manage your day and week
+✔ Connect your existing calendar (Google, Outlook, Apple, etc.)
+✔ Change statuses and reschedule uncompleted cards
+
+Planyway helps you to visualize and communicate your project plan, share schedules with everyone in your team, and have an overview of who’s doing what and when. Your teammates will always be aware of which tasks they’ve been assigned and what is next.
+
+Planyway supports a variety of use cases, such as project management, product management, agile development, event planning, content creation, sales, marketing strategy, HR and more.

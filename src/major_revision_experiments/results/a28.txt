@@ -1,0 +1,10 @@
+Ampache Player is a HTML5 player for AMPACHE. Just connect to an AMPACHE server and listen to your music.
+
+Features
+
+* Playlists from your Ampache Server
+* CD Covers from your Ampache Server
+* Fan art from http://fanart.tv
+* Musicbrainz info. http://musicbrainz.org/
+* Added support to fetch lyrics
+* LastFM integration

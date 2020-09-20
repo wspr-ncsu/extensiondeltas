@@ -1,0 +1,5 @@
+Earn FREE bitcoin, dogecoin, litecoin and other cryptocurrencies from these faucets.
+
+I created an extension for myself to organize and quickly reference my favorite faucets.  I thought it would be a great idea to share this extension with you.  I hope you enjoy!!
+
+NOTE: You will need a FaucetHub (https://faucethub.io/signup) or a CoinPot (https://coinpot.co/) account to collect from most of these faucets.

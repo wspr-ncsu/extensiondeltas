@@ -1,0 +1,1 @@
+The current ezDI platform blocks spell checking so this extension extracts all entered text on the transcription page and displays it in a text area to enable spell checking

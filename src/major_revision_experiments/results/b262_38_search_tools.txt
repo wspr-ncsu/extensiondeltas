@@ -1,0 +1,1 @@
+For teachers with little experience filtering through the millions of results on Google search, this tool would help them easily find resources suitable for learning. This tool directs them to Google site search restricted to educational sites such as Khan Academy, PBS, CK12, etc.

@@ -1,0 +1,16 @@
+A set of extensions for the PlayCanvas editor.  Implemented as a Google Chrome extension.
+
+* Decimate models right in the asset window
+* Downsize textures with a high quality resample.
+* Copy and Paste components and scripts between entities
+* Copy and Paste between projects (experimental)
+* Colour model view in the assets panel and preview window (no more grey shadows!)
+* See whole of asset name in the asset panel
+* Bake together meshes to reduce draw calls and improve performance
+* Quickly select the Root node and collapse others
+* Quickly select the parent of an entity
+* Powerful search with RegEx, supports component names, entity names etc and returns all matches (unlike the normal hierarchy search)
+* Drop to root - enables items being dropped from the asset panel to be located at the position of the selected entity but then parented to the root - stops accidental creation of complicated deep structures when designing scenes
+* Snap to grid - snaps one or more entities that are already in the scene to the current grid interval - normal snapping in PlayCanvas does not round the existing position, but only move
+ items it by grid increments.
+* Snap Rotation - snaps the Y rotation of one or more entities to a 90 degree increment. Useful for laying out levels.

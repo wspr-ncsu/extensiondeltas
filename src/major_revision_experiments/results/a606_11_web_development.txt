@@ -1,0 +1,1 @@
+Chrome extension for creating and opening Kibana url with pre-filtered data in KB.

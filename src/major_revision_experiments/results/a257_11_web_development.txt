@@ -1,0 +1,3 @@
+PhpSearch allows you to search PHP documentation from the omnibox. Within the omnibox, type "php" and then press space or tab to start searching. Suggested items are displayed as you type.
+
+Bug reports and feature suggestions are appreciated. Contact me by going to the extension page and clicking Details > Send Feedback.

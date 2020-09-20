@@ -1,0 +1,1 @@
+A chrome plugin that "rejects Baidu and promotes Google" detects that users browse Baidu and immediately jumps to google. The coders resist Baidu. Everyone is responsible and must scream! ! !y1

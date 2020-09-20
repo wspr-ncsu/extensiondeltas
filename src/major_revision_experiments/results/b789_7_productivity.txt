@@ -1,0 +1,1 @@
+This is a small extension that will record what you hear in a tab, and save the recording as a wave file.

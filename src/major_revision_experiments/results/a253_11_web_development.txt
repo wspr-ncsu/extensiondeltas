@@ -1,0 +1,5 @@
+Plays a sound each time you hit a key.
+
+Programming has never been so exciting.
+
+https://github.com/axelchalon/beep

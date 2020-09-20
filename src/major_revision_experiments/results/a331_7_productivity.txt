@@ -1,0 +1,7 @@
+picBox enables you to share text, images, screen snips, full-screen and multi-monitor screen captures effortlessly and seamlessly to anyone on the internet.
+
+The Upload to picBox extension is just another feature-set of the full picBox project, allowing you to right click and share images you find around the internet, as well as upload pictures from your computer directly to our secure servers, returning a text link into your clipboard.
+
+We are dedicated to bringing you a great experience, and welcome any and all constructive feedback we recieve!
+
+More information about picBox and its products can be found at https://picbox.us

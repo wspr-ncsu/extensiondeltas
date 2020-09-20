@@ -1,0 +1,5 @@
+DScaffolding is a tool for assisting and conducting Design Science Research. It does so by using mind maps.
+
+User guide: https://docs.google.com/document/d/1RbUVj6BX7P7vNFgYj6fiiV6wYNXFXxb0JOa8yqnlQto
+
+Privacy policy: http://onekin.org/portal/content/privacy-policy

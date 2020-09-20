@@ -1,0 +1,14 @@
+A tool for boosting or reducing (attenuating) the levels of different frequencies of YouTube and YouTube Music pages.
+
+The most basic type of equalization is the bass control on the old home audio equipment to control low frequencies and the treble control to adjust high frequencies. Since there are only two controls, the adjustment is for a fairly wide range of frequencies. In this extension, however, you can adjust a wide set of frequency ranges (60, 170, 310, 600, 1K, 3K, 6K, 12K, 14K, 16K) similar to the well-known VLC player.
+
+The extension adds a toolbar button to your browser to control audio equalization simply from its popup window. There are about 12 presets to select from or you can adjust your own levels. The extension offers profiling to keep user selections in different profiles.
+
+This extension supports pre-amplification for each profile as well. Basically, you have a global volume control to adjust the level of each profile too.
+
+For more info please read the FAQs page. You can submit bug reports in the GitHub page.
+
+Notes:
+1. This extension only controls YouTube pages
+2. The extension is disabled by default. Make sure to enable it from the popup window and refresh YouTube pages
+3. You cannot have more than one audio controller add-on at the same time. They are going to conflict.

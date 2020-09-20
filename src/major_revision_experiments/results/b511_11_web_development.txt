@@ -1,0 +1,4 @@
+This extension show all H1, H2, H3, H4, H5 and H6 tags on page.
+Very simple and useful extension for SEO  specialists and web content makers.
+To view the tags, click the "Show tag" button. To view the page in its original - click the "Hide tag" button.
+With this extension, you can easily check the structure of <H> tag on your page.

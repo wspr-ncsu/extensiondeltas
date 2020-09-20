@@ -1,0 +1,21 @@
+***** 7 DAY FREE TRIAL *****
+
+Merch Batch Uploader streamlines your listing process on Merch by Amazon. Based around listing in batches and utilizing the power of excel/CSV files you can create 100s of listings in excel in seconds. You can then navigate through the upload data and it will auto-populate the relevant fields during the listing process.
+
+You don’t need to copy and paste into individual fields any longer! Merch Batch Uploader has the following features:
+
+- Display the design you’re uploading and record X of Y in the upload batch.
+- Auto select the colours.
+- Auto populate the price.
+- Auto populate the brand, title, bullets and description text boxes.
+- 100% written and maintained by the author - Rick Blyth of Amazon Merch Tools.
+- 100% client side chrome extension.
+- No transmission of ANY listing data or design details to any 3rd party servers.
+
+This extension will save you or your Virtual Assistant (VA) hours of listing time. It is possible to list shirts in under 20 seconds using this extension.
+
+This extension is ideal for designs that are based around variants or scaled/boilerplate designs. 
+
+Fill all your slots each day using this tool. Even if you’re at a lower tier you can batch the uploads together and save them as draft. Then on those busy days when you don’t have much time for Merch you can just spend a few minutes switching the drafts into full listings.
+
+Going forward, this extension will be updated as the Amazon listing screens change and different product types become available. It already supports long sleeve shirts and will be updated when hoodies are available.

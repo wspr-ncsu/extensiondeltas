@@ -1,0 +1,1 @@
+This extension will help to automate the process of attending live sessions in MS Teams.

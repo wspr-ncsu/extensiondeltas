@@ -1,0 +1,3 @@
+Support Chrome browser native and H5 two modes to control  volume
+H5 mode, which can automatically remember the previous volume configuration, but only supports HTML5 standard audio and video
+Browser native mode, support for Flash and other multimedia , automatic configuration cannot be implemented due to the limitations of the Chrome browser (the configuration can be loaded only after manually opening the extension page)

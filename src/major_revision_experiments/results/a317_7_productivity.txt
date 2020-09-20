@@ -1,0 +1,11 @@
+Customize the new start page with image background, replacing the default start page when open a new tab.
+
+This extension replaces your New Tab page with a customized start page. On every new tab, see the beautiful image background along with your most-visited sites. 
+
+Features:
+
+- Quick the web Search by Bing and Google
+
+- See your most-visited sites
+
+- Beautiful image and keep your start page is clean.

@@ -1,0 +1,1 @@
+bloi remote is a chrome browser extension for bloi.co bookmarking application.

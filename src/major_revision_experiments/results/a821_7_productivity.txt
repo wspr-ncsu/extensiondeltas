@@ -1,0 +1,1 @@
+This extension automagically puts your set signature on new thread posts' editor.

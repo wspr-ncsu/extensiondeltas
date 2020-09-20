@@ -1,0 +1,1 @@
+This extension forces Safe Search mode to ON while searching in Google, YouTube, Reddit, Yahoo, Bing, DuckDuckGo, Ixquick, and more.

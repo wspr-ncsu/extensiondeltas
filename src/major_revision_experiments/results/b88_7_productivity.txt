@@ -1,0 +1,9 @@
+Switch to the previously active tab by pressing Ctrl+Q, or clicking the Previous Tab icon.
+You can change the keyboard shortcut by visiting chrome://extensions/shortcuts .
+
+Chrome does not allow any extensions to use Ctrl+Tab or Ctrl+` as keyboard shortcuts.
+
+The supported keys are Alt, Ctrl, Cmd along with:
+A-Z, 0-9, Comma, Period, Home, End, PageUp, PageDown, Space, Insert, Delete, Arrow keys (Up, Down, Left, Right) and the Media Keys (MediaNextTrack, MediaPlayPause, MediaPrevTrack, MediaStop).
+
+Previous Tab requires no permissions to be granted for installation.

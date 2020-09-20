@@ -1,0 +1,1 @@
+Extend Databricks with a custom stylesheet and be the master of your own Databricks environment. The extension will add a Table of contents that allows you to easier navigate large notebooks. Works on both Databricks Cloud and Azure Databricks.

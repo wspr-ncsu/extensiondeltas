@@ -1,0 +1,7 @@
+This is the Nyzo Chrome extension that allows you to send tips to web pages in Nyzo.
+
+This extension is fully open source. The official repository is located at https://github.com/n-y-z-o/chromeExtension. 
+
+A detailed explanation of the code is available in the release notes, https://tech.nyzo.co/releaseNotes/cx1.
+
+All future modifications to this extension will be pushed to the official repository, and release notes will be provided for every commit. All release notes will include explanations of every code change to ensure transparency. Release notes will all be linked from this page: https://tech.nyzo.co/releaseNotes.

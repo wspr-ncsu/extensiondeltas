@@ -1,0 +1,18 @@
+BitCo.ly is the free URL shortening application from your friends at BitCreative. 
+
+Use our Chrome extension to instantly create a short URL from any website you're currently visiting. Then, head to our free dashboard at https://bitco.ly to customize your link and track interactions and get analysts.
+
+BitCo.ly offers
+
+- Geotargeting - Redirect users from different geo locations to a specific URL for their region or language
+- Device Targeting - Redirect users to customized mobile websites designed for specific devices
+- Expiration - Set an end date to your custom link to prevent stale dated offers
+- Protection - Password protect your URL to allow only authorized users to be forwarded
+- Custom Alias - Customize your slug (i.e. https://bitco.ly/whateveryouwant)
+- Pixels - Add Google, Facebook, LinkedIn, Twitter, and AdRoll pixels for retargeting
+
+Our service is SEO optimized, offers multiple forward types such as Direct, Frame, Initial Splash Page, and even overlays which display over any URL you link in a non-invasive way. 
+
+You can customize your URLs thumbnail, title, and description making it the ultimate social friendly application. 
+
+Premium accounts can add their own custom domain (i.e. brand.go) and create limitless links, create teams, and add URLs to Departments for easy organization.

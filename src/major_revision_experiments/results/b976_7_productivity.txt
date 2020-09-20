@@ -1,0 +1,8 @@
+Work with HHA Exchange, confirm your HHA/PA's time sheet and duty simply, only ONE key!
+
+Hot Key:
+
+Alt+A: Confirm time sheet
+Alt+Z: Duty complete
+
+Enjoy!

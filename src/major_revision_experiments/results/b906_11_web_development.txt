@@ -1,0 +1,1 @@
+Instantly converts an image to its Base64 string value and copies it to the clipboard.

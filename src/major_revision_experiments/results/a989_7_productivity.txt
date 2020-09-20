@@ -1,0 +1,2 @@
+simple way to reveal password inputs on chrome - for lazies
+just double-click on the password input.

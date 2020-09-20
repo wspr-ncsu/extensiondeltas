@@ -1,0 +1,2 @@
+Snow screenshot upload extension needed to make screenshot of current page and upload it to specific folder on Google drive.
+That extension also allow to select directory before upload.

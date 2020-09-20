@@ -1,0 +1,12 @@
+This tool let you share the content of your clipboard by using a secret URL.
+
+I like to share images. But before sharing, I like to annotate them, crop a little bit, add some color, and then share. I'm not particularly eager to embed images in Excel sheets, Documents, or Emails; I always prefer to share a link.
+Not only that, sometimes I want to see the history of all images I already shared, or blur faces, or highlight a specific part of the pages. Using arrows, circles, and rectangles. That's why I the Control V tool.
+Today the storage cost is so low that I promise never to delete your images. 
+
+I hope you will enjoy using the tool, at least like I enjoyed to create it.
+
+[privacy policy]
+They extension doesn't collects any kind of information. It's just open the online tool. The online tool uses Google Analytics and save the screenshot and your email.
+
+More info: https://ctrl.vi/privacy

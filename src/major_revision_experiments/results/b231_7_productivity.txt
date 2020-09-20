@@ -1,0 +1,17 @@
+Minimal Extension that help Jira Cloud users to have external links opened another tab to prevent loosing the current Jira navigation.
+
+Versions
+
+0.0.3
+  - skip urls in code blocks
+
+0.0.2
+  - on document ready event.
+
+0.0.1
+ - just the basics.
+
+
+Development
+
+Please feel free to download the code from https://github.com/pendexgabo/jira-external-links and post any bug or feature request over there.

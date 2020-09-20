@@ -1,0 +1,9 @@
+A chrome extension that checks the response headers of the active tab and tries to determine if it is being served via a CDN.
+
+This is designed to make lives easier for people, so you don't have to keep checking the network panel.
+
+At the moment, it only works with AWS CloudFront.
+
+It does track HIT & MISS data by reporting custom page views to Google Analytics - this can now be disabled via the options.
+
+Options also provides a way to change the Google Analytics account being used for tracking if you want to use your own.

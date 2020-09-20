@@ -1,0 +1,1 @@
+Browsershark provides users with a way to inspect all resources being loaded by your browser. A built-in hex viewer will allow users to inspect the content of files and allow for detailed analysis without requiring a user to download potentially malicious files.

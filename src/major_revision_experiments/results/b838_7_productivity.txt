@@ -1,0 +1,2 @@
+Esta extensión te permite registrar automáticamente todos los ingresos y gastos que se encuentren registrados en el SAT.  Crea tu cuenta en contarte.mx y verás lo fácil que  es tener tus registros contables  organizados de forma ágil. 
+Aplicación para de descarga de XMLS del SAT para usuarios contarte.mx , si aúno no eres usuario te invitamos a sacar una cuenta demo y probar esta fabulosa extensión.

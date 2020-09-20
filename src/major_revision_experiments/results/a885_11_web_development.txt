@@ -1,0 +1,6 @@
+Find IP address of the website you need. Just click in the extension it will get you the current website ip address.
+
+
+This extension's source code is available here https://github.com/tonystark-93/website-ipAddress. Its MIT licensed.
+
+This extension doesn't communicate with external servers to serve the IP address of the websites rather it use chrome api's to get the IP address.

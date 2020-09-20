@@ -1,0 +1,53 @@
+WallabagIt is a Chrome extension that integrates with the Wallabag "Read It When You Want" app (https://www.wallabag.org/)
+
+HOW TO INSTALL:
+
+For Wallabag v2 you will need to create a API client:
+1. Go to the "Developer" tab on wallabag server
+2. Click "Create a new client"
+3. Put any URL in you wish for the "Redirect URIs", it doesn't matter it is not used by this app
+4. Click "Create a new client" button
+5. Use the "Client ID" and "Client secret" that are created and fill in the field under this apps options page
+
+
+v2.1
+* Removed support for Wallabag v1
+* Added context menu option to add page
+* Added the ability to change how bags are displayed, title, title and URL or URL only
+* A lot of backend code reworking, mostly to make it easier to read/manage
+
+v1.1.0
+* Some error handling, thanks to funwhilelost
+* Added the ability to add/remove tags from entries
+
+v1.0.1
+* Added a shortcut key to add the current tab to your Wallabag app (default: Alt + Shift + W)
+
+v1.0.0
+* Wallabag v2 support
+
+v0.6.1
+* Fixed some issues with displaying of the actions on some systems.
+
+v0.6
+* It now checks to see if the API is configured correctly (requires the updated version of the wallabag api add-on for this to work)
+* Some bug fixes.
+* Some visual changes/fixes.
+* The WallabagIt text at the bottom now links to your wallabag site.
+
+v0.5.1
+* Visual changes
+
+v0.5
+* A number of visual changes
+* Background event page to handle updating of feeds as changes are made
+* Items are now immediately removed when they are archived/unarchived,
+fav'ed or deleted
+* Added the option to have links go to either the Wallabag page or directly to the page.
+* Fixed a few bugs
+
+v0.3
+* Bug fix to the load options page button.
+* Added a loading icon.
+* Made it so it doesn't reload the feed when you fav/unfav an item.
+* Added title descriptions to the archive, fav, remove icons.

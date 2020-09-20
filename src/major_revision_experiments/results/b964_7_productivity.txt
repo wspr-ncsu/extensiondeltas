@@ -1,0 +1,29 @@
+IMPORTANT EDIT: I released an iOS and Android App called Mood Pixel. Once I have finished the app I will redo this extension completely and synchronise Moodflow with Mood Pixel.
+
+Android link: https://play.google.com/store/apps/details?id=com.moodpixel
+iOS link: https://itunes.apple.com/us/app/mood-pixel/id1450736806
+
+MEDITATE. REFLECT. MOTIVATE.
+
+That is the core of moodflow, your personal dashboard that offers stunning images of the most exotic places on earth.
+
+moodflow has 4 goals: 
+
+    - To KEEP YOU MOTIVATED with a handpicked and curated list of the best motivational videos.
+
+    - To help you IDENTIFY WHAT MAKES YOU HAPPY by getting your feedback on your inner-wellbeing.
+
+    - To KEEP YOUR SPIRIT BALANCED by providing you with an environment of relaxation to escape reality.
+
+    - To MAINTAIN YOUR FOCUS on the important things that you have to achieve today.
+
+
+
+Other features:
+*** To-do List ***
+*** Beautiful layout no matter what screen size ***
+*** Customize the interval in which the background changes ***
+*** Customize the dashboard layout to make it look extra-clean***
+
+Cooming-soon:
+Synchronization with the Mood Pixel mobile-app.

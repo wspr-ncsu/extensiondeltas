@@ -1,0 +1,1 @@
+APP sets your Chrome browser default search from omnibox, it is a simple and smart search tool to search multiple sites easily.

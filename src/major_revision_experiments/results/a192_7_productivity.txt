@@ -1,0 +1,18 @@
+You must have a Pepper Flow Digital Review license, purchased through Vodori, to use this extension. 
+
+Never route another PDF of web page screenshots again. This add-on to Pepper Flow allows your company to review web pages and apps in their interactive, native format, regardless of the web content management system you use. The result? Your team saves time and improves communication during the review process.
+
+
+ANNOTATE DIRECTLY ON WEB CONTENT
+Instead of commenting on a PDF of screenshots, place annotations directly on the web page. Other Pepper Flow users will see these annotations right where you left them, enabling them to view comments and confirm functionality in context. 
+
+TAKE SCREENSHOTS FOR EASY RECORDKEEPING
+Keep track of what your team reviewed with screenshots. Select the type of screenshot you’d like, and Pepper Flow will do the rest, saving the screenshots for later version comparison or audit needs.
+
+COMPLETE AN ENTIRE JOB WITHIN THE EXTENSION
+Pepper Flow Digital Review also provides other capabilities to help you complete your web jobs, such as viewing task progress, editing metadata, managing assignees, and downloading review summary reports.
+
+ACCESS WEB CONTENT FROM PEPPER FLOW
+Access digital content from the Pepper Flow library, jobs board and notifications.
+
+For more information on Pepper Flow Digital Review, visit https://www.vodori.com/products/pepper-flow-digital-review

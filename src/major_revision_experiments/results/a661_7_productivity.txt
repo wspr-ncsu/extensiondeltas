@@ -1,0 +1,7 @@
+The shitfile extension lets you mirror/re-host images and files directly from your Chrome browser without having to first download them and re-upload them to your favourite file host: http://shitfile.com
+
+Features:
+
+Right click an image and click "Dump" to immediately request shitfile.com to mirror the image and give you a handy shortened link back.
+
+Right click on a link to request shitfile.com to mirror the contents of the link, greatly reducing the time it takes to send friends copys before they expire from other hosts.

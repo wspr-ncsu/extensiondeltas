@@ -1,0 +1,7 @@
+This extension gives you a fast and easy access to your latest downloads from the top right corner of your window.
+
+You can open downloaded files, open their containing folder, cancel an ongoing operation or retry a canceled item with a click of the mouse.
+
+It's NOT just a simple link to the downloads page like all of the other programs inside the Chrome Web Store!
+
+Start downloading the whole internet today! Have fun! :-)

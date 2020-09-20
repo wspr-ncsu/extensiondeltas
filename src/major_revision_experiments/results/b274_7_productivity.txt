@@ -1,0 +1,5 @@
+For Cal Poly SLO students to link from PASS to Poly Ratings. As well as courses to the catalog page they are on.
+
+Ratings are in the form of: Last, First ( Rating [Number Of Ratings] ).
+
+Send any bugs to kylem3r+p2pr@gmail.com

@@ -1,0 +1,9 @@
+Do you need real-time information from your Salesforce Reports? With this amazing Chrome Extension, now you can!
+
+Salesforce only allows you to scheudle refresh of Reports daily, weekly, or monthly. 
+
+With Enhance Salesforce Report, you can now have "up to the second" real time information. Use below options to set auto refresh frequency/duration.
+
+Install it to discover what you thought was not possible. Real Time Salesforce Reports!
+
+Satrang Technologies proudly provides this Extension to the Salesforce Community free of charge. Please consider supporting our efforts by making a monetary donation to our development team. The amount to donate is up to your choice. Visit http://satrangtech.com/donation.htm to make a Donation. Thanks!

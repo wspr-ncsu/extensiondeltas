@@ -1,0 +1,19 @@
+Decrease the amount of time spent interacting with web forms
+
+Automatically fills and saves the elements of a web form for you.
+
+After installation, click on the extension icon ([A] on the top right) to enable on the current web site.
+
+• AUTO SUBMIT – Automatically submits a web form 
+
+• NON DYNAMIC MODE – Automatically saves and loads the content of all web form elements as soon as the form is submitted
+
+• DYNAMIC MODE – Automatically saves and loads the content of all web form elements as soon as they are filled
+
+• PRINT AND DELETE – Shows a resume of the application storage 
+
+• ENABLE – Enable or disable the extension on all pages
+
+Follow us for the latest news and updates
+
+Twitter: https://twitter.com/GetAutoforms

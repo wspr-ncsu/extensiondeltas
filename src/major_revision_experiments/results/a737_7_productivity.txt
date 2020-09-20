@@ -1,0 +1,3 @@
+Send SMS directly from Gmail.
+
+No need to login to seperate SMS dashboard, search Google Contacts, and send SMS

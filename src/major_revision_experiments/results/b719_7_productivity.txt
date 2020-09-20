@@ -1,0 +1,1 @@
+When this extension is install, every single tab you open will automatically be pinned. This can be desirable for various reasons, but the reason it was made was to remove the (x) from tabs so they aren't accidentally clicked. Pins can still be closed with Ctrl/Cmd + W or middle clicking your mouse over them.

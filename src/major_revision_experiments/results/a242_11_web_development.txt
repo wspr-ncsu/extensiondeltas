@@ -1,0 +1,4 @@
+Inspect and analyse your react spit containers. Available features: List of all containers on your page, versions of the containers and the stacktrace for the occured event.
+
+Find the npm package for react split containers here:
+https://www.npmjs.com/package/react-spit

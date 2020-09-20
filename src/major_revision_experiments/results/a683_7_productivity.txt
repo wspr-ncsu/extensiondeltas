@@ -1,0 +1,20 @@
+FACEIT Enhancer is a Chrome extension that enhances the experience on FACEIT.com by adding useful and improving existing features. With over 300.000 active FACEIT Enhancer users, it's a must-have for FACEIT players.
+
+Highlights:
+- Ready up for matches automatically
+- Accept party invites automatically
+- See players Elo and country in match rooms
+- See teams Elo in match rooms
+- See how much Elo you'll win or loose
+- See player statistics of the last 20 matches in match rooms
+- See how much Elo you have won and lost in your match history
+- and more!
+
+All features are configurable to your personal preferences.
+
+Social Media:
+- Reddit: https://www.reddit.com/r/FACEITEnhancer
+- Steam Group: http://steamcommunity.com/groups/faceitenhancer
+- Twitter: https://twitter.com/timche_
+
+NOTE: FACEIT Enhancer is developed independently, and is not officially endorsed by or affiliated with FACEIT.

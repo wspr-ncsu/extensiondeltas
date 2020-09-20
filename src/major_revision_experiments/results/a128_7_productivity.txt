@@ -1,0 +1,7 @@
+Opens the bookmarks saved by the ReadLater extension in a new tab. You can choose to open the first added, last added or a random bookmark from the settings menu. This extension should be used along with the ReadLater extension.
+
+Companion Extension - ReadLater:
+https://chrome.google.com/webstore/detail/readlater-bookmarks-in-a/fcabbkcefpkdinlmioihdghblpopckkn
+
+Source Code:
+https://github.com/ersel/ReadNow

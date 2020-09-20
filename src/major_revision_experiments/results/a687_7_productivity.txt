@@ -1,0 +1,8 @@
+If your device is resource limited, Free Up Memory will help you. Background tabs consume a lot of RAM, but with this extension it will not be a problem on old computers. 
+We have made a simple interface for 'Free Up Memory' that is even suitable for older people or children.
+You can leave all options by default and everything will work. Free up to 80% of memory!
+Possibilities for customization: 
+- select the interval for which the tabs will be considered unused,
+- add sites to the exceptions so as not to suspend them at all,
+- manage suspension globally and over browser windows.
+Simple things should be easy to use, without consuming extra resources. Hope you like our extension Free Up Memory.

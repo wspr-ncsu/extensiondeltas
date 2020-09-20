@@ -1,0 +1,22 @@
+Set your bitcoin address in this extension's options page.
+
+
+=== RELEASE NOTE ===
+2014/02/02 Sun - version 0.0.2.1547
+* Fix to display description
+
+2014/02/01 Sat - version 0.0.1.2013
+* Cut debugging code
+
+2014/02/01 Sat - version 0.0.1.1947
+* Fix for HTML frames
+
+2014/01/23 Thu - version 0.0.0.2211
+* Add English messages
+
+2014/01/23 Thu - version 0.0.0.?
+* Add icons
+* Add advertise links to bitcoin sites
+
+2014/01/23 Thu - version 0.0.0.?
+* Initial release

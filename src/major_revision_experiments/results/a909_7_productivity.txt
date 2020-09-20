@@ -1,0 +1,12 @@
+UPDATE 23/june/18: Added Drag-n-Drop. Many change .You can help donation or send yor idea: rbtaddon@gmail.com (paypal)
+
+Roomy Bookmarks Toolbar make new bookmarks toolbar on page. For hide\unhide Chrome bookmarks bar press Ctrl+Shif+B.
+
+In new bookmarks bar you can hide bookmarks and folder name, use multyrow, compress bookmarks bar(in 5 px line) (on mouseover bookmarks bar will be visible in full height), set translucent, set bookmarks size and space between bookmarks.
+
+Permission:
+- Access your data on all websites - Need for creating bookmarks bar. Add-on NOT get or send your private information or your history/bookmarks/etc. This add-on DON'T send  information to web.
+- Access your tabs and browser activity - Need for set new styles after options changing.
+- Read and modify your bookmarks - Need for get bookmarks names and URL.
+
+You can contact with developer using mail: rbtaddon@gmail.com

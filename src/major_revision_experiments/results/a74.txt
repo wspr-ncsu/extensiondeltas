@@ -1,0 +1,5 @@
+**PLEASE NOTE**: Now that CMC has stepped up their game and added most of the important features I originally wanted by making this extension, it has essentially completed its purpose and will no longer be maintained. Thanks everyone :)
+
+An extension with a few small enhancements to CoinMarketCap.com which add a night theme, inline charts, volume-to-marketcap ratio column, auto-refresh timer, TradingView link, removes ads, and expands the main table to fill the entire window.
+
+Github: https://github.com/NathanAB/cmc-enhanced

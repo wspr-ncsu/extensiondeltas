@@ -1,0 +1,1 @@
+Awesome button to open up a new Chrome window (or tab).

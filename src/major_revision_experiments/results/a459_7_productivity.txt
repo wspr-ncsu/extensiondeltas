@@ -1,0 +1,55 @@
+The Save Text to Google Drive Chrome extension helps you save web text content to your Google Drive.
+
+Main Features:
+  1. Save text,text file(Right mouse menu), epub file(Right mouse menu) to Google Drive.
+  2. Save Page/Link text to Google Drive by context menu.
+  3. Set dfault saveing path on Google Drive, the default path is the root.
+  4. You can read it by Owlsee textReader.
+
+AUTHORIZATION 
+  Owlsee is requesting permission to: View and manage Google Drive files that you have opened or created with this app.
+
+WHY OWLSEE CACHE FILE IN OUR SERVER
+  Owlsee will cache the opened file for the user experience and performance reason.
+  When opening the gdrive's file by owlsee.com, Owlsee will turn the plain text file to well-structured format for human view, remove redundancy empty line, remove html tags, separate the long file to multiple parts. Caching file will reduce overhead and improve response time.
+
+The extension is a "read later" tools which work with Google Drive. You should read it with Owlsee textReader(http://owlsee.com) in a comfortable way anytime anywhere.
+textReader will record your recently reading process, and jump to the last reading location after opening the file again. it also support defining tags, defining bookmarks, custom font size, full text searching etc.
+
+===============
+Change log
+
+Apr 18, 2018, version 1.2.0
+1. add "save page to google drive" context menu.
+2. add "save link to google drive" context menu.
+
+Apr 9, 2018, version 1.1.0
+1. Simplified UI
+
+Mar 20, 2018, version 1.0.0
+1. big update for ui
+
+Jan 1, 2018, version 0.5.10
+1. update to https.
+
+September 21, 2015, version 0.5.9
+  1. fixed bug[Upload file window auto closing doesn't work for chrome 32+].
+
+Mar 29, 2013, version 0.5.8
+ 1. click desktop notification window to open saved doc.
+
+Mar 22, 2013
+  1. Add desktop notification after sends page to google drive.
+  2. Add options page.
+  3. Optimize UI.
+
+Mar 7, 2013
+  AUTHORIZATION SCOPE CHANGED: "View and manage Google Drive files that you have opened or created with this app".
+
+Feb 20, 2013, version 0.5.5
+  1.Some message will popup when server side raise error.
+  2.You can see the file name throw the saving-popup-window now.
+
+Feb 14, 2013, version 0.5.4
+  1. Saving action now in a popup window, you can do other thing when saving file to Google Drive.
+  2. You can set saving path in google drive. default is root path.

@@ -1,0 +1,15 @@
+Converts php-serialized data back to human-readable stuff. 
+
+Can choose var_export or JSON
+Cannot solve cyclic reference (Please raise an issue at github if really needed)
+
+Thanks to:
+http://extensionizr.com
+https://github.com/bd808/php-unserialize-js
+http://locutus.io/php/var_export
+
+github: https://github.com/vicksonzero/chrome-unserialize-php
+
+
+Update 1.1.0
+- Fixed var_export library not quoting object keys

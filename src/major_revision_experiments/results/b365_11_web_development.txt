@@ -1,0 +1,11 @@
+With Switcheroo Plus, you can redirect any http request, no matter if entered manually or from elements of your page (i.e. images, scripts, css, and so on).
+
+This enables you to quickly switch i.e. between a test/developer server and a live server.
+
+Switcheroo Redirector Plus differs from 'normal' Switcheroo Redirector by several enhancements, like:
+
+- regex support
+- improved GUI
+- internationalized
+- import and export of rules
+- options page (easier when switching tabs)

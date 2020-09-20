@@ -1,0 +1,7 @@
+calculate GPA and CWA for uofs student
+Instructions:
+1. Go to PAWS.
+2. Login in with your nsid and password.
+3. Go to unofficial transcript
+4. Control/Command + left click on the submit button to open the transcript in "a new tab"
+5. Use the extension, and enjoy it!

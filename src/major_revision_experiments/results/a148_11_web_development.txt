@@ -1,0 +1,16 @@
+1、管理多个邮箱：完美一键登录，轻松管理你的所有邮箱(支持包括网易邮箱、QQ邮箱、Gmail、Hotmail、139邮箱、网易企业邮、腾讯企业邮在内的各种个人与企业邮箱，以及国内外高校的edu邮箱)。
+
+2、聚合推广邮件：根据邮件类型智能归类，将推广邮件聚合到单独邮件列表，不再弹出通知提醒。
+
+3、邮件会话模式：同一主题的邮件合并显示，便捷浏览往来邮件，像聊天一样快速回复。
+
+4、快速分享功能：邮件、附件可一键分享到微信、QQ 和易信，更符合国人的使用习惯。
+
+5、待办提醒事项：滑动将邮件转换为待办事项，设置提醒，轻松管理各项任务。
+
+6、服务信息卡片：将机票、快递和银行账单邮件用卡片样式展示，重要信息一目了然。
+
+7、保障隐私安全：可添加 Touch ID 指纹密码、手势密码，支持扫一扫登录网页邮箱，多重安全防护措施。
+
+
+1. Manage multiple email accounts: perfect one click Login, easy to manage all your email support including netease, Qq, Gmail, Hotmail, 139, netease, tencent, and a variety of personal and corporate email, as well as edu email at home and abroad universities. 2. aggregating promotions: intelligently categorize promotions by email type, aggregating promotions to a separate mailing list, and no more pop up notifications. 3. Email conversation mode: merge messages on the same subject, easily navigate through email exchanges, and respond as quickly as a chat. 4, quick sharing function: email, attachments can be one-click to share Wechat, Qq and Yixin, more in line with the use of Chinese habits. 5. To do reminders: Swipe to turn email into to do items, set reminders, and easily manage tasks. 6. Service Information Cards: Display Your airline tickets, express mail, and bank statements in a card style, with important information at a glance. 7. Privacy and security: You can add Touch ID fingerprint password, gesture password, support to scan the landing page mailbox, multiple security precautions.

@@ -1,0 +1,5 @@
+ANTS - Checking code helps to troubleshoot installation of various ANTS tags including ANTS AdX: Dynamic code, Remarketing code ,Conversion code, ANTS Insight: Pageview code, Goal code, Ecommerce code, ANTS Tag Manager and more.
+
+ANTS - Checking code helps you verify that you have installed various ANTS tags correctly on your page. Just navigate to any page and ANTS - Checking code will tell you which tags are present, report any errors we find and suggest improvements that can be made to your implementation. Most ANTS tags are checked including ANTS AdX, ANTS Insight, ANTS Tag Manager and more.
+
+By installing this item, you agree to the ANTS Terms of Service and Privacy Policy at http://ants.vn/privacy.html.

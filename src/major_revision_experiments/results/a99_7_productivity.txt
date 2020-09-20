@@ -1,0 +1,7 @@
+TIme Boxer is for anyone who wishes to save time working on trivial things. Do you waste a lot of time shopping online or watching youtube or facebook and want to limit it ? Using a phone or other device distracts you more, this extension is for you. 
+
+Describe your task and set a time and you are good. Extension will let you know when that time elapses. 
+
+Please leave a feedback once you use. 
+
+*Please be aware that the time you set is the duration and not local time.

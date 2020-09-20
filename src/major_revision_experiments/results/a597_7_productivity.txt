@@ -1,0 +1,3 @@
+Ever wanted to share a link to the closing paragraph of a web article? Have you ever wanted to share a specific line within a webpage but didn't want to force those you send it to, to read the whole thing? LnkHppr solves this problem by letting you create links to precise sections within a webpage all with a single right click! You can even highlight what you are linking to so everyone who opens the link sees exactly what you saw!
+
+The best part is LnkHppr works just by sharing links. We take care of everything else for you. Anyone who receives a LinkHppr link doesn't even need the extension. Seamless.

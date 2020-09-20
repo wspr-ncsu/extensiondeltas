@@ -1,0 +1,1 @@
+通过navicat的sql脚本，自动生成实体类，mybatis映射文件，以及基于SpringMVC的三层结构初始代码

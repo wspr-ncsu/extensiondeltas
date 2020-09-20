@@ -1,0 +1,1 @@
+hrConnectum Plugin to connect recruiting platforms with the tool.

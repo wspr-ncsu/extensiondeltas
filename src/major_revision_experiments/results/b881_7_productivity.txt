@@ -1,0 +1,8 @@
+There are a lot of links provide in Github pages. Some might need to be marked as read, some you find amazing & some you would love to read it later. Github Marker does exactly that.
+The extension provides 3 options attached to every link found on github related pages:
+1. Mark as Read/Unread
+2. Favorite/Un-Favorite a link
+3. Bookmark/Unbookmark a link
+
+Note: The extension is currently only supported for Github pages. As per user request it can be extended to other plateforms.
+For any queries reach out at mehullakhanpal@gmail.com

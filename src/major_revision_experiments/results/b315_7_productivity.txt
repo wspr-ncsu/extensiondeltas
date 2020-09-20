@@ -1,0 +1,5 @@
+Instagoogling is the fastest and most efficient way to Google from Sublime Text, right now it only works for Windows but a Mac version is on the works.
+
+IMPORTANT!!!
+
+To make it work you need to install the Sublime-Text Plugin as well! Go to the github repo for info about how to do it: https://github.com/Ivanca/InstaGoogling

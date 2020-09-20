@@ -1,0 +1,33 @@
+Manage your lambda inline code with github/github enterprise.
+Feature:
+ - Push/Pull code between github and lambda
+ - Create github repo, branch and file from lambda console
+ - Show diff when pull/push
+ - Support commit comment when push
+ - Support Github and Github Enterprise
+ - Two-factor authentication support
+ - Compatible with lambda qualifier(versions/aliases)
+ - AWS native ui
+
+Changelog:
+1.1.2
+- Fix new ui's modal
+
+1.1.1
+- Fix login ui for new console
+
+1.1.0
+- Support new lambda console
+
+1.0.1
+- Fix login bug
+
+1.0.0
+- Support use access token to login.
+
+0.1.6
+- Fix listen url pattern, make assistant work again
+
+0.1.5:
+- Support zip code with inline display
+- Change behavior: Pull will not auto save, you can confirm the change and use Save button to save

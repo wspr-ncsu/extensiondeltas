@@ -1,0 +1,7 @@
+A code bookmarking tool for developers that lets you extract and save snippets of code from any web page along with the URL of the site you saved it from. Snippets show up in your Codebits dashboard where you can easily search for them and organize them by tags. The dashboard can also be set as your new chrome tab. 
+
+Codebits was created to help ease the frustration of using browser bookmarks which can be cumbersome to search through when you have hundreds or thousands of bookmarks. 
+
+Codebits makes your saved snippets searchable with details like the source url, the content of the snippet, and tags so finding what you're looking for is quick and easy.
+
+All saved snippets are editable so you can add your own formatting and commentary.

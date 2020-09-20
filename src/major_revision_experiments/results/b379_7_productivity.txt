@@ -1,0 +1,53 @@
+Status of keySharky for Google Chrome (as of April 26th, 2011)
+
+http://grooveshark.com/ - works
+
+http://preview.grooveshark.com/ - works
+
+-----------
+
+If you don't like default keyboard shortcuts, you can change them by going to chrome://extensions/, then finding keySharky entry and clicking on Options. Now in keySharky Options tab, click inside input box of shortcut you want to change (so it has focus) and then press any allowed keyboard combo. If it is valid, it should change immediately for your usage pleasure :) 
+
+Note: you can't test new (or old) combos within keySharky Options tab. So keep another tab opened for that.
+
+Default "Playback control" keyboard shortcuts:
+
+  * Ctrl + Alt + Shift + Z to Play/Pause selected song
+
+  * Ctrl + Alt + Shift + X to Stop playing song
+
+  * Ctrl + Alt + Shift + A to select previous song in playlist
+
+  * Ctrl + Alt + Shift + D to select next song in playlist
+
+
+Default "Current song" keyboard shortcuts:
+
+  * Ctrl + Alt + S to favorite it
+
+  * Ctrl + Alt + A to vote up :)
+
+  * Ctrl + Alt + Z to vote down :(
+
+  * Ctrl + Alt + Q to reset vote
+
+
+Default "Sound Control" keyboard shortcuts:
+
+  * Ctrl + Shift + M to mute
+
+  * Ctrl + Shift + . to increase volume
+
+  * Ctrl + Alt + , to decrease volume
+
+
+Use case of extension:
+
+  * Install extension;
+  * In new tab open Grooveshark and in another tab something else (or reload every opened tab, so content script is loaded in them otherwise extension will not receive any key pressing from those tabs);
+  * Add something to Grooveshark playlist and hit play;
+  * Now when you are in another tab (like google.com) you can press above combos and interact with Grooveshark.
+
+Tip: If this isn't working right away try to restart Google Chrome and try then again.
+
+Note: keyboard shortcuts only work when focus is on main window (and you aren't in chrome://* , https://chrome.google.com/* or file://* page)! So you can't control Grooveshark being inside flash player.

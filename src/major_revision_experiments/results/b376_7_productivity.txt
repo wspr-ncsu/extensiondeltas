@@ -1,0 +1,5 @@
+This is a helper for the "Badíʿ Calendar" extension. You must install both extensions for this one to work!
+
+This helper extension integrates into Google Calendar webpages to display dates from the Badíʿ (Wondrous/Badi) calendar! Works for month and day views.
+
+The language used is set inside the main Badíʿ Calendar extension.

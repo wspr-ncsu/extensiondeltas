@@ -1,0 +1,1 @@
+This extension publishes urls to collated.net where they can be stored and organised, just right click a link and send directly. From the popup you can choose whether to save the url of the current browser tab or all open tabs. The url and title can be edited as necessary.

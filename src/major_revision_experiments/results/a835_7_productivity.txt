@@ -1,0 +1,12 @@
+Disclaimer:
+1. This plugin calculates the price for a square foot on listed in small panel mode only.
+
+2. Developer takes no responsibility WHAT SO EVER for computing errors. It is the plugin user's responsibility to re-verify every number computed before investing more time in further evaluation of the property.
+
+The usage of the plugin is solely a pre-screening of comparable houses.  That is it makes sense only when comparing the houses in the same community.
+
+The only thing the plugin does is : 
+- dividing Price by footage for every property and displaying it in blue font.
+- calculates average price per square foot on the very page you look at.
+- changes color to green for prices below 10% average; to red for 15% above average.
+- Monthly payment with zero(0) down, 30 years at 4.63% for every property on the page.

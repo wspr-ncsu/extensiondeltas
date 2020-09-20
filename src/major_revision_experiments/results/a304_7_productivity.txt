@@ -1,0 +1,7 @@
+A tool created for GCP Engineers and Admins to improve their productivity.
+
+Current Feature:
+
+GCP Status notification for any service disruption or service outage via dynamic bar in existing browser window. No need to go to status page to check the status now.
+
+More features to come soon !!!

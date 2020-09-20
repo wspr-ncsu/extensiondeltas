@@ -1,0 +1,1 @@
+In browser code snippet editor for JS, XML, C-like languages with integrated diff/merge view.

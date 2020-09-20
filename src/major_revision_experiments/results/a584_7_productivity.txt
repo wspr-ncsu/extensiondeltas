@@ -1,0 +1,7 @@
+Gives you reminders by little beep noises, reminding you to look away from the screen to promote good eye health.
+
+The noise will beep once every 20 minutes, and after 20 seconds will beep 3 times again to signal that you have rested your eyes enough.
+
+It has been advised that you should look at an object (not a screen) which is about 20 feet away for 20 seconds every 20 minutes while working at computer screens. This extension is to help you remember to do that. 
+
+Use the popup icon to turn on/off.

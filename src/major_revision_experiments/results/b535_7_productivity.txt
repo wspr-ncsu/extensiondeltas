@@ -1,0 +1,38 @@
+Translates interface of trello.com into your favorite language which set in browser as default.
+
+You can improve your native language translation:
+* Open http://interpr.it/extension/34
+* Choose your language and do your best!
+
+Your translation will be included into next version of this extension.
+
+Updates:
+Version 0.6:
+* Added new translations (fi, fr, pl);
+* Updated existing (pt_BR, ja, uk).
+* No changes in code.
+
+Version 0.5
+* Switched to chrome.i18n API to use http://interpr.it/ service.
+* Removed Language selector because now translation depends on default language in browser.
+* Added German, Japanese, Ukrainian and some other translations.
+
+Version 0.4
+* Added Italian and Russian translations.
+* Fixed critical bugs.
+
+Version 0.3
+* Minor changes.
+* Updated Russian translation.
+
+Development
+
+* Clone repository: git clone git@github.com:VladSavitsky/trello.lanugages.git
+* Open folder: cd trello.languages
+* Happy hacking!
+
+Source code: https://github.com/VladSavitsky/trello.lanugages
+
+How it works
+
+Trello loads page elements using AJAX so we wait until element appears at page and then translate it. We translate values of HTML tags, tip (mostly 'title' attributes of A tags) and form elements.

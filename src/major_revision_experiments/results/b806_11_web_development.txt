@@ -1,0 +1,4 @@
+Simple extension that prompt you if a file to be downloaded already exists. i.e. shows a save as dialog.
+
+Chrome currently offers 3 options: rename (Default), overwrite and prompt.
+This sets the preference to "prompt"

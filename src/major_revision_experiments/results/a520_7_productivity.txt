@@ -1,0 +1,3 @@
+Removes all the elements from the Google Translate page that are not necessary for translating single words or phrases.
+
+I created this extension mainly for my own personal use because I'm using the Translator round-the-clock and don't want to be distracted by all the unnecessary elements on the page.

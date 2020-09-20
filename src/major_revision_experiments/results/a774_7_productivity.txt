@@ -1,0 +1,7 @@
+This plugin allows you to be more productive, and it doesn't waste your time while doing so.
+
+You can with ease dictate the time you want to be blocked from a website, and even allow yourself in only on weekends so you don't unblock yourself, and "forget" to block yourself again!
+
+Feature suggestions are encouraged, but I will only implement features which makes this plugin simpler to use.
+
+This plugin was made on a request: http://www.reddit.com/r/SomebodyMakeThis/comments/1igrkt/a_chrome_extension_that_prevents_me_from_visiting/

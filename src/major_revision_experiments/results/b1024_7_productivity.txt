@@ -1,0 +1,3 @@
+When browsing Everything but the House this extension looks for item listings in the browser and then fetches the shipping costs automatically. Set your zip code in the options page of this extension.
+
+The extension may fail from time to time as the EBTH website is updated. Then this extension will be fixed and updated as well.

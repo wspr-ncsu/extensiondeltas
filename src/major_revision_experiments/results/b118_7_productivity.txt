@@ -1,0 +1,1 @@
+This plugin makes it very easy to use multiple accounts on the same site at the same time. Simply click on the plugin icon and go to the site in the created tab of the browser. Reliably works in facebook, tweeter, instagram and other social networks. The plugin is safe to use, your data is not sent anywhere. After the browser is closed, the data is deleted

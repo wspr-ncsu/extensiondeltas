@@ -1,0 +1,12 @@
+Get quick access to your bookmarks, even in Fulllscreen Mode.
+
+Once this extension is installed, use CTRL + SHIFT + U at any time to bring the modal listing your first 10 bookmarks and a searchbar, allowing you to search among your bookmarks.
+
+Bookmarks permissions are only asked to feed the suggestions list.
+
+Feature requests are welcome !
+
+Controls:
+- Use Arrow Up and Arrow Down to navigate between your listed bookmarks
+- To open a bookmark you can either press Enter when it is selected or click directly on it
+- Press Ctrl + (Enter OR Click) to open your bookmark in a new tab

@@ -1,0 +1,6 @@
+This chrome extension can be used to compare the same page across multiple sites. For example, it could be configured to open the production, staging, and development version of a site. 
+
+For more details on how to use and configure the extension, see:
+https://github.com/ConorSheehan1/chrome-compare/wiki
+
+This extension is open source. Visit the website link on the chrome store or go to https://github.com/ConorSheehan1/chrome-compare to check out the source code. Pull requests welcome :)

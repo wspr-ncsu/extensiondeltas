@@ -1,0 +1,26 @@
+Youtube Tutorials:
+https://www.youtube.com/watch?list=PLeeTESVRrzqFwAF1ihLTLU21_XdtvoxX-&v=yRUoFGYqz5U
+
+More Support in our Group:
+https://www.facebook.com/groups/xtremeecom/
+
+Summary:
+Xtreme Ecom Research Tools is an Advanced Arsenal that is used for Researching Keywords, Audiences and Niches for Specific Products from Aliexpress, Ebay, Amazon, Wish, Wanelo, Walmart and many other Plattforms and Sales Channels to find the Right Buyers and Interests to target. We have a metric that analyzes buying intent with a high percentage. It also helps you discover common likes of Facebook Pages, Videos, Posts and Groups from Facebook Profiles. If you have a Facebook Ad that you want to Analyze, just do it with our Extension. Scraping is done without interruption so you can continue working on other tabs in your Chrome browser, which gives you the edge to scrape 100s or 1000s of Profiles and Suggested Key Phrases. Our Extension includes Tutorials, Tips, Helpful Guides + Step by Step How to Explanations with Videos so you can effortlessly use and implement our strategies. Enjoy the App, it works on Linux, Mac and Windows. If you do encounter any issues, please report them to me! Our Tools and Sets are best used with the default settings.
+
+FAQ/Q&A Section to be added.
+
+--------------------
+Updates / Changelog:
+
+05.12.2016 - 0.8.1
+- added description to popup
+
+10.11.2016 - 0.7.7
+- fixed bookmarklet
+
+09.11.2016 - 0.7.6
+- added tutorial for profile ID scraping
+- added bookmarklet for quick profile show
+
+08.11.2016 - 0.7.5
+- first version online and stable

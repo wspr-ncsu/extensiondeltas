@@ -1,0 +1,1 @@
+When you click this extension's icon, it will copy the current tab's URL to the clipboard, formatted so it can be pasted into a document or email message as a link, with the tab's title as the text of the link and the tab's URL as the target of the link. It also supports copying the tab's title and link as a Markdown-formatted string suitable for pasting into Markdown documents.

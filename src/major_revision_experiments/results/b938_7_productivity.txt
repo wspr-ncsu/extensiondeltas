@@ -1,0 +1,16 @@
+Access 202Works Blueocean profiles with one click.
+WHAT IS BLUEOCEAN: LEGAL & PUBLIC AFFAIRS INTELLIGENCE AT SCALE
+
+With the 202Works One-Click extension you can see full company financials, political contributions, competitors, news, lobbying spending, representation, and more, by simply clicking on the extension icon.
+
+HOW DOES IT WORK?
+
+When visiting any website, click the 202Works icon in your extensions bar. A new tab will be opened with the 202Works Blueocean profile page for that company.
+
+Ex. visiting airbnb.com and want to see what legal issues they've had recently?
+1. click the 202Works icon in your extensions bar
+2. A new tab will be opened with the AirBNB profile page.
+
+REQUIREMENTS
+
+You must have an active 202Works Blueocean subscription and be logged into your account.

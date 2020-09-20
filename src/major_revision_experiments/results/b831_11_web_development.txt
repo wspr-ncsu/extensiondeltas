@@ -1,0 +1,3 @@
+achievibit adds achievements to each pull request you merge. In order to get achievements, just merge your pull requests like you normally do. achievibit will grant achievements based on some data achievibit listens to.
+
+This is still in early development so expect some bugs

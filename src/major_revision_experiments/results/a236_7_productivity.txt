@@ -1,0 +1,10 @@
+Replaces Chromes new tab page with scenic backgrounds, motivational quotations and a countdown timer to the new year and a count-upwards timer to your current age.
+
+This is based on Alex MacCaw's Chrome extension Motivation Extension which can be found at https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj?hl=en and https://github.com/maccman/motivation
+
+Special Thanks to:
+a. Alex MacCaw for his idea and chrome extension source code.
+b. unsplash.com and the photo contributors licensed under Creative Commons Zero.
+c. All the people who wrote their motivational quotes.
+
+You can access the source code at: https://bitbucket.org/mariosevr/

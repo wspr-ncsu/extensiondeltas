@@ -1,0 +1,11 @@
+"What version of Sitecore is this on again?"
+
+This extension runs through two checks:
+
+1) Is the site using Sitecore?
+2) Which version of Sitecore is it running on? 
+
+If a Sitecore version is detected, it will display the full revision and update name and link to its respective http://sdn.sitecore.net or http://doc.sitecore.net version page. 
+ Also, the mainstream support end date displays below the version with a link to the Sitecore Product Lifecycle page.  
+
+Note: While this may often determine versions for live Sitecore sites (especially older versions of Sitecore), not all environments provide the means to determine the version of Sitecore it runs on as an end-user.

@@ -1,0 +1,48 @@
+The fastest way for reps to schedule meetings and collaborate on emails. The Chili Piper Chrome Extension combines scheduling automation and email collaboration into a single app, allowing revenue professionals to better engage with their buyers. 
+
+INSTANT BOOKER
+
+Book meetings in one click from Gmail, Google Calendar, Salesforce, Salesloft, Outreach and more. 
+
+Reduce clicks and speed up the scheduling process by embedding your availability right in your email to make booking a one-click process.
+
+Integrate seamlessly with Salesforce to automatically capture and update events, leads, contacts, cases, and more. 
+
+INSTANT BOOKER FEATURES:
+
+* One-Click Booking with suggested times in emails
+* Meeting Templates to automate scheduling for various meeting types
+* Calendar Integrations with Gmail and Outlook
+* Email and Text Reminders to reduce no-shows 
+* Meeting Buffers to add rest time before and after meetings 
+* Minimum Notice to control last-minute meetings
+* Daily Meeting Limits to avoid overbooking
+* Reserved Meeting Blocks to help reps own their schedule
+* Recurring Meetings for onboarding, check-ins, and more
+* No Show Management to track meeting success rates in Salesforce
+* Simple Re-scheduling to reduce cancellations and no-shows
+* Create Leads and Contacts in Salesforce when booking meetings
+
+INBOX COMMENTS
+
+Inbox Comments lets you collaborate with your team on any email thread in Gmail with comments, @mentioning, and more. Get help from teammates and work together on email responses in real-time.
+
+Revenue teams spend a large percentage of their workday in their inbox, communicating with prospects and customers. But the process of collaborating on an email thread still requires forwarding it to a team member, jumping on Slack, or walking across the office. This throws you off your game, reduces productivity, and delays your response time. 
+
+With Inbox Comments you can tap into your team's expertise right from the very tool you use to communicate - your inbox. 
+
+Say a prospect has an objection or a customer has a challenging question; simply start a conversation with a team member alongside your email thread. You don't have to jump to a new platform and any context they need is right there in your email thread. 
+
+INBOX COMMENTS FEATURES:
+
+* Real-time collaboration right inside of Gmail
+* Simply highlight any text to add a comment or start a conversation
+* @mention team members to add them to the conversation
+* Add more detail with attachments and emojis 
+* Share email threads without having to Cc/Bcc/Forward
+
+ABOUT CHILI PIPER
+
+Chili Piper is a buyer engagement platform, helping revenue teams improve the way they schedule meetings, manage events, and communicate with their buyers. 
+
+Learn more at https://chilipiper.com

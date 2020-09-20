@@ -1,0 +1,44 @@
+Modern New Tab Page is highly customizable. You can modify the background image, opacity and color. Tiles can also change colors an icons. You have 26 color themes to choose or you can make your own theme if you want to.
+
+You can change each tile's color, icon, size and even display the latest news of your favorite websites by using RSS. All in one simple and easily configurated page. 
+
+-- Important! ----------------------------------------
+If you have any question, feature request or bug to report, please use the "Send Feedback" button located on the right of the details pane so I can reply to you. I can't reply on the reviews section. Thanks!
+
+
+---------------
+Features:
+---------------
+
+- Create and edit tiles.
+- Change the background and font colors, display name, and icon of each tile.
+- Upload tile's icon from your computer or select an icon from a list of famous website icons or use a link to use any image on the internet.
+- Display the latest news of your favorite web sites by using RSS.
+- Click on any news to open it.
+- Drag and drop to organize the tiles the way you like.
+- Change the tiles' size to fit more tiles on the screens or to display larger tiles.
+- 26 color themes ready for you to personalize your page.
+- Make your own color theme using color pickers.
+- Upload your favorite image to use as background.
+- Change the background image opacity.
+- View and reopen your recently closed tabs.
+- View and open your bookmarks.
+- Export and import your tiles and configurations *new
+
+
+---------------------------------------------------------
+This extension will ask for the following permissions:
+
+- Read and change your bookmarks
+  This is required to get the list of your bookmarks so we can add the shortcuts.
+
+- Read and change your navigation history
+  This is required to read your navigation history so we can add the shortcuts to your recently closed tabs.
+
+- Management 
+  This is required to get a list of your installed apps so we can add the shortcuts.
+
+- Access to all websites
+  This permission allows the extension to make requests to external servers. This is necessary to download RSS files and display the last news on your tiles.
+  No information is collected.
+---------------------------------------------------------

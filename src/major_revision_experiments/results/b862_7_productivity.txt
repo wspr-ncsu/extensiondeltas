@@ -1,0 +1,1 @@
+A tabs management extension for your browser. If you keep many tabs open on your browser ,Excited Gem can help you maintain those many tabs with a nice list view. You can easily search , close, pin/unpin, mute tabs. You can even Sort your tabs.

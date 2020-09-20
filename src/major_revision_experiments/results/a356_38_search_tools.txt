@@ -1,0 +1,3 @@
+This is a simple extension for Google Chrome designed to allow the user to take a screenshot and then perform a reverse image search through various search engines.
+
+This is a school project for EECS 441 at the University of Michigan. This is free and open source software under the MIT license. The source code can be found at https://github.com/jackhe-umich/chrome-crop-screen-capture.

@@ -1,0 +1,3 @@
+Colours Daily Mail links grey, adds a border, and adds a warning when you click on them. 
+
+Version 1.2: Added a CSS file because it didn't work on Google search results.

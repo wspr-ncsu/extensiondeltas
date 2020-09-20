@@ -1,0 +1,5 @@
+Show more or less on Google Finance pages!
+
+The "Trends" section on Google Finance does not show stock symbols, rather than company names. It's not convenient at all. This extension will show that for you.
+
+This extension also can show less for you, such as hiding advertisements.

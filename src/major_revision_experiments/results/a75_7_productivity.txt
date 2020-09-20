@@ -1,0 +1,8 @@
+advisor toolbox for V4 of Post-interaction report 
+
+Current Features:
+Post-interaction report automator
+Invoice Generator
+Automatic generation of Rating-URL
+Unassign & Close
+Disable Intercom annoying shortcuts

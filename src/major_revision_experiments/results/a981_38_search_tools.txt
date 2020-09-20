@@ -1,0 +1,14 @@
+Right Click for Publix is the fastest and easiest way to view a product on Publix on Instacart. If you're browsing on another grocery website like Walmart, Kroger, Winn Dixie, Whole Foods, or any website that displays a product that Publix might sell, simply highlight the product name you want to view and right click to find that product at Publix.  It’s great for comparing prices or just saving you some typing and clicking.  
+
+***Features***
+- Highlight product names on any website
+- Right click to find that product at Publix/Prime Now and compare prices
+- Customize whether you'd like the product search to open in a new window
+
+***Your Data & Privacy***
+- Browse and search safely and securely:  We don't store any data about you including the pages you view or visit on our servers.  
+
+***This app is not affiliated with or officially endorsed by Publix or Instacart in any way ***
+
+***Support***
+Please email support at jowo.co or visit https://jowo.co/apps/forms/support/index.html

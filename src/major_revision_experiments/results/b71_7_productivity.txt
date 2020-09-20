@@ -1,0 +1,1 @@
+This chrome-extension reverses the target and base branch upon clicking on the pull request icon. Normally this icon is not clickable. For more info visit the homepage at: https://github.com/bitoiu/github-compare-branch-reverse

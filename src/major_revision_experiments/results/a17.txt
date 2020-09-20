@@ -1,0 +1,27 @@
+1. Save images with one click by using the alt + click hotkey (holding the alt key and clicking the image).
+
+2. Or save images by dragging them (drag the image slightly on any direction).
+
+3. Download every image on the page by using the extension button (green button on the top right).
+
+Note: The images are downloaded in the default directory for downloads of Chrome.
+
+Installation Note: After installing, Chrome doesn't add any extensions to the currently opened tabs (so, you have to reload the tabs that were opened before the extension was installed to work it to work on them).
+
+Featured on The Next Web, Lifehacker, ZDNet and Gizmodo as one of the best Chrome Extensions available on the webstore.
+
+http://thenextweb.com/apps/2014/08/20/27-best-chrome-extensions-check-today/6/
+
+http://www.gizmodo.co.uk/2014/12/pimp-the-web-with-the-best-chrome-browser-extensions/
+
+http://www.zdnet.com/pictures/best-google-chrome-extensions/5/
+
+https://www.lifehacker.com.au/2017/03/snag-all-the-images-from-a-website-with-one-click/
+
+What's up with the name?
+It's a portmanteu of image and gentleman...
+
+Disclaimer: Google provides the extension (through its Google Analytics tool) data for some basic stats. Specifically, it helps us know approximately how many people are using the extension and how many images are getting downloaded through it. No private data can (Google only provides anonymous data) or was/is being gathered (no urls, no personal information, etc).
+
+Other works
+http://imagentleman.github.io

@@ -1,0 +1,1 @@
+Displays the exact like and dislike counts for YouTube videos instead of roundoffs like 8K and 9M.

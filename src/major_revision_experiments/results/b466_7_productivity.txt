@@ -1,0 +1,12 @@
+This extension removes the annoying Facebook NewsFeed so you stop comparing yourself to others and concentrate on more important matters.
+
+Unlike other similar available extensions on Chrome Store this one doesn't clutter your newly removed NewsFeed with unnecessary buttons, quotes and pointless words of wisdom. Instead it leaves your current clean Facebook page with a plain blank screen. 
+However, you do have the choice to re-introduce certain parts/elements of the Facebook-page by going to the options page for the extension.
+
+I hope this helps you stop wasting life and time on that ridiculous feed, I know it helps me. Now go out and JUST DO IT like Shia Labeouf has said countless times! Spend that newly earned time on something useful! Ciao!
+
+Update v.1.5: Bug fixes
+Update v.1.55: Fixed the extension not removing news-feed upon reloading of the extension.
+
+Note:
+Bugs and questions can be directed to the comment-section of this extension, thanks!

@@ -1,0 +1,61 @@
+A Chrome extension to locate and highlight image search results in their original page. The highlight can be configured via the Options page (which can be accessed by clicking the eyes in the omnibar when you've searched for some images).
+
+It can also permanently revert Google's image search behaviour back to how it used to work with results displayed on multiple pages.
+
+Note: Finding the image in the page does not work 100% of the time. I hope to improve this in subsequent versions. Occasionally the shadow highlight can't be displayed or is only partially displayed. Unfortunately this is beyond my capability to fix!
+
+Version 0.100:
+- Only look for images in the next page after the search results (removes ? badge)
+
+Version 0.99:
+- Fix default options
+
+Version 0.98:
+- Added page dimming option
+- Finds more images
+- Fixed some bugs
+- Refactored and simplified code
+- Show ? badge if image is not found
+
+Version 0.97:
+- Made icon more obvious when active/inactive
+- Remove spurious debug message
+- Added link to website in options page
+
+Version 0.96:
+- Fixed icon filename bug (crashed extension when options page was opened)
+
+Version 0.95:
+- Now works when clicking the expanded image in the search results page
+
+Version 0.94:
+- Fixed highlight and scroll to image in visited page
+- Removed "google lightbox" option (no longer applicable)
+
+Version 0.93:
+- Fixed first time landing page
+
+Version 0.92:
+- Updated for latest version of Chrome (manifest 2).
+- Fixed the options page when first opened
+
+Version 0.81:
+- Added a new landing page.
+
+Version 0.6:
+- fixed a bunch of 'oogles' that were broken.
+
+Version 0.5:
+- new options page - click the icon in the omnibar (when you're in an image search page)
+- image can be highlighted in the page with a shadow
+- highlight and scroll with the new style search results as well as the old style
+
+Version 0.4:
+- Fixes a failure with unexpected url format (thanks Gary!).
+- Brings image into view on visit.
+
+Version 0.3:
+- Now also works when switching search 'types' from the left hand menu.
+
+Version 0.2:
+- Now closes the lightbox automatically without resorting to using google.fr.

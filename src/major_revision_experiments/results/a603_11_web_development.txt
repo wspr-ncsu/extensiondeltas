@@ -1,0 +1,16 @@
+An extension that formats JSON sent as plain text as a part of the request body inside <body> and <pre> DOM tags of a particular browser tab.
+
+Pros
+----------
+1. Free
+2. Secure : Runs only on your browser; doesn't share any info outside.
+3. Fast
+4. Easy to install & easy to use.
+
+Cons
+----------
+1. Inconsistent updates.
+2. Strict formatting.
+3. Design Issues.
+
+Install and enjoy hassle free JSON formatting!!

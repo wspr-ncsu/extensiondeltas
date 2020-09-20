@@ -1,0 +1,13 @@
+Want to embed a YouTube video with custom settings? Advanced Embedder for YouTube is an easy-to-use, comprehensive solution.
+
+Advanced Embedder provides <iframe> embed codes with an array of player options not offered by YouTube's embed tool (no API research or coding required!). It's as easy as browsing to a YouTube video, and opening the extension: with one click, you can get an embed code to paste into your html file or web forum. 
+
+Notable features include:
+- Wide variety of settings, including loop and autoplay
+- View a preview right in the extension window
+- Closed captions (subtitles) option with language choice
+- Player only (no visuals) option
+- Functionality as extension speeds up embed process compared to other online tools
+
+Advanced Embedder for YouTube is scientifically proven to lower stress levels! Try it today: always free, and no ads.
+Thank you to Yazmin Alanis from the Noun Project for the black and white pillow icon used in logo.

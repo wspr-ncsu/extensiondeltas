@@ -1,0 +1,9 @@
+- fixed gallery in User's Photos
+ - show user's photo by cliking on its icon
+ - nice text intending in the text of an entry
+ - sort tags alphabetically or by date on the create/edit entry page
+ - fixed menu symbols
+ - launcher button
+
+Feel free to send questions or suggestions.
+My profile: http://lang-8.com/holden

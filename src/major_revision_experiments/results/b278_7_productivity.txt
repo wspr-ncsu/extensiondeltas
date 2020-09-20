@@ -1,0 +1,9 @@
+An extension to poll each minute and show geographical details about your current IP.
+
+The extension icon will be the country flag where your IP is found to be located.
+
+The extension polls every minute in case your IP changes (e.g. you lose VPN connection).  The flag will update when this occurs (assuming the new IP is in another country)
+
+You will see details such as city, country code, region, zip, your ISP and Organization for the IP.
+
+An image on Google Maps showing the location of the IP will be displayed at the bottom.

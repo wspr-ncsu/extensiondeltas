@@ -1,0 +1,3 @@
+This app change link to audio files to audio player. Now you don't need to open file in new tab to listen it. You could listen it in current tab directly. Screenshots shows you how it looks like before and after. 
+
+Privacy policy: https://roistat.com/ru/privacy

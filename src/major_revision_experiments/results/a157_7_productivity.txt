@@ -1,0 +1,19 @@
+A new tab page replacement with sticky notes!
+Source: https://github.com/hieupham7127/corky
+
+LATEST UPDATE (0.4):
++ Deleting functionality
++ Fixed resizing bug
++ Save throttling
+
+Version 0.3:
++ Complete rewrite with Typescript
++ Resizing
+
+Version 0.2:
++ Updated the look of the note.
++ Actually packaged the font this time .__.
++ Press Esc to close an empty note.
+
+Version 0.1:
++ Basic functionality.

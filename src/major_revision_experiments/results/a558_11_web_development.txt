@@ -1,0 +1,1 @@
+Quickly decipher what that cryptic Windows error means!  Using System Error Code Lookup is really simple: enter the hex number in the field, and the extension converts the value to decimal--on the fly--and retrieves the corresponding error message.

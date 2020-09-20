@@ -1,0 +1,1 @@
+Enables the dark theme feature of the WhatsApp Web application. It offers an alternative to the eye-tiring light colored theme.

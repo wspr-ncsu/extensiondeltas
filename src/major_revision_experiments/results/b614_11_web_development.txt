@@ -1,0 +1,12 @@
+Edit cookies related to the current page and all its sub-frames right from a popup
+This extension offers a toolbar button to view and edit all the cookies that are related to the current page. Note that this extension also lists those cookies that are accessed by subframes located on the current page. Cookies are categorized into different sections based on their origins. 
+
+It is possible to edit different cookie properties right from the popup. Also, you can delete the selected cookie as well.
+
+
+Features:
+1. Import and export cookie to and from a JSON file
+2. View all cookies related to the current tab even sub-frames
+3. Open the cookie editor in a separate tab for lager view
+4. "Search Cookies by Domain" context menu over browser action button
+5. "Open Cookie Editor in new Tab" context menu over browser action button

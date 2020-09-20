@@ -1,0 +1,17 @@
+Light Markdown Editor is a live editor for typing Markdown with a live preview in Google Chrome.
+
+lightmd does not rely on a backend. It does not send the content to any external server.
+
+lightmd is designed to be lightweight, not feature rich, while still providing some flexibility as a scratchpad.
+
+Preview supports three styles, None (browser default rendering), Github (inspired), and a custom lightmd style (seen in screenshot).
+
+lightmd allows for export to .md, HTML, and printing directly from the preview frame (must hit the Print button, not Ctrl+P).
+
+The extension stores your content while you type in the browsers local storage. It has 4 "slots" which can be swapped between as you wish.
+
+NB! Wiping browser local storage will wipe the contents stored in these editors!
+
+lightmd uses a JavaScript library for converting Markdown to HTML (markdown-js), which has some limitations. It only supports basic Markdown and does not support inline HTML.
+
+lightmd is open source and available on GitHub: https://github.com/jorgenys/lightmd

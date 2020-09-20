@@ -1,0 +1,20 @@
+Adds 'Resolved' comment tracking to github pull requests.  If you mark a comment as resolved, the comment id (and only the id) is stored in a public database hosted on Parse.
+
+If all comments are not resolved, displays a warning next to the merge button.
+
+Repo available here: https://github.com/benbernard/CommentTracker - Issues / pulls / etc welcome
+
+CHANGES:
+  1.1.11 - Fix for more github changes
+  1.1.10 - Fix Display of unresolved comments collection
+  1.1.9 - Fixes for new github dom changes
+  1.1.8 - Fixes for unresolved comment list
+  1.1.7 - Various UI improvements from @alexbt a) Put unresolved comments at bottom of PR b) have status on #files tab c) tweaks to options page
+  1.1.6 - Change backend server
+  1.1.5 - Fix un-hiding unresolved comments with github codereview changes
+  1.1.4 - Fix tracking with github code-review changes
+  1.1.3 - Fix button display (new github changes)
+  1.1.2 - UI broken with github updated, fixed.
+  1.1.1 - Fix when also working with Wide Github extension
+  1.1 - Change styling of controls, Fix bug on applying when navigating from /pulls
+  1.0.1 - Make polling on PRs configurable

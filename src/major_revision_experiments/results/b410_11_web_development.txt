@@ -1,0 +1,1 @@
+App utilizado pelo Epicall para compartilhamento de tela.

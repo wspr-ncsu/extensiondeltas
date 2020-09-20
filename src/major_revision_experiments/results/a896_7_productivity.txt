@@ -1,0 +1,1 @@
+This extension will convert a table on a web page into spreadsheet. It will look through and find the HTML table (if one is available) row-by-row convert it into a CSV spreadsheet that programs like Excel can then open and view the data.

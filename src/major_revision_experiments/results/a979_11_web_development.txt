@@ -1,0 +1,3 @@
+This extension shows the securityheaders.io score for the current page. 
+
+Click the extension icon to fetch the score. You can then click the score to view the full report on our site.

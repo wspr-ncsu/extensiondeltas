@@ -1,0 +1,1 @@
+C-Speech for Chrome enables a better integration of the C-Speech application into Chrome-hosted web applications.

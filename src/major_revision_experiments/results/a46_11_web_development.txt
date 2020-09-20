@@ -1,0 +1,1 @@
+This extension duplicates the current tab and launches the TYPO3 CMS backend.

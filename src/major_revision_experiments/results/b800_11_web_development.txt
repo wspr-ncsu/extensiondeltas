@@ -1,0 +1,20 @@
+- Software automatically invites your friends to the group
+Note:
++ Every day you should only invite 300-400 people to the group, too many invite you will be locked features. Do not worry you will be unlocked after 24 hours.
+
+Using:
++ You enter the group, click the software icon in the corner. The software opens the middle of the screen.
++ You choose starters and finishers (from 1 to 300)
++ You choose the time between 1 second invites
+
+_________________________________________________________
+- Phần mềm tự động mời bạn bè của bạn vào nhóm
+Lưu ý: 
++ Mỗi ngày bạn nên chỉ mời từ 300-400 người vào nhóm, việc mời nhiều quá bạn sẽ bị khóa tính năng. Đừng lo bạn sẽ được mở khóa sau 24 giờ.
+
+Cách sử dụng: 
++ Bạn vào nhóm cần mời, bấm biểu tượng phần mềm ở góc. Phần mềm mở cửa sổ giữa màn hình.
++ Bạn chọn người bắt đầu và người kết thúc ( từ 1 đến 300 )
++ Bạn chọn thời gian giãn cách giữa các lần mời tầm 1 giây
+
+________________________________________________________

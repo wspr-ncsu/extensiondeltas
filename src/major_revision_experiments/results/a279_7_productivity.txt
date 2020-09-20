@@ -1,0 +1,11 @@
+It is difficult to believe what we find online. Even harder to make real-life decisions based on that information. Reasonal provides the information and context for you to make informed decisions based on what you read or watch online. 
+
+Reasonal AI provides additional markers for content and websites:
+
+ 1. Links and Websites that are consistently referenced on the web are marked as 🔵 Stable.
+ 2. Links and Websites that have their references removed occasionally on the web are marked as 🟡 Curved.
+ 3. Links and Websites that have their references removed regularly on the web are marked as 🟠 Winding.
+
+You can also contribute your knowledge to Reasonal platform by updating Reasonal entries for any link and add additional links and content to each entry.
+ 
+Currently, Reasonal Browser extension provides this information for Twitter, Facebook, and Google News with support for more websites coming soon.

@@ -1,0 +1,9 @@
+It enables easy integration with customised dApps and supports multiple accounts on various EOS networks.
+
+It is the go-to app for all EOS DPOS based solutions.
+
+Pulse can be used to transact all EOS based tokens. One can send, receive or stake EOS and its custom tokens from wallets and exchanges globally. One can easily contribute to the Pulse source code or can even create multiple extensions on top of it. The open repository even allows developers to create similar dApps such as Pulse. It features a Private mode which if enabled helps in protecting sensitive information from connected dApps .
+
+Pulse is a custody free solution which means Pulse keeps no records of your actions.
+
+Explore-Experiment-Excel

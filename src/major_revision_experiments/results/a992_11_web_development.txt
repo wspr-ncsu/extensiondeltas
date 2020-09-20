@@ -1,0 +1,5 @@
+IP 192.168.1.254 is a specific IP address assigned by some routers as the default IP address in the hardware settings of the devices. This IP address gives the user access to the router or the internal settings of the module.
+
+Known as 192.168.0.1, this particular IP address is used in most networks and small businesses because an ISP typically assigns a unique IP address to an appliance that is used to connect internally. If you need more than one connection to connect to the Internet, a NAT (Network Address Translation) gateway is used to connect to the Internet.
+
+192.168.1.254 Occasionally belongs to class C IP class. According to IANA RFC 1918 definitions.

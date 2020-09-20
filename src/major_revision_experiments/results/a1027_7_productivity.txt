@@ -1,0 +1,1 @@
+Right Click to lookup definition of selected word in a new Tab using Lexico. Lexico is powered by Oxford Dictionary

@@ -1,0 +1,3 @@
+This extension can be used to attach local files (for example PDF, HTML) to a new Gmail draft message. When a local PDF or HTML file is opened in Google Chrome and you click on the icon of this extension, it will open a new tab with gmail.com, compose window is shown and local file is added as attachment automatically. You just fill the "To" field and click on the send button!
+
+ATTENTION!!! After extension is installed, right click on its icon on the toolbar, select "Manage extensions" and turn on "Allow access to file URLs." Without doing this, extension will not work properly!

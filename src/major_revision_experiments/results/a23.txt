@@ -1,0 +1,3 @@
+Embedded Video player onto page without needing any page transitions. Supports commenting, rating and all YouTube pages! Once you try it you wont be able to use YouTube again without it!
+
+Now Compatible with YouTube's Material Update

@@ -1,0 +1,10 @@
+The nabtrade market monitor browser extension allows you to get quotes, monitor your watchlists and keep an eye on the markets while you're browsing the internet.
+ 
+You can search for, add and monitor up to 12 ASX symbols, including companies and indices. nabtrade's market monitor browser extension also includes price sensitive announcements on watched companies, including a link through to a PDF of the announcement (announcements are delayed by 20 minutes).
+ 
+The browser extension includes a default watchlist of symbols (NAB, BHP, ASX) and 3 indices:
+- All Ordinaries (displaying real time data)
+- DJIA (displaying end of day data)
+- FTSE 100 (displaying 20 minute delayed data)
+
+Please note all quotes display 20 minute delayed data.

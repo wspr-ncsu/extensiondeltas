@@ -1,0 +1,3 @@
+TR: Twitch yayinlarini cercevesiz modda izlemek icin kullanabilirsiniz.Pencereyi ekranin istediginiz yerinde konumlandirabilirsiniz.
+
+ENG: You can watch twitch streams in PictureInPicture mode, hovarable popup window anywhere in your screen.

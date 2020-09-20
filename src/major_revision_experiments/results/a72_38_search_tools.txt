@@ -1,0 +1,8 @@
+"Link Irani" is a website that helps Iranian internet users to determine if their Internet traffic is calculated at half price according to Iranian tariffs.
+Link Irani's extension also helps users to easily use the features of Link Irani's website.
+The ability of ranking websites that have half price traffic in Link Irani will be added in the future.
+
+Features:
+
+- Toolbar button to direct access linkirani.ir
+- Context menu item to open and verify a link on linkirani.ir

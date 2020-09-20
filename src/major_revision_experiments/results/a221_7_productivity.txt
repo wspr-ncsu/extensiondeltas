@@ -1,0 +1,15 @@
+A Scheduler made for students at University of Virginia that allows for creating academic schedules directly from Lou's List.
+
+- Use add buttons on the side to add classes to your schedule
+- Click the popup icon to turn on and off the extension and view your schedule
+- Use clear all button to empty your schedule
+
+Version 0.2
+- Updated CSS and Added functionality
+
+Version 0.3
+- Solved conflict classes layout issues
+- Updated CSS and Added functionality
+
+Version 0.4
+- Regular update

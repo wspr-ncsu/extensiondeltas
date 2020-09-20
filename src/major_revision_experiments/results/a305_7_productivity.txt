@@ -1,0 +1,26 @@
+A smart tool for Instagram, one click to export Instagram posts to csv.
+
+A chrome extension made for people who want to export likes from Instagram into csv. The exported data can be used for research or analysis purposes.
+
+This Instagram posts data scraper will take the Instagram posts and scrape all the related data publicly available on Instagram. Whether you're a technical marketer, growth-hacker or Instagram influencer, you can automate hugh chunks of your Instagram workflows with IGPostsExport. Export Instagram posts data to a .CSV spreadsheet and use it in Excel or to .JSON.
+
+How to export Instagram user post data?
+1. Enter a Instagram username
+2. Click the export button
+Export Instagram data. columns: media_id, date(GMT), timestamp, caption, hashtags, likes_count, comments_count, post_url, shortcode, thumbnail_url, image_url, video_url, is_video, location_name, location_id, location_url, user_id, username
+
+How to export Instagram hashtag post data?
+1. Enter a hashtag
+2. Click the export button
+Export Instagram data. columns: media_id, date(GMT), timestamp, caption, hashtags, likes_count, comments_count, post_url, shortcode, thumbnail_url, image_url, is_video, video_view_count, user_id
+
+How to export Instagram location post data?
+1. Enter a location id
+2. Click the export button
+Export Instagram data. columns: media_id, date(GMT), timestamp, caption, hashtags, likes_count, comments_count, post_url, shortcode, thumbnail_url, image_url, is_video, location_name, location_id, location_url, location_slug, location_lat, location_long, user_id
+
+Data Privacy
+All data is processed in your local computer, it is never passing through our web server, no one knows what you exported.
+
+FAQ
+https://igpostsexport.getwebooster.com

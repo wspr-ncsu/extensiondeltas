@@ -1,0 +1,14 @@
+With the Auto Purge Extension each time Chrome starts you can choose to Clear Browsing History, Clear Download History, Clear Cookies, Clear Cache, Clear Saved Passwords, and Clear Form Autofill Data.
+
+By clicking "Add to Chrome", I accept and agree to install Auto Purge extension and set the default search and New Tab to that provided by the service and to the Terms of Use and Privacy Policy”.
+
+If you want to make a suggestion for our next version or have comments please reach out to jeff@autopurge.org.  Thank you!
+
+You can find our privacy policy here:
+https://autopurge.org/privacy.php
+
+You can read through our terms here:
+https://autopurge.org/terms.php
+
+And you can read about our organization here:
+https://autopurge.org/about.php

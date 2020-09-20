@@ -1,0 +1,27 @@
+*Update* Spotify appear to have fully disabled the old player and there is no workaround that I know of currently. I'll update this plugin if a fix becomes available, but until then the new web player is the only option. Sorry, I did my best, but ultimately it is Spotify's decision.
+
+Please leave a support comment if you're aware of a new fix :)
+
+------
+
+Turns open.spotify.com into the play.spotify.com that you know and love, complete with features such as:
+* Radio
+* One-click playlist access
+* Fully featured search
+* And much more!
+
+Disable that new Spotify Web Player and get your music back!
+
+--
+
+How does it work?
+Changes your UserAgent so you look like you're using Internet Explorer 11, rather than Chrome. Essentially a more user-friendly implementation of the process described here: https://community.spotify.com/t5/Desktop-Linux-Windows-Web-Player/New-Spotify-Web-Player-Design-NEW-2017-DESIGN-FEEDBACK-IDEAS/m-p/1641377#M184605
+
+Does it change my UserAgent for any other websites?
+No. This will only changes your UserAgent on play.spotify.com and open.spotify.com. Will not change your requests to any other websites in any way. 
+
+--
+
+Works while it works, but Spotify may choose to turn off the old interface at any point. If that happens this extension will no longer work. 
+
+Not affiliated with Spotify AB.

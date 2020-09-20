@@ -1,0 +1,1 @@
+This extension provide two shortcut. Move tab left with 'Ctrl+Shift+H', Mov tab right with 'Ctrl+Shift+L'

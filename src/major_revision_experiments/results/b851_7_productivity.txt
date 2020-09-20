@@ -1,0 +1,9 @@
+New Tab Wallpaper extension enables you to add HD wallpapers for your new tab page.
+
+Please note that this add-on replaces the original new tab in your browser. If you want the original new tab page back in place, please remove/disable this add-on.
+
+It supports two different APIs (Bing and Unsplash) for fetching background image. Bing API only supports one high quality image per day. Unsplash API however, supports unlimited images per day. Every time you press on the reload button (top right corner in the new tab UI), a new image will be loaded. Moreover, you can add keywords to filter images (search results). There is also a footer toolbar which shows the date and time in the new tab page.
+
+Note: in order to open settings sidebar, please press on the settings icon on the top left corner in the new tab page UI.
+
+Note: in order to report bugs, or submit a feature request, please fill the bug report form in the add-on's homepage (https://mybrowseraddon.com/new-tab-wallpaper.html).

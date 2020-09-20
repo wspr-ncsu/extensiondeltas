@@ -1,0 +1,9 @@
+IMPORTANT: This extension only works when you are in the grades tab for your D2L class. Furthermore, any grade with a 0 will be considered as if the assignment has not been completed. 
+
+Update: Zeroes are now considered as uncompleted assignments.
+
+Broward college's D2L website is extensively used by many courses, online and offline. A glaring problem it has, however, it does not display your current grade in the class or how done with the class you are. This extension will solve both of those problems in a way where it won't be in your face. It will display a banner on the grades website with your current grade in the class as well as a more detailed breakdown in the extension's popup menu. It simply just works. 
+
+We are not liable or responsible for any damages that may occur from the use of the extension. It is possible that D2L could update their system and this extension will break.
+
+GitHub: https://github.com/saleguas/BC_GradeCalculator

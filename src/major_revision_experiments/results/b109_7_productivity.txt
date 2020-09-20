@@ -1,0 +1,5 @@
+How to use dng converter?
+
+Click extension icon, select dng raw image file and then click convert all button, you will get download link to get your jpg, png, gif... image file after conversion. You can convert files from google drive, dropbox, onedrive, url or from your computer.
+
+Happy Conversion :)

@@ -1,0 +1,18 @@
+Từ điển Tummo là add-on giúp bạn tra từ điển Anh-Việt, Việt-Anh tại bất cứ nơi đâu trên trình duyệt Chrome.
+
+* Từ điển Tummo có chức năng chính sau:
+
+- Tốc độ tra nhanh;
+- Giao diện đẹp;
+- Các từ điển mới sẽ liên tục được cập nhật;
+- Lượng từ điển mới sẽ được bổ sung liên tục;
+
+* Với Tummo Dictionary bạn có thể tra cứu các bộ từ điển sau:
+
+- Từ điển Anh Việt;
+- Từ điển Việt Anh;
+- Engligh Idioms;
+- Soule''s Dictionary of English Synonyms;
+- Moby Thesaurus II;
+- English Thesaurus;
+- WordNet 3.1.1;

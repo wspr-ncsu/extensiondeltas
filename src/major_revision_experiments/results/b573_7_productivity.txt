@@ -1,0 +1,9 @@
+Price will be in a green or red background depending on 24 hour % change.
+Click the extension icon to go to BCH info on CoinMarketCap.
+
+
+Tips appreciated:
+bitcoincash:qr45mx8hxcrnaa97lz28fv6w7pc9pwc4tyqdnaaje2
+
+Tip CryptoCompare for providing free price information:
+Bitcoin (BTC): 1DNigUiVNaMrzANuwC7KomBJHX8sdvnvkM (DO NOT SEND BCH)

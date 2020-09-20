@@ -1,0 +1,7 @@
+- Backup selected month browsing history to your Google Drive.
+
+- Automatically backup last month history in background once authorized.
+
+- Read saved history on Goolge Drive (UI from iBROWSE).
+
+- Only 1 PC backup every month. Use custom filename on other PCs. Sign out on unwanted PCs.

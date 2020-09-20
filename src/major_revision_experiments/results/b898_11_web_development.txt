@@ -1,0 +1,6 @@
+It is a tool to improve the homepage by using the results of a web search.
+Supported search engines Google Bing Yahoo
+
+If you have a site that you want to focus on, you can register it in advance so that you can click on it when it appears in the search results.
+
+The link to the "morphological analysis page" will be displayed at the place where it is displayed, so you can easily do the morphological analysis of the page.

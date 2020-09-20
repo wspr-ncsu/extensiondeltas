@@ -1,0 +1,2 @@
+Type 'cf' and enter search string to search confluence using chrome ominibox.
+This extension calls confluence quicknav rest service to display the suggestions.

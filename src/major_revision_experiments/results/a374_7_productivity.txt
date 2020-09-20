@@ -1,0 +1,1 @@
+LinkyPad simply replaces your LinkedIn feed with a notepad. The notepad is saved locally in your browser so that you can pick up where you left off.
