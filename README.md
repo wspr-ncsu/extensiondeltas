@@ -20,9 +20,9 @@ The code that was used, it is mainly in Python, with the exception of R (comment
 
 You can read more about the details of our work in the following research paper:
 
-https://github.com/wspr-ncsu/extensiondeltas/paper/extensionUpdateDeltas.pdf
-\\Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos
-\\InProceedings of the ACM Conference onComputer and Communications Security (CCS), 2020
+https://github.com/wspr-ncsu/extensiondeltas/paper/extensionUpdateDeltas.pdf<br/>
+Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos<br/>
+InProceedings of the ACM Conference onComputer and Communications Security (CCS), 2020
 
 ```
 Bib Citation
