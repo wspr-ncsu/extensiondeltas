@@ -144,7 +144,6 @@ def LCSubStr(X, Y):
 
 # def specialLCS(X , Y, hid1='None', hid2='None', nameBoth1='None', nameBoth2='None'):
 # # def specialLCS(X , Y, each1, each2):
-#     # connect("extensionsASTnpantel", host="hulk.csc.ncsu.edu", port=27077)
 #     # find the length of the strings 
 #     m = len(X) 
 #     n = len(Y) 

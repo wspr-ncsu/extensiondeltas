@@ -27,8 +27,7 @@ def main(argv):
 
 def enqueueByHid():
 	disconnect()
-	connect("analyzer", username="npantel", host="localhost", port=37017)
-	# connect("analyzer", username="npantel", host="hulk.csc.ncsu.edu", port=37017)
+	# CONNECT TO DATABASE
 
 	q = Queue(connection=Redis(REDIS_HOST, REDIS_PORT))
 	hidQueue = open("./uniqueAllHids.txt", 'r').readlines()

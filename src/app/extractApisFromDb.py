@@ -227,7 +227,6 @@ def countApi(nodeDir):
         for api in apiSeq:
             if api in apiList:
                 d[api] += 1
-    # connect("extensionsASTnpantel", host="hulk.csc.ncsu.edu", port=27077)
         for key in d:
             apiFreqs.append(d[key])
         dTable = mongo.apiFreqStorage(name = eachFile, apiFreqs = apiFreqs)

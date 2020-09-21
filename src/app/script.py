@@ -25,9 +25,7 @@ QUEUE_NAME = os.environ.get("QUEUE_NAME", "default")
 
 
 def main(argv):
-    # connect("extensionsASTnpantel", host="hulk.csc.ncsu.edu", port=27077)
-    disconnect()
-    connect("analyzer", host="hulk.csc.ncsu.edu", port=27077)
+    # CONNECT TO DATABASE
 
     # UNCOMMENT NEXT 4 LINES
     # connect("extensionsASTnpantel", username="npantel", host="localhost", port=37017)
