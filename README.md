@@ -25,5 +25,9 @@ Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos<br/>
 In Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
 
 ```
-Bib Citation
-```
+@conference{extdeltas-ccs20,
+  title = {{You've Changed: Detecting Malicious Browser Extensions through their Update Deltas}},
+  author = {Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos},
+  booktitle = {{In Proceedings of the ACM Conference on Computer and Communications Security (CCS)}},
+  year = {2020}
+}```
