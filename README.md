@@ -20,7 +20,7 @@ The code that was used, it is mainly in Python, with the exception of R (comment
 
 You can read more about the details of our work in the following research paper:
 
-You've Changed: Detecting Malicious Browser Extensions through their Update Deltas [PDF](https://github.com/wspr-ncsu/extensiondeltas/blob/master/paper/extensionUpdateDeltas.pdf)<br/>
+**You've Changed: Detecting Malicious Browser Extensions through their Update Deltas** [PDF](https://github.com/wspr-ncsu/extensiondeltas/blob/master/paper/extensionUpdateDeltas.pdf)<br/>
 Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos<br/>
 In Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
 
