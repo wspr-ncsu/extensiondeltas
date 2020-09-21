@@ -30,4 +30,5 @@ In Proceedings of the ACM Conference on Computer and Communications Security (CC
   author = {Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos},
   booktitle = {{In Proceedings of the ACM Conference on Computer and Communications Security (CCS)}},
   year = {2020}
-}```
+}
+```
